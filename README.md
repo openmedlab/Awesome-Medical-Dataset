@@ -208,7 +208,7 @@ SUN Colonoscopy Video (2D, Endoscopy, 158,690 Cases, 100 Categories)
 
 Colonoscopic (2D, Endoscopy, 152 Cases, 3 Categories)
 
-Sinus Surgery Endoscopic Image Datasets (2D 鼻腔镜, 9003 Cases, 1 Categories)
+Sinus Surgery Endoscopic Image Datasets (2D rhinoscopy, 9003 Cases, 1 Categories)
 
 ## Retina (13)
 
