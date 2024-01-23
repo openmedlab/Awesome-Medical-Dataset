@@ -26,7 +26,7 @@
 
 [iSeg](./resources/iSeg.md) (3D MRI, 13 Cases, 3 Categories)
 
-cSeg 2022 (3D MRI, 13 Cases, 3 Categories)
+[cSeg](./resources/cSeg2022.md) 2022 (3D MRI, 13 Cases, 3 Categories)
 
 CAS2023 (3D MRI, 100 Cases, 1 Categories)
 
@@ -114,7 +114,7 @@ SARS-COV-2 Ct-Scan (2D CT, 2482 Cases, 2 Categories)
 
 [FLARE 2023](./resources/FLARE2023.md) (3D CT, 4500 Cases, 14 Categories)
 
-FLARE 2022 (3D CT, 2300 Cases, 13 Categories)
+[FLARE 2022](./resources/FLARE2022.md) (3D CT, 2300 Cases, 13 Categories)
 
 FLARE 2021 (3D CT, 511 Cases, 4 Categories)
 
