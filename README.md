@@ -44,11 +44,11 @@
 
 [BraTS-TCGA-GBM](./resources/BraTS-TCGA-GBM.md) (3D MRI, 102 Cases, 3 Categories)
 
-MSD Hippocampus (3D MRI, 394 Cases, 2 Categories)
+[MSD Hippocampus](./resources/MSD_Hippocampus.md) (3D MRI, 394 Cases, 2 Categories)
 
-INSTANCE 2022 (3D CT, 200 Cases, 1 Categories)
+[INSTANCE 2022](./resources/INSTANCE_2022.md) (3D CT, 200 Cases, 1 Categories)
 
-ISLES22 (3D MRI, 400 Cases, 1 Categories)
+[ISLES22](./resources/ISLES22.md) (3D MRI, 400 Cases, 1 Categories)
 
 ATLAS v2.0 (ISLES 2022)(3D MRI, 1271 Cases, 1 Categories)
 
