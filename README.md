@@ -50,7 +50,7 @@
 
 [ISLES22](./resources/ISLES22.md) (3D MRI, 400 Cases, 1 Categories)
 
-ATLAS v2.0 (ISLES 2022)(3D MRI, 1271 Cases, 1 Categories)
+[ATLAS v2.0 (ISLES 2022)](./resources/ATLASv2.0.md)(3D MRI, 1271 Cases, 1 Categories)
 
 WMH (3D MRI, 170 Cases, 1 Categories)
 
