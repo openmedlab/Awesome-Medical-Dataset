@@ -17,8 +17,6 @@ In most previous medical image segmentation competitions, evaluation metrics onl
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures                                                         | Anatomical Area | Number of Categories | Data Volume                                                                  | File Format |
 |------------|----------|-----------|-------------------------------------------------------------------------------|---------------|----------------------|------------------------------------------------------------------------------|-------------|
 | 3D         | CT       | Segmentation | Kidney, Liver, Pancreas, Spleen, Stomach, Esophagus, Duodenum, Adrenal Gland. | Abdomen       | 13                   | 50 annotated, 2000 unannotated for training; 50 for validation; 200 for test | .nii.gz     |
