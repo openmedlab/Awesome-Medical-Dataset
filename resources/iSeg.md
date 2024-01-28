@@ -12,8 +12,6 @@ This part is introduction and summarization of the dataset.
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures         | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|----------|-----------|-------------------------------|-----------------|----------------------|-------------|-------------|
 | 3D         | MRI      | Segmentation | Cerebrospinal fluid, grey matter, white matter. | Brain           | 3                    | 23          | .nii.gz     |
