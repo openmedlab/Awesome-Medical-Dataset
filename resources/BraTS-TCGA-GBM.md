@@ -13,8 +13,6 @@ The BraTS-TCGA-GBM dataset provides preoperative MRI scan data for patients with
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures   | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|----------|-----------|-------------------------|-----------------|----------------------|-------------|-------------|
 | 3D         | MR       | Segmentation | Glioblastoma multiforme | Brain           | 3                    | 102         | .nii.gz     |
