@@ -52,23 +52,23 @@
 
 [ATLAS v2.0 (ISLES 2022)](./resources/ATLASv2.0.md)(3D MRI, 1271 Cases, 1 Categories)
 
-WMH (3D MRI, 170 Cases, 1 Categories)
+[WMH](./resources/WMH.md) (3D MRI, 170 Cases, 1 Categories)
 
-CrossMoDA 2023 (3D MRI, 983 Cases, 3 Categories)
+[CrossMoDA 2023](./resources/CrossMoDA2023.md) (3D MRI, 983 Cases, 3 Categories)
 
-ToothFairy (3D CBCT, 443 Cases, 1 Categories)
+[ToothFairy](./resources/ToothFairy.md) (3D CBCT, 443 Cases, 1 Categories)
 
-Teeth3DS (3D IOS, 1800 Cases, 32 Categories)
+[Teeth3DS](./resources/Teeth3DS.md) (3D IOS, 1800 Cases, 32 Categories)
 
-TN-SCUI2020 (2D Ultrasound, 4554 Cases, 1 Categories)
+[TN-SCUI2020](./resources/TN-SCUI2020.md) (2D Ultrasound, 4554 Cases, 1 Categories)
 
-Ultrasound Nerve Segmentation (2D Ultrasound, 11143 Cases, 1 Categories)
+[Ultrasound Nerve Segmentation](./resources/UNS.md) (2D Ultrasound, 11143 Cases, 1 Categories)
 
-DDTI (2D Ultrasound, 637 Cases, 1 Categories)
+[DDTI](./resources/DDTI.md) (2D Ultrasound, 637 Cases, 1 Categories)
 
-TG3K (2D Ultrasound, 3585 Cases, 1 Categories)
+[TG3K](./resources/TG3K.md) (2D Ultrasound, 3585 Cases, 1 Categories)
 
-TN3K (2D Ultrasound, 3494 Cases, 1 Categories)
+[TN3K](./resources/TN3K.md) (2D Ultrasound, 3494 Cases, 1 Categories)
 
 ## Chest (19)
 
