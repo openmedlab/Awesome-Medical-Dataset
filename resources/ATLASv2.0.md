@@ -11,8 +11,6 @@
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures         | Anatomical Area | Number of Categories | Data Volume                                                                        | File Format |
 |------------|--------|-----------|-------------------------------|-----------------|--------------------|------------------------------------------------------------------------------------|-------------|
 | 3D         | MR T1W	       | Segmentation | Stroke focus | Head            | 1                  | 655 for training, 300 for identity distribution test, 316 for generalization test. | .nii.gz     |
