@@ -13,8 +13,6 @@ Abdominal organs are common sites of cancer occurrence, such as colorectal and p
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures       | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|----------|-----------|-----------------------------|---------------|---------------------|-------------|-------------|
 | 3D         | CT       | Segmentation | Abdominal organs and Tumors | Abdomen       | 14                  | 4500        | .nii.gz     |
