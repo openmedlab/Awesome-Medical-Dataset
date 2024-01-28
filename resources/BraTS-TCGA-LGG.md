@@ -13,8 +13,6 @@ This dataset contains preoperative multi-institutional MRI scans from the TCGA l
 
 ## Dataset Meta Information
 
-You can write down meta information about the dataset, take TotalSegmentator for example, it could be:
-
 | Dimensions | Modality | Task Type | Anatomical Structures | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|----------|-----------|-----------------------|-----------------|----------------------|-------------|-------------|
 | 3D         | CT       | Segmentation | Low grade glioma      | Head            | 3                    | 65          | .nii.gz     |
