@@ -80,17 +80,17 @@
 
 [SEG.A.](./resources/SEG.A.md) (3D CTA, 56 Cases, 1 Categories)
 
-SegTHOR (3D CT, 60 Cases, 4 Categories)
+[SegTHOR](./resources/SegTHOR.md) (3D CT, 60 Cases, 4 Categories)
 
-FUMPE (3D CT, 35 Cases, 1 Categories)
+[FUMPE](./resources/FUMPE.md) (3D CT, 35 Cases, 1 Categories)
 
-TDSC-ABUS2023 (3D Ultrasound, 200 Cases, 1 Categories)
+[TDSC-ABUS2023](./resources/TDSC-ABUS2023.md) (3D Ultrasound, 200 Cases, 1 Categories)
 
-LNDb (3D CT, 294 Cases, 1 Categories)
+[LNDb](./resources/LNDb.md) (3D CT, 294 Cases, 1 Categories)
 
-LNQ 2023 (3D CT, 513 Cases, 1 Categories)
+[LNQ 2023](./resources/LNQ2023.md) (3D CT, 513 Cases, 1 Categories)
 
-MSD Lung Tumours (3D CT, 96 Cases, 1 Categories)
+[MSD Lung Tumours](./resources/MSD_Lung_Tumours.md) (3D CT, 96 Cases, 1 Categories)
 
 BUSI (3D Ultrasound, 780 Cases, 3 Categories)
 
