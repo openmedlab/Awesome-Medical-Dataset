@@ -92,7 +92,7 @@
 
 [MSD Lung Tumours](./resources/MSD_Lung_Tumours.md) (3D CT, 96 Cases, 1 Categories)
 
-BUSI (3D Ultrasound, 780 Cases, 3 Categories)
+[BUSI](./resources/BUSI.md) (3D Ultrasound, 780 Cases, 3 Categories)
 
 Breast Ultrasound Dataset B (2D Ultrasound, 163 Cases, 1 Categories)
 
