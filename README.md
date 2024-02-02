@@ -94,21 +94,21 @@
 
 [BUSI](./resources/BUSI.md) (3D Ultrasound, 780 Cases, 3 Categories)
 
-Breast Ultrasound Dataset B (2D Ultrasound, 163 Cases, 1 Categories)
+[Breast Ultrasound Dataset B](./resources/Breast_Ultrasound_DatasetB.md) (2D Ultrasound, 163 Cases, 1 Categories)
 
-胸部 X 线成像(肺炎) (2D X-ray, 5856 Cases, 2 Categories)
+[胸部 X 线成像(肺炎)/ Chest X-Ray Imaging_(Pneumonia)](./resources/ChestX-RayImaging_Pneumonia.md) (2D X-ray, 5856 Cases, 2 Categories)
 
-COVID-19 CHEST X-RAY DATABASE (2D X-ray, 3886 Cases, 3 Categories)
+[COVID-19 CHEST X-RAY DATABASE](./resources/COVID-19_CHEST_X-RAY_DATABASE.md) (2D X-ray, 3886 Cases, 3 Categories)
 
-Chest X-ray PD Dataset (2D X-Ray, 4575 Cases, 3 Categories)
+[Chest X-ray PD Dataset](./resources/ChestX-rayPDDataset.md) (2D X-Ray, 4575 Cases, 3 Categories)
 
-COVIDGR (2D X-Ray, 852 Cases, 2 Categories)
+[COVIDGR](./resources/COVIDGR.md) (2D X-Ray, 852 Cases, 2 Categories)
 
-COVID_CT_COVID-CT (2D CT, 746 Cases, 2 Categories)
+[COVID_CT_COVID-CT](./resources/COVID_CT_COVID-CT.md) (2D CT, 746 Cases, 2 Categories)
 
-Chest CT-Scan images (2D CT, 1000 Cases, 4 Categories)
+[Chest CT-Scan images](./resources/ChestCT-Scan_images.md) (2D CT, 1000 Cases, 4 Categories)
 
-SARS-COV-2 Ct-Scan (2D CT, 2482 Cases, 2 Categories)
+[SARS-COV-2 Ct-Scan](./resources/SARS-COV-2.md) (2D CT, 2482 Cases, 2 Categories)
 
 ## Abdomen (24)
 
