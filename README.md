@@ -120,21 +120,21 @@
 
 [AMOS 2022](./resources/AMOS.md) (3D CT&MRI, 600 Cases, 15 Categories)
 
-WORD (3D CT, 150 Cases, 16 Categories)
+[WORD](./resources/WORD.md) (3D CT, 150 Cases, 16 Categories)
 
-AbdomenCT-1K (3D CT, 1112 Cases, 4 Categories)
+[AbdomenCT-1K](./resources/AbdomenCT-1K.md) (3D CT, 1112 Cases, 4 Categories)
 
-BTCV (3D CT, 50 Cases, 13 Categories)
+[BTCV](./resources/BTCV.md) (3D CT, 50 Cases, 13 Categories)
 
-BTCV Cervix (3D CT, 50 Cases, 4 Categories)
+[BTCV Cervix](./resources/BTCV_Cervix.md) (3D CT, 50 Cases, 4 Categories)
 
-LiTS (3D CT, 201 Cases, 2 Categories)
+[LiTS](./resources/LiTS.md) (3D CT, 201 Cases, 2 Categories)
 
-KiTS23 (3D CT, 599 Cases, 3 Categories)
+[KiTS23](./resources/KiTS23.md) (3D CT, 599 Cases, 3 Categories)
 
-KiTS21 (3D CT, 400 Cases, 3 Categories)
+[KiTS21](./resources/KiTS21.md) (3D CT, 400 Cases, 3 Categories)
 
-KiTS19 (3D CT, 300 Cases, 2 Categories)
+[KiTS19](./resources/KiTS19.md) (3D CT, 300 Cases, 2 Categories)
 
 KiPA22 (3D CTA, 130 Cases, 4 Categories)
 
