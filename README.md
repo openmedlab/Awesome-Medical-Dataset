@@ -136,15 +136,15 @@
 
 [KiTS19](./resources/KiTS19.md) (3D CT, 300 Cases, 2 Categories)
 
-KiPA22 (3D CTA, 130 Cases, 4 Categories)
+[KiPA22](./resources/KiPA22.md) (3D CTA, 130 Cases, 4 Categories)
 
-CHAOS (3D CT&MRI, 40 Cases, 4 Categories)
+[CHAOS](./resources/CHAOS.md) (3D CT&MRI, 40 Cases, 4 Categories)
 
-SPPIN (3D MRI, 111 Cases, 1 Categories)
+[SPPIN](./resources/SPPIN.md) (3D MRI, 111 Cases, 1 Categories)
 
-ATLAS (MICCAI2023) (3D CE-MRI, 90 Cases, 2 Categories)
+[ATLAS (MICCAI2023)](./resources/ATLAS.md) (3D CE-MRI, 90 Cases, 2 Categories)
 
-3D-IRCADB (3D CT, 22 Cases, 40 Categories)
+[3D-IRCADB](./resources/3D-IRCADB.md) (3D CT, 22 Cases, 40 Categories)
 
 MSD Pancreas Tumour (3D CT, 420 Cases, 2 Categories)
 
