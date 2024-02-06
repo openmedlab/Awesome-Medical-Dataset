@@ -146,9 +146,9 @@
 
 [3D-IRCADB](./resources/3D-IRCADB.md) (3D CT, 22 Cases, 40 Categories)
 
-MSD Pancreas Tumour (3D CT, 420 Cases, 2 Categories)
+[MSD Pancreas Tumour](./resources/MSD_Pancreas_Tumour.md) (3D CT, 420 Cases, 2 Categories)
 
-MSD Hepatic Vessel (3D CT, 443 Cases, 2 Categories)
+[MSD Hepatic Vessel](./resources/MSD_Hepatic_Vessel.md) (3D CT, 443 Cases, 2 Categories)
 
 MSD Spleen (3D CT, 61 Cases, 1 Categories)
 
