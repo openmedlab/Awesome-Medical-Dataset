@@ -150,15 +150,15 @@
 
 [MSD Hepatic Vessel](./resources/MSD_Hepatic_Vessel.md) (3D CT, 443 Cases, 2 Categories)
 
-MSD Spleen (3D CT, 61 Cases, 1 Categories)
+[MSD Spleen](./resources/MSD_Spleen.md) (3D CT, 61 Cases, 1 Categories)
 
-MSD Colon Cancer (3D CT, 190 Cases, 1 Categories)
+[MSD Colon Cancer](./resources/MSD_Colon_Cancer.md) (3D CT, 190 Cases, 1 Categories)
 
-MSD Prostate (3D MR, 48 Cases, 2 Categories)
+[MSD Prostate](./resources/MSD_Prostate.md) (3D MR, 48 Cases, 2 Categories)
 
-PI-CAI (3D MR, 1500 Cases, 1 Categories)
+[PI-CAI](./resources/PI-CAI.md) (3D MR, 1500 Cases, 1 Categories)
 
-MOOD2023 (3D, CT&MR, 1300 Cases)
+[MOOD2023](./resources/MOOD2023.md) (3D, CT&MR, 1300 Cases)
 
 ## Heart (6)
 
