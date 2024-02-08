@@ -162,11 +162,11 @@
 
 ## Heart (6)
 
-LAScarQS 2022 (3D MRI, 194 Cases, 2 Categories)
+[LAScarQS 2022](./resources/LAScarQS_2022.md) (3D MRI, 194 Cases, 2 Categories)
 
-MyoPS 2020 (3D MRI, 45 Cases, 5 Categories)
+[MyoPS 2020](./resources/MyoPS_2020.md) (3D MRI, 45 Cases, 5 Categories)
 
-MM-WHS (3D CT/MRI, 120 Cases, 7 Categories)
+[MM-WHS](./resources/MM-WHS.md) (3D CT/MRI, 120 Cases, 7 Categories)
 
 ACDC (3D MRI, 150 Cases, 3 Categories)
 
