@@ -168,11 +168,11 @@
 
 [MM-WHS](./resources/MM-WHS.md) (3D CT/MRI, 120 Cases, 7 Categories)
 
-ACDC (3D MRI, 150 Cases, 3 Categories)
+[ACDC](./resources/ACDC.md) (3D MRI, 150 Cases, 3 Categories)
 
-MSD Cardiac (3D MRI, 30 Cases, 1 Categories)
+[MSD Cardiac](./resources/MSD_Cardiac.md) (3D MRI, 30 Cases, 1 Categories)
 
-CMRxMotion (3D MRI, 360 Cases, 3 Categories)
+[CMRxMotion](./resources/CMRxMotion.md) (3D MRI, 360 Cases, 3 Categories)
 
 ## Bones (4)
 
