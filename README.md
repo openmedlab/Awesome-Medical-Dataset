@@ -186,11 +186,11 @@
 
 ## Endoscopy (12)
 
-Kvasir-SEG (2D, Endoscopy, 1160 Cases, 1 Categories)
+[Kvasir-SEG](./resources/Kvasir-SEG.md) (2D, Endoscopy, 1160 Cases, 1 Categories)
 
-Kvasir-Capsule (2D, Endoscopy, 4741504 Cases, 14 Categories)
+[Kvasir-Capsule](./resources/Kvasir-Capsule.md) (2D, Endoscopy, 4741504 Cases, 14 Categories)
 
-CVC-ClinicDB (2D, Endoscopy, 612 Cases, 1 Categories)
+[CVC-ClinicDB](./resources/CVC-ClinicDB.md) (2D, Endoscopy, 612 Cases, 1 Categories)
 
 EndoMapper (2D, Endoscopy Video, 59 Cases)
 
