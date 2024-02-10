@@ -176,13 +176,13 @@
 
 ## Bones (4)
 
-VerSe (3D CT, 374 Cases, 26 Categories)
+[VerSe](./resources/VerSe.md) (3D CT, 374 Cases, 26 Categories)
 
-SPIDER (3D MR, 544 Cases, 19 Categories)
+[SPIDER](./resources/SPIDER.md) (3D MR, 544 Cases, 19 Categories)
 
-CTSpine1K (3D CT, 1005 Cases, 25 Categories)
+[CTSpine1K](./resources/CTSpine1K.md) (3D CT, 1005 Cases, 25 Categories)
 
-CTPelvic1K (3D CT, 1184 Cases, 4 Categories)
+[CTPelvic1K](./resources/CTPelvic1K.md) (3D CT, 1184 Cases, 4 Categories)
 
 ## Endoscopy (12)
 
