@@ -18,29 +18,7 @@ Fundus images, due to their similarity to natural images, have been used as a be
 | 2D         | Retinal Image | Classification | Eye                   | Eye       | 45                   | 1920 for training, 640 for validation, 640 for test | png         |
 
 
-### Resolution Details
-
-You can also write down the resolution details such as size (x, y, z) and spacing information about the dataset.
-
-For example:
-
-| Dataset Statistics | spacing (mm)     | size            |
-|--------------------|------------------|-----------------|
-| min                | (1.5, 1.5, 1.5)              | (10, 10, 5)     |
-| median             | (1.5, 1.5, 1.5)           | (256, 256, 100) |
-| max                | (1.5, 1.5, 1.5)              | (512, 512, 200) |
-
 ## Label Information Statistics
-
-This section is statistics results of label information.
-
-| Metric        | Tumor    |
-|---------------|----------|
-| Case Count    | 501      |
-| Coverage      | 49.4%    |
-| Min Volume (cm³) | 0.1    |
-| Median Volume (cm³) | 99 |
-| Max Volume (cm³) | 2480   |
 
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/RFMiD_1.webp"></a>

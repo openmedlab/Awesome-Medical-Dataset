@@ -26,13 +26,13 @@ The **STARE** (Structured Analysis of the Retina) dataset is a publicly availabl
 
 ## Label Information Statistics
 
-| Category            | Retinal Vessel (眼底血管) |
-|---------------------|--------------------------|
-| Number of Images    | 20                       |
-| Coverage Rate       | 100%                     |
-| Minimum Pixel Count | 364900                 |
-| Medium Pixel Count  | 660610                |
-| Maximum Pixel Count | 864860                |
+| Category            | Retinal Vessel |
+|---------------------|-----------------------|
+| Number of Images    | 20                    |
+| Coverage Rate       | 100%                  |
+| Minimum Pixel Count | 364900              |
+| Medium Pixel Count  | 660610             |
+| Maximum Pixel Count | 864860             |
 
 
 ## Visualization
