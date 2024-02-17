@@ -218,17 +218,17 @@
 
 [ODIR-5K](./resources/ODIR-5K.md) (2D retinal images, 5000 Cases, 8 Categories)
 
-RFMiD 2.0 (2D retinal images, 3200 Cases, 45 Categories)
+[RFMiD 2.0](./resources/RFMiD.md) (2D retinal images, 3200 Cases, 45 Categories)
 
-STARE (2D retinal images, 20 Cases, 1 Categories)
+[STARE](./resources/STARE.md) (2D retinal images, 20 Cases, 1 Categories)
 
-DRIVE (2D retinal images, 40 Cases, 1 Categories)
+[DRIVE](./resources/DRIVE.md) (2D retinal images, 40 Cases, 1 Categories)
 
-CHASE (2D retinal images, 28 Cases, 1 Categories)
+[CHASE](./resources/CHASE.md) (2D retinal images, 28 Cases, 1 Categories)
 
-HRF (2D retinal images, 45 Cases, 1 Categories)
+[HRF](./resources/HRF.md) (2D retinal images, 45 Cases, 1 Categories)
 
-IDRID (2D retinal images, 81 Cases, 5 Categories)
+[IDRID](./resources/IDRID.md) (2D retinal images, 81 Cases, 5 Categories)
 
 ORVS (2D retinal images, 49 Cases, 1 Categories)
 
