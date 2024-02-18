@@ -230,15 +230,15 @@
 
 [IDRID](./resources/IDRID.md) (2D retinal images, 81 Cases, 5 Categories)
 
-ORVS (2D retinal images, 49 Cases, 1 Categories)
+[ORVS](./resources/ORVS.md) (2D retinal images, 49 Cases, 1 Categories)
 
-LES-AV (2D retinal images, 22 Cases, 1 Categories)
+[LES-AV](./resources/LES-AV.md) (2D retinal images, 22 Cases, 1 Categories)
 
-PALM19 (2D retinal images, 1200 Cases, 1 Categories)
+[PALM19](./resources/PALM19.md) (2D retinal images, 1200 Cases, 1 Categories)
 
-RITE (2D retinal images, 40 Cases, 1 Categories)
+[RITE](./resources/RITE.md) (2D retinal images, 40 Cases, 1 Categories)
 
-视网膜图像质量评估 (2D retinal images, 216 Cases, 3 types of image quality evaluation)
+[Retinal image quality assessment dataset](./resources/Retinal_QA.md) (2D retinal images, 216 Cases, 3 types of image quality evaluation)
 
 OCTA-500 (2D OCT , 500 Cases, 1 Categories)
 
