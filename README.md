@@ -250,15 +250,15 @@
 
 ## Skin (5)
 
-ISIC 2017 (2D dermoscopic images, 2750 Cases, 1 Categories)
+[ISIC 2017](./resources/ISIC2017.md) (2D dermoscopic images, 2750 Cases, 1 Categories)
 
-ISIC 2020 (2D dermoscopic images，33126 Cases，2 Categories)
+[ISIC 2020](./resources/ISIC2020.md) (2D dermoscopic images，33126 Cases，2 Categories)
 
-MED-NODE (2D dermoscopic images, 170 Cases, 2 Categories)
+[MED-NODE](./resources/MED-NODE.md) (2D dermoscopic images, 170 Cases, 2 Categories)
 
-PED-UFES-20 (2D dermoscopic images, 2298 Cases, 6 Categories)
+[PED-UFES-20](./resources/PED-UFES-20.md) (2D dermoscopic images, 2298 Cases, 6 Categories)
 
-PH² (2D dermoscopic images, 200 Cases, 2 Categories)
+[PH²](./resources/PH2.md) (2D dermoscopic images, 200 Cases, 2 Categories)
 
 ## Microscopic imaging (10)
 
