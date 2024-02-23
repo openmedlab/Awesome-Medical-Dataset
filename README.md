@@ -262,15 +262,15 @@
 
 ## Microscopic imaging (10)
 
-NeurIPS 2022 Cell Seg (2D Microscopic imaging, 3022 Cases, 1 Categories)
+[NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md) (2D Microscopic imaging, 3022 Cases, 1 Categories)
 
-Malignant Lymphoma Classification (2D Pathological sections, 374 Cases, 3 Categories)
+[Malignant Lymphoma Classification](./resources/MalignantLymphomaClassification.md) (2D Pathological sections, 374 Cases, 3 Categories)
 
-BioMediTech (2D Cell imaging, 1862 Cases, 4 Categories)
+[BioMediTech](./resources/BioMediTech.md) (2D Cell imaging, 1862 Cases, 4 Categories)
 
-GlaS (2D Pathological Images, 165 Cases, 1 Categories)
+[GlaS](./resources/GlaS.md) (2D Pathological Images, 165 Cases, 1 Categories)
 
-LC25000 (2D Pathological Images, 25000 Cases, 5 Categories)
+[LC25000](./resources/LC25000.md) (2D Pathological Images, 25000 Cases, 5 Categories)
 
 CoNIC2022 (2D Pathological Images, 4981 Cases, 7 Categories)
 
