@@ -288,7 +288,7 @@
 
 [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) (2D dermoscopic images, 804 Cases, 6 Categories of Dermatology Classification)
 
-## Microscopic imaging (16)
+## Microscopic imaging (18)
 
 [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md) (2D Microscopic imaging, 3022 Cases, 1 Category)
 
@@ -310,17 +310,21 @@
 
 [CORN](./resources/CORN.md) (2D Microscopic imaging，1698 Cases, 1 Category of Corneal Nerve Segmentation)
 
-HuSHeM (2D Microscopic imaging, 216 Cases, 4 Categories of Sperm Classification)
+[HuSHeM](./resources/HuSHeM.md) (2D Microscopic imaging, 216 Cases, 4 Categories of Sperm Classification)
 
-Malaria Cell Images (2D Microscopic imaging, 27558 Cases, 2 Categories of Malaria Classification)
+[Malaria Cell Images](./resources/Malaria.md) (2D Microscopic imaging, 27558 Cases, 2 Categories of Malaria Classification)
 
-DigestPath2019 (2D Pathological imaging, 250 Cases, 1 Category of Digestive System Pathology Segmentation and Detection)
+[DigestPath2019](./resources/DigestPath2019.md) (2D Pathological imaging, 250 Cases, 1 Category of Digestive System Pathology Segmentation and Detection)
 
-ICIAR 2018 BACH Task1 (2D Histology imaging, 400 Cases, 4 Categories of Breast Cancer Classification)
+[ICIAR 2018 BACH Task1](./resources/ICIAR_2018_BACH_Task1.md) (2D Histology imaging, 400 Cases, 4 Categories of Breast Cancer Classification)
 
-ICIAR 2018 BACH Task2 (2D Histology imaging, 30 Cases, 3 Categories of Breast Cancer Segmentation)
+[ICIAR 2018 BACH Task2](./resources/ICIAR_2018_BACH_Task2.md) (2D Histology imaging, 30 Cases, 3 Categories of Breast Cancer Segmentation)
 
 Complete Blood Count (2D Blood Smear, 360 Cases, 3 Categories of Blood Cell Count)
+
+ANHIR (2D Pathological imaging, 481 Cases, Pathological image lung lobes and breast tissue registration)
+
+SICAPv2 前列腺病理分割数据集 (2D Pathological imaging, 18783 Cases, 4 Categories of Prostate Cancer Grade)
 
 # Multimodal medical dataset (4)
 
