@@ -332,11 +332,11 @@
 
 [SLAKE](./resources/SLAKE.md) (VQA, 14028  Cases QA Pair)
 
-PathVQA (VQA, 32799 Cases QA Pair)
+[PathVQA](./resources/PathVQA.md) (VQA, 32799 Cases QA Pair)
 
-ROCOV2 (caption, 80080  Cases image-caption Pair)
+[ROCOV2](./resources/ROCOV2.md) (caption, 80080  Cases image-caption Pair)
 
-ImageClef-2019-VQA-Med (VQA, 15292  Cases QA Pair)
+[ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) (VQA, 15292  Cases QA Pair)
 
 RP3D-Caption (caption, 69523 Cases image-caption Pair)
 
