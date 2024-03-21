@@ -13,9 +13,9 @@ The SLAKE dataset was initially released by PolyU at ISBI 2021. With the rapid d
 
 ## Dataset Meta Information
 
-| Dataset | Type        | Train | Val  | Test | File Format        | Size  |
-|---------|-------------|-------|------|------|--------------------|-------|
-| VQA     | Medical, Chinese | 9834  | 2098 | 2094 | .txt, .json, .png, .jpg | 203M  |
+| Task Type | Language         | Train | Val  | Test | File Format        | Size  |
+|-----------|------------------|-------|------|------|--------------------|-------|
+| VQA       | English, Chinese | 9834  | 2098 | 2094 | .txt, .json, .png, .jpg | 203M  |
 
 Note: train/val/test counts the data volume of QA pairs
 

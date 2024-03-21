@@ -15,9 +15,9 @@ Despite the careful selection and detailed design, the dataset is limited in siz
 
 ## Dataset Meta Information
 
-| Dataset  | Type | Train | Test | File Format        | Size  |
-|----------|------|-------|------|--------------------|-------|
-| VQA      | Medical | 3064  | 451  | .jpg, .json, .xml | 40MB  |
+| Task Type | Language | Train | Test | File Format        | Size  |
+|-----------|----------|-------|------|--------------------|-------|
+| VQA       | English  | 3064  | 451  | .jpg, .json, .xml | 40MB  |
 
 
 ## Dataset Information Statistics
