@@ -342,8 +342,8 @@
 
 [Montgomery County CXR Set](./resources/MontgomeryCounty.md) (2D X-Ray, 138例, 2 Categories of CXR Image Abnormality Diagnosis)
 
-PMC-OA (VQA, 1.6M QA Pair)
+[PMC-OA](./resources/PMC-OA.md) (VQA, 1.6M QA Pair)
 
-MMMU Health&Medicine (VQA, 1752 Cases QA Pair)
+[MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md) (VQA, 1752 Cases QA Pair)
 
 MedICaT (VQA, 217060 Cases QA Pair)
