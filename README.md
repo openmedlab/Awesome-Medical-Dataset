@@ -326,7 +326,7 @@
 
 [SICAPv2](./resources/SICAPv2.md) Prostate Pathology Segmentation Dataset (2D Pathological imaging, 18783 Cases, 4 Categories of Prostate Cancer Grade)
 
-# Multimodal medical dataset (4)
+# Image text dataset (10)
 
 [VQA-RAD](./resources/VQA-RAD.md) (VQA, 3515  Cases QA Pair)
 
@@ -346,4 +346,32 @@
 
 [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md) (VQA, 1752 Cases QA Pair)
 
-MedICaT (VQA, 217060 Cases QA Pair)
+[MedICaT](./resources/MedICaT.md) (VQA, 217060 Cases QA Pair)
+
+# Text dataset (13)
+
+[MedQA](./resources/MedQA.md) (QA, 61,097 Cases QA Pair)
+
+MedMCQA (QA, 193,155 Cases QA Pair)
+
+PubMedQA (QA, 1000 Cases Expert annotation QA Pair)
+
+HealthSearchQA (QA, 3173 Cases QA Pair)
+
+webMedQA (QA, 63,284 Cases QA Pair)
+
+LiveQA (QA, 634例 QA Pair)
+
+CMExam (QA, 68K Cases QA Pair)
+
+CMB (QA, 270K Cases QA Pair)
+
+MedDialog-CN (QA, 1.1M Cases QA Pair)
+
+Chinese Medical Dialogue Dataset (QA, 792K Cases QA Pair)
+
+cMedQA v2.0 (QA, 108K Cases QA Pair)
+
+Huatuo-26M (QA, 26M Cases QA Pair)
+
+ShenNong-TCM-Dataset/EB (QA, 113K Cases QA Pair)
