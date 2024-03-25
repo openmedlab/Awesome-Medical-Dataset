@@ -352,11 +352,11 @@
 
 [MedQA](./resources/MedQA.md) (QA, 61,097 Cases QA Pair)
 
-MedMCQA (QA, 193,155 Cases QA Pair)
+[MedMCQA](./resources/MedMCQA.md) (QA, 193,155 Cases QA Pair)
 
-PubMedQA (QA, 1000 Cases Expert annotation QA Pair)
+[PubMedQA](./resources/PubMedQA.md) (QA, 1000 Cases Expert annotation QA Pair)
 
-HealthSearchQA (QA, 3173 Cases QA Pair)
+[HealthSearchQA](./resources/HealthSearchQA.md) (QA, 3173 Cases QA Pair)
 
 webMedQA (QA, 63,284 Cases QA Pair)
 
