@@ -364,11 +364,11 @@
 
 [CMExam](./resources/CMExam.md) (QA, 68K Cases QA Pair)
 
-CMB (QA, 270K Cases QA Pair)
+[CMB](./resources/CMB.md) (QA, 270K Cases QA Pair)
 
-MedDialog-CN (QA, 1.1M Cases QA Pair)
+[MedDialog-CN](./resources/MedDialog-CN.md) (QA, 1.1M Cases QA Pair)
 
-Chinese Medical Dialogue Dataset (QA, 792K Cases QA Pair)
+[Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) (QA, 792K Cases QA Pair)
 
 cMedQA v2.0 (QA, 108K Cases QA Pair)
 
