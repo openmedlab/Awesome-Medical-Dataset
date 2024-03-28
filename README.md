@@ -370,8 +370,8 @@
 
 [Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) (QA, 792K Cases QA Pair)
 
-cMedQA v2.0 (QA, 108K Cases QA Pair)
+[cMedQA](./resources/cMedQA.md) v2.0 (QA, 108K Cases QA Pair)
 
-Huatuo-26M (QA, 26M Cases QA Pair)
+[Huatuo-26M](./resources/Huatuo-26M.md) (QA, 26M Cases QA Pair)
 
-ShenNong-TCM-Dataset/EB (QA, 113K Cases QA Pair)
+[ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md) (QA, 113K Cases QA Pair)
