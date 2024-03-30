@@ -22,10 +22,15 @@ The introduction of the CMExam dataset sets a good precedent. For the academic c
 
 In addition to questions, options, and answers, there are five metadata fields: disease groups, clinical departments, medical disciplines, medical competencies, and difficulty levels. The difficulty level is divided into five levels based on human performance, while the other four are classifications from various sources, ranging from 4 to 36 categories.
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/CMExam_1.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+| Annotation Content | References                                                        | Unique values |
+|--------------------|-------------------------------------------------------------------|---------------|
+| Disease Groups     | The 11th revision of ICD-11                                       | 27            |
+| Clinical Departments| The Directory of Medical Institution Diagnostic and Therapeutic Categories (DMIDTC) | 36 |
+| Medical Disciplines| List of Graduate Education Disciplinary Majors (2022)             | 7             |
+| Medical Competencies | Medical Professionals                                            | 4             |
+| Difficulty Level   | Human Performance                                                 | 5             |
+
+Table 2: Additional annotations of CMExam.
 
 The statistical proportions of specific categories are as follows:
 

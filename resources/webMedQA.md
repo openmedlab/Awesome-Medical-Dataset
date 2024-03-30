@@ -21,17 +21,39 @@ The webMedQA dataset is characterized by its scale and diversity; it contains a 
 
 ## Dataset Information Statistics
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/webMedQA_1.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+Table 2: The statistics of answers and questions in webMedQA:
+
+|                     | Train   | Dev    | Test   |
+|---------------------|---------|--------|--------|
+| Number of Ans.      | 253050  | 31685  | 31685  |
+| Avg. Length of Ans. | 146.88  | 147.74 | 148.50 |
+| Max Length of Ans.  | 500     | 499    | 499    |
+| Min Length of Ans.  | 2       | 2      | 2      |
+| Number of Ques.     | 50610   | 6337   | 6337   |
+| Avg. Length of Ques.| 86.68   | 87.43  | 86.08  |
+| Max Length of Ques. | 1312    | 1302   | 1150   |
+| Min Length of Ques. | 2       | 3      | 5      |
+
+
 
 Statistics on the length of questions and answers on the webMedQA data set show that the longest question is 1312 tokens, with an average of around 86 tokens; the longest answer is 500 tokens, with an average of around 146 tokens.
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/webMedQA_2.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+Table 3: The frequency distribution over the categories.
+
+|                     |    |                      |           |
+|---------------------|---------|----------------------|-----------|
+| Internal Medicine  | 18327 | Cosmetology          | 775       |
+| Surgery            | 13511 | Drugs                | 529       |
+| Gynecology         | 8691  | Health Care          | 439       |
+| Pediatrics         | 5312  | Assistant Inspection | 430       |
+| Dermatology        | 4969  | Rehabilitation       | 276       |
+| Ophthalmology & Otolaryngology   | 3983  | Home Environment & Child Education  | 253 & 247 |
+| Oncology           | 2118  | Nutrition and Health | 172       |
+| Mental Health      | 1536  | Slimming             | 169       |
+| Chinese Medicine   | 1452  | Genetics             | 86        |
+| Infectious Diseases| 1360  | Medical Examination  | 64        |
+| Plastic Surgery    | 1211  | Others               | 31        |
+
 
 Regarding the types of questions covered, the most were Internal Medicine and Surgery, and the least were Medical Examination and Others.
 

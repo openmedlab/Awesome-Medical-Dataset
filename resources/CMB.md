@@ -26,10 +26,19 @@ The Comprehensive Medical Benchmark in Chinese (CMB) was launched in 2023 by a r
 
 CMB-Clin only includes 74 cases, so there isn't much statistical analysis available; the main statistical analysis for CMB-Exam focuses on the types of questions, as shown in the pie chart above. More specific numerical results can be seen in the table below.
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/CMB_2.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+We referenced the National Standard Subject Classification of the People’s Republic of China, see https://xkb.pku.edu.cn/docs/2018-10/20220328083301969071.pdf.
+
+| Category           | Subcategory                                                                                                                                                                                                                                                            | # Subject | # Questions |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|
+| Physician (医师)   | Resident Physician (住院医师); Licensed Assistant Physician (助理医师);  Licensed Physician (执业医师); Associate Professional Physician (中级职称);  Advanced Professional Physicians (高级职称)                                                                                          | 81        | 124,926     |
+| Nurse (护理)       | Practicing Nurse (护士); Licensed Practical Nurse (执业护士); Charge Nurse (主管护士); Advanced Practice Nurse (高级执业护士)                                                                                                                                                                                          | 8         | 16,919      |
+| Technicians (医技) | Medical Technician (医技士); Medical Technologist (医技师); Supervising Technologist (主管技师)                                                                                                                                                                                  | 21        | 27,004      |
+| Pharmacist (药师)  | Licensed Pharmacist (执业药师); Licensed TCM Pharmacist (执业中药师); Junior Pharmacist (初级职称药师); Junior Pharmacist Assistant (初级职称药师助理); Junior TCM Pharmacist (初级职称中药师); Junior TCM Pharmacist Assistant (初级职称中药师助理); Chief Pharmacists (主管药师); Chief TCM Pharmacists (主管中药师) | 8         | 33,354      |
+| Undergraduate Disciplines (本科学科) | Fundamental Medicine (基础医学); Clinical Medicine (临床医学); Traditional Chinese (TCM) and Chinese Herbal Medicine (中医学与中药学);  Preventive Medicine and Public Health (预防医学与公共卫生)                                                                                             | 53        | 62,271      |
+| Graduate Entrance Exam (研究生) | Integrated Western Medicine (西医综合); Integrated TCM (中医综合); Political Science (政治); Nursing (护理学)                                                                                                                                                                       | 5         | 16,365      |
+| **Total**          | 28                                                                                                                                                                                                                                                                     | **176**   | **280,839** |
+
+Table 1: Statistics of the CMB-Exam Categories, Subcategories, Subjects, and Questions.
 
 Overall, in the CMB-Exam dataset, the overwhelming majority of questions are physician QA questions, followed by subject exam questions, with test questions and nursing questions being the least common. This distribution is closely related to the popularity and demand for different types of questions in the real world.
 

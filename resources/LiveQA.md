@@ -43,6 +43,35 @@ Automated medical question-answering systems have improved the quality and effic
 </div>
 <p style="text-align:center;font-size:10px;"><em>Official Visualization.</em></p>
 
+Its text information is below: 
+
+```xml
+<NLM-QUESTION questionid="Q10" fRef="1-135752923">
+  <SUBJECT/>
+  <MESSAGE>
+    Would appreciate any good info on Lewy Body Dementia, we need to get people aware of this dreadful disease, all they talk about is alzheimers.
+    Thank you
+  </MESSAGE>
+  <SUB-QUESTIONS>
+    <SUB-QUESTION subqid="Q10-S1">
+      <ANNOTATIONS>
+        <FOCUS>lewy body dementia</FOCUS>
+        <TYPE>information</TYPE>
+      </ANNOTATIONS>
+      <ANSWERS>
+        <ANSWER answerid="Q10-S1-Al" pairid="17">
+          Summary Lewy body disease is one of the most common causes of dementia in the elderly. Dementia is the loss of mental functions severe enough to affect normal activities and relationships. Lewy body disease happens when abnormal structures, called Lewy bodies, build up in areas of the brain. The disease may cause a wide range of symptoms, including - Changes in alertness and attention - Hallucinations - Problems with movement and posture - Muscle stiffness - Confusion - Loss of memory Lewy body disease can be hard to diagnose, because Parkinson's disease and Alzheimer's disease cause similar symptoms. Scientists think that Lewy body disease might be related to these diseases, or that they sometimes happen together. Lewy body disease usually begins between the ages of 50 and 85. The disease gets worse over time. There is no cure. Treatment focuses on drugs to help symptoms. NIH: National Institute of Neurological Disorders and Stroke
+        </ANSWER>
+        <ANSWER answerid="Q10-S1-A2" pairid="18">
+          Lewy body dementia is one of the most common forms of progressive dementia. People affected by this condition may experience a variety of symptoms such as changes in alertness and attention; hallucinations; problems with movement and posture; muscle stiffness; confusion; and/or memory loss. Although the exact cause of Lewy body dementia is poorly understood, symptoms are thought to result when clumps of a protein called alpha-synuclein ("Lewy bodies") accumulate in the brain. Lewy body dementia usually occurs sporadically in people with no family history of the condition. Rarely, more than one family member may be affected. There is currently no cure for Lewy body dementia; however, medications may be available to help manage the associated symptoms.
+        </ANSWER>
+      </ANSWERS>
+    </SUB-QUESTION>
+  </SUB-QUESTIONS>
+</NLM-QUESTION>
+
+```
+
 ``` 
 <NLM-QUESTION questionid="Q1" fRef="11373">
 	<SUBJECT></SUBJECT>

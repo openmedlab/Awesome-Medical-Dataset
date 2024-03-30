@@ -47,6 +47,22 @@ The uniqueness of PubMedQA lies in its deep mining of PubMed data sources. Appro
 </div>
 <p style="text-align:center;font-size:10px;"><em></em></p>
 
+| Question Type                        | %    | Example Questions |
+|--------------------------------------|------|-------------------|
+| Does a factor influence the output?  | 36.5 | Does reducing spasticity translate into functional benefit? Does ibuprofen increase perioperative blood loss during hip arthroplasty? |
+| Is a therapy good/necessary?         | 26.0 | Should circumcision be performed in childhood? Is external palliative radiotherapy for gallbladder carcinoma effective? |
+| Is a statement true?                 | 18.0 | Sternal fracture in growing children: A rare and often overlooked fracture? Xanthogranulomatous cholecystitis: a premalignant condition? |
+| Is a factor related to the output?   | 18.0 | Can PRISM predict length of PICU stay? Is trabecular bone related to primary stability of miniscrews? |
+| Reasoning Type                       | %    | Example Snippet in Context |
+| Inter-group comparison               | 57.5 | Postoperative AF was significantly lower in the Statin group compared with the Non-statin group (16% versus 33%, p=0.005). |
+| Interpreting subgroup statistics     | 16.5 | 57% of patients were of lower socioeconomic status and they had more health problems, less functioning, and more symptoms |
+| Interpreting (single) group statistics | 16.0 | A total of 4 children aged 5-14 years with a sternal fracture were treated in 2 years, 2 children were hospitalized for pain management and... |
+| Text Interpretations of Numbers      | %    | Example Snippet in Context |
+| Existing interpretations of numbers  | 75.5 | Postoperative AF was significantly lower in the Statin group compared with the Non-statin group (16% versus 33%, p=0.005). |
+| No interpretations (numbers only)    | 21.0 | 30-day mortality was 12.4% in those aged<70 years and 22% in those>70 years (p<0.001). |
+| No numbers (texts only)              | 3.5  | The halofantrine therapeutic dose group showed loss and distortion of inner hair cells and inner phalangeal cells |
+
+
 ## Dataset Example
 
 <div align="center">

@@ -22,10 +22,15 @@ The development and application of the cMedQA v2.0 dataset are of significant im
 
 ## Dataset Information Statistics
 
-<div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/cMedQA_1.webp"></a>
-</div>
-<p style="text-align:center;font-size:10px;"><em></em></p>
+|               | #Question | #Answer | Ave. #Character Per Question | Ave. #Character Per Answer |
+|---------------|-----------|---------|------------------------------|----------------------------|
+| Training      | 100,000   | 188,490 | 48                           | 101                        |
+| Development   | 4,000     | 7,527   | 49                           | 101                        |
+| Test          | 4,000     | 7,552   | 49                           | 100                        |
+| Total         | 108,000   | 203,569 | 49                           | 101                        |
+
+Table 1: The statistics of cMedQA v2.0 dataset. Ave: abbreviation for average."#" denotes "the number of".
+
 
 ## Dataset Example
 
