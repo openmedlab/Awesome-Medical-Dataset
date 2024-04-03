@@ -340,9 +340,13 @@
 
 [SICAPv2](./resources/SICAPv2.md) Prostate Pathology Segmentation Dataset (2D Pathological imaging, 18783 Cases, 4 Categories of Prostate Cancer Grade)
 
-[ICPR-HEp-2](./resources/ICPR-HEp-2.md) (2D Cell Fluorescence Microscopy images, 14K, 6 Categories of Cell Classification)
+[ICPR-HEp-2](./resources/ICPR-HEp-2.md) (2D Cell Fluorescence Microscopy imaging, 14K, 6 Categories of Cell Classification)
 
-Bone Marrow Cytomorphology (2D 病理图像, 171,375 例, 21类骨髓细胞形态学分类)
+[Bone Marrow Cytomorphology](./resources/BoneMarrowCytomorphology.md) (2D Pathological imaging, 171,375 Cases, 21 Categories of Bone Marrow Cell Morphological Classification)
+
+[PatchCamelyon](./resources/PatchCamelyon.md) (2D Pathological imaging, 327,680 Cases, 2 Categories of Breast Cancer Metastasis Classification)
+
+[Leukemia](./resources/Leukemia.md) (2D Microscopic imaging, 1867 Cases, 2 Categories of Leukemia Cell Classification)
 
 # Image text dataset (10)
 
