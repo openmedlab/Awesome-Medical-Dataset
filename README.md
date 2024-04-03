@@ -302,7 +302,7 @@
 
 [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) (2D dermoscopic images, 804 Cases, 6 Categories of Dermatology Classification)
 
-## Microscopic imaging (18)
+## Microscopic imaging (22)
 
 [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md) (2D Microscopic imaging, 3022 Cases, 1 Category)
 
@@ -348,7 +348,7 @@
 
 [Leukemia](./resources/Leukemia.md) (2D Microscopic imaging, 1867 Cases, 2 Categories of Leukemia Cell Classification)
 
-# Image text dataset (10)
+# Image text dataset (12)
 
 [VQA-RAD](./resources/VQA-RAD.md) (VQA, 3515  Cases QA Pair)
 
@@ -369,6 +369,11 @@
 [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md) (VQA, 1752 Cases QA Pair)
 
 [MedICaT](./resources/MedICaT.md) (VQA, 217060 Cases QA Pair)
+
+[CT-RATE](./resources/CT-RATE.md) chest CT and its radiology diagnostic report data set (Caption, 47149 Cases)
+
+[Quilt-1M](./resources/Quilt-1M.md) Visual-Language Histopathology Dataset (Caption, 768826 Cases)
+
 
 # Text dataset (13)
 
