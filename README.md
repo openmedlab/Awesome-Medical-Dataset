@@ -204,7 +204,7 @@
 
 [CTPelvic1K](./resources/CTPelvic1K.md) (3D CT, 1184 Cases, 4 Categories)
 
-## Endoscopy (17)
+## Endoscopy (19)
 
 [Kvasir-SEG](./resources/Kvasir-SEG.md) (2D, Endoscopy, 1160 Cases, 1 Category)
 
