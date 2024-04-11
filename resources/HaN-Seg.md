@@ -102,7 +102,7 @@ Download Link: https://zenodo.org/record/7442914#.ZBtfBHbMJaQ
 
 Article Address: https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.16197
 
-Publication Date: March 8th, 2017
+Publication Date: January 3rd, 2023
 
 ## Citation
 
