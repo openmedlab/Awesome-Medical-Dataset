@@ -104,9 +104,9 @@ Official Website: https://feta.grand-challenge.org/
 
 Download Link: https://feta.grand-challenge.org/data-download/
 
-Article Address: https://arxiv.org/ftp/arxiv/papers/2010/2010.15526.pdf, https://www.nature.com/articles/s41597-021-00946-3#citeas
+Article Address: https://arxiv.org/ftp/arxiv/papers/2010/2010.15526.pdf, https://www.nature.com/articles/s41597-021-00946-3
 
-Publication Date: June, 2022.
+Publication Date: 2021.
 
 ## Citation
 
