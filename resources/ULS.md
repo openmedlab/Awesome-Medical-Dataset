@@ -19,7 +19,7 @@ To address this need, the development of a Universal Lesion Segmentation (ULS) m
 
 | Dimensions | Modality | Task Type | Anatomical Structures | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|---------|-----------|-----------------------|-----------------|-----------------|---------|-------------|
-| 3D         | CT, PET       | Segmentation | Tumor                 | Whole Body       | 1               | 1014 for training, 200 for test     | .nii.gz     |
+| 3D         | CT       | Segmentation | Tumor                 | Whole Body       | 1               | 1014 for training, 200 for test     | .nii.gz     |
 
 
 ## Resolution Details
