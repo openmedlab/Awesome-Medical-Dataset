@@ -1,18 +1,42 @@
-# Medical Image Datasets
+# Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Whole Body (5)
+🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
-[TotalSegmentator](./resources/TotalSegmentator.md) (3D CT, 1204 Cases, 104 Categories)
+## Table of Content
 
-[TotalSegmentator v2](./resources/TotalSegmentator_v2.md) (3D CT, 1228 Cases, 117 Categories)
+---
 
-[CT-ORG](./resources/CT-ORG.md) (3D CT, 140 Cases, 6 Categories)
+:book: **Contents**
 
-[AutoPET](./resources/Auto-PET.md) (3D PET-CT, 1214 Cases, 1 Category)
+- [Imaging](#Imaging)
+  - [Whole Body (5)](#whole-body)
+  - [Head and Neck (30)](#head-and-neck)
+  - [Chest (24)](#chest)
+  - [Abdomen (27)](#abdomen)
+  - [Heart (6)](#heart)
+  - [Bones (4)](#bones)
+  - [Endoscopy (19)](#endoscopy)
+  - [Retina (22)](#retina)
+  - [Skin (6)](#skin)
+  - [Microscopic imaging (22)](#microscopic-imaging)
+- [Imaging and Text (22)](#Image-text-dataset)
+- [Text (13)](#Text-dataset)
 
-[ULS](./resources/ULS.md) (3D, CT, 38842 Cases, 1 Category)
+---
 
-## Head and Neck (30)
+## Medical Image Datasets
+
+### Whole Body
+
+| Dataset                                                   | Task          | Description                                                         | Official Website                                                                                                        | Download Link                                                                       | Paper                                                                                                                                                                                                                                                                               | Publication Date |
+|:----------------------------------------------------------|:--------------|:--------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------|
+| [TotalSegmentator](./resources/TotalSegmentator.md)       | Segmentation  | 3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation. | [Github](https://github.com/wasserth/TotalSegmentator)                                                                  | [Zenodo](https://zenodo.org/record/6802614)                                         | [TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images ](https://pubs.rsna.org/doi/10.1148/ryai.230024)                                                                                                                                                     | 2022-07          |
+| [TotalSegmentator V2](./resources/TotalSegmentator_v2.md) | Segmentation  | 3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation. | [Github](https://github.com/wasserth/TotalSegmentator)                                                                  | [Zenodo](https://doi.org/10.5281/zenodo.6802613)                                    | [TotalSegmentator: Robust Segmentation of 104 Anatomic Structures in CT Images ](https://pubs.rsna.org/doi/10.1148/ryai.230024)                                                                                                                                                     | 2023             |
+| [CT-ORG](./resources/CT-ORG.md)                           | Segmentation  | 3D CT, 140 Cases, 6 Categories of Organ Segmentation.               | [Github](https://github.com/bbrister/ctOrganSegmentation)                                                               | [TCIA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080890) | [CT-ORG, a new dataset for multiple organ segmentation in computed tomography](https://www.nature.com/articles/s41597-020-00715-8)                                                                                                                                                  | 2020             |
+| [AutoPET](./resources/Auto-PET.md)                        | Segmentation  | 3D PET-CT, 1214 Cases, 1 Category of Whole Body Tumor Segmentation. | [Grand Challenge 1](https://autopet.grand-challenge.org/), [Grand Challenge 2](https://autopet-ii.grand-challenge.org/) | [TCIA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287) | [A whole-body FDG-PET/CT Dataset with manually annotated Tumor Lesions](https://www.nature.com/articles/s41597-022-01718-3), [The autoPET challenge: Towards fully automated lesion segmentation in oncologic PET/CT imaging](https://www.researchsquare.com/article/rs-2572595/v1) | 2022-04          |
+| [ULS](./resources/ULS.md)                                 | Segmentation  | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation.    | [Grand Challenge](https://uls23.grand-challenge.org/)                                                                   | [Grand Challenge](https://uls23.grand-challenge.org/datasets/)                      | -                                                                                                                                                                                                                                                                                   | 2023-10          |
+
+### Head and Neck
 
 [SegRap 2023](./resources/SegRap2023.md) (3D CT, 200  Cases, 47  Categories)
 
@@ -74,7 +98,7 @@
 
 [TN3K](./resources/TN3K.md) (2D Ultrasound, 3494 Cases, 1 Category)
 
-## Chest (24)
+### Chest
 
 [ATM22](./resources/ATM22.md) (3D CT, 500 Cases, 1 Category)
 
@@ -124,7 +148,7 @@
 
 [SARS-COV-2 Ct-Scan](./resources/SARS-COV-2.md) (2D CT, 2482 Cases, 2 Categories)
 
-## Abdomen (27)
+### Abdomen
 
 [FLARE 2023](./resources/FLARE2023.md) (3D CT, 4500 Cases, 14 Categories)
 
@@ -180,7 +204,7 @@
 
 [QUBIQ2021](./resources/QUBIQ2021.md) (3D, CT, 90 Cases, 2 Categories of Pancreas & Pancreatic Lesions Segmentation)
 
-## Heart (6)
+### Heart
 
 [LAScarQS 2022](./resources/LAScarQS_2022.md) (3D MRI, 194 Cases, 2 Categories)
 
@@ -194,7 +218,7 @@
 
 [CMRxMotion](./resources/CMRxMotion.md) (3D MRI, 360 Cases, 3 Categories)
 
-## Bones (4)
+### Bones
 
 [VerSe](./resources/VerSe.md) (3D CT, 374 Cases, 26 Categories)
 
@@ -204,7 +228,7 @@
 
 [CTPelvic1K](./resources/CTPelvic1K.md) (3D CT, 1184 Cases, 4 Categories)
 
-## Endoscopy (19)
+### Endoscopy
 
 [Kvasir-SEG](./resources/Kvasir-SEG.md) (2D, Endoscopy, 1160 Cases, 1 Category)
 
@@ -244,7 +268,7 @@
 
 [SARAS-ESAD](./resources/SARAS-ESAD.md) (2D Endoscopy, 33398 Cases, 21 Categories of Surgical Action Recognition)
 
-## Retina (22)
+### Retina
 
 [ODIR-5K](./resources/ODIR-5K.md) (2D retinal images, 5000 Cases, 8 Categories)
 
@@ -290,7 +314,7 @@
 
 [OCT 2017](./resources/OCT2017.md) (2D OCT, 35126 Cases, 4 Categories of Eye Disease Classification)
 
-## Skin (6)
+### Skin
 
 [ISIC 2017](./resources/ISIC2017.md) (2D dermoscopic images, 2750 Cases, 1 Category)
 
@@ -304,7 +328,7 @@
 
 [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) (2D dermoscopic images, 804 Cases, 6 Categories of Dermatology Classification)
 
-## Microscopic imaging (22)
+### Microscopic imaging
 
 [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md) (2D Microscopic imaging, 3022 Cases, 1 Category)
 
@@ -350,7 +374,7 @@
 
 [Leukemia](./resources/Leukemia.md) (2D Microscopic imaging, 1867 Cases, 2 Categories of Leukemia Cell Classification)
 
-# Image text dataset (12)
+## Image text dataset
 
 [VQA-RAD](./resources/VQA-RAD.md) (VQA, 3515  Cases QA Pair)
 
@@ -376,7 +400,7 @@
 
 [Quilt-1M](./resources/Quilt-1M.md) Visual-Language Histopathology Dataset (Caption, 768826 Cases)
 
-# Text dataset (13)
+## Text dataset
 
 [MedQA](./resources/MedQA.md) (QA, 61,097 Cases QA Pair)
 
@@ -404,4 +428,14 @@
 
 [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md) (QA, 113K Cases QA Pair)
 
-[MedBench](./resources/MedBench.md) (QA, 300,000 Questions)
+[MedBench](./resources/MedBench.md) (QA, 113K Cases QA Pair)
+
+
+
+
+
+
+
+
+
+
