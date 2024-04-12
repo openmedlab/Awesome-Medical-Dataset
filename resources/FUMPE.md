@@ -73,7 +73,7 @@ Official Website: https://figshare.com/collections/FUMPE/4107803/1
 
 Download Link: https://www.kaggle.com/datasets/andrewmvd/pulmonary-embolism-in-ct-images
 
-Article Address: https://figshare.com/collections/FUMPE/4107803/1
+Article Address: https://www.nature.com/articles/sdata2018180
 
 Publication Date: Semtemper, 2018.
 
