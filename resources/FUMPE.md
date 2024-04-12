@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/FUMPE_0.png"></a>
 </div>
-<p style="text-align:center;font-size:10px;"><em> ITK-SNAP Visualization.</em></p>
+<p style="text-align:center;font-size:10px;"><em></em></p>
 
 ## Dataset Information
 
@@ -75,7 +75,7 @@ Download Link: https://www.kaggle.com/datasets/andrewmvd/pulmonary-embolism-in-c
 
 Article Address: https://www.nature.com/articles/sdata2018180
 
-Publication Date: Semtemper, 2018.
+Publication Date: September, 2018.
 
 ## Citation
 
