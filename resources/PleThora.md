@@ -103,9 +103,9 @@ Luca Giancardo (Center for Precision Health at the School of Biomedical Informat
 
 ## Source Information
 
-Official Website: https://www.cancerimagingarchive.net/analysis-result/plethora/#citations
+Official Website: https://www.cancerimagingarchive.net/analysis-result/plethora
 
-Download Link: https://www.cancerimagingarchive.net/analysis-result/plethora/#citations
+Download Link: https://www.cancerimagingarchive.net/analysis-result/plethora
 
 Article Address: https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.14424
 
