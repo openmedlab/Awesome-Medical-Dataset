@@ -86,7 +86,7 @@ Christopher Weight, MD -- Clinical Chair (Cleveland Clinic)
 
 ## Source Information
 
-Official Website: https://kits-challenge.org/kits21/#evaluation-block
+Official Website: https://kits-challenge.org/kits21/
 
 Download Link: https://github.com/neheller/kits21
 
