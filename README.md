@@ -136,27 +136,24 @@
 
 ### Heart
 
-[LAScarQS 2022](./resources/LAScarQS_2022.md) (3D MRI, 194 Cases, 2 Categories)
+| Dataset                                       | Description                                                                               | Official Website                                                      | Download Link                                                                                         | Paper                                                                           | Release Date | Challenge                      |
+|:----------------------------------------------|:------------------------------------------------------------------------------------------|:----------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|:-------------|:-------------------------------|
+| [ACDC](./resources/ACDC.md)                   | 3D MRI, 150 Cases, 3 Categories of Left and Right Ventricles and Myocardial Segmentation  | [Project Homepage](https://www.creatis.insa-lyon.fr/Challenge/acdc/)  | [Link](https://humanheart-project.creatis.insa-lyon.fr/database/#collection/637218c173e9f0047faa00fb) | [TMI'2018](https://ieeexplore.ieee.org/document/8360453)                        | 2017         | MICCAI'2017                    |
+| [MM-WHS](./resources/MM-WHS.md)               | 3D CT/MRI, 120 Cases, 7 Categories of Heart Substructure Segmentation                     | [Github](https://zmiclab.github.io/zxh/0/mmwhs/)                      | [Link](https://mega.nz/folder/UNMF2YYI#1cqJVzo4p_wESv9P_pc8uA)                                        | [TPAMI'2019](https://ieeexplore.ieee.org/document/8458220)                      | 2017         | MICCAI'2017                    |
+| [MyoPS 2020](./resources/MyoPS_2020.md)       | 3D MRI, 45 Cases, 5 Categories of Myocardial Pathology Segmentation                       | [Github](https://zmiclab.github.io/zxh/0/myops20/)                    | [Link](https://mega.nz/folder/BRdnDISQ#FnCg9ykPlTWYe5hrRZxi-w)                                        | [TPAMI'2023](https://ieeexplore.ieee.org/document/9965747)                      | 2020-04      | MICCAI'2020                    |
+| [LAScarQS 2022](./resources/LAScarQS_2022.md) | 3D MRI, 194 Cases, 2 Categories of Left Atrium and Scar Segmentation                      | [Github](https://zmiclab.github.io/projects/lascarqs22/)              | [Github](https://zmiclab.github.io/projects/lascarqs22/data.html)                                     | [MIA'2022](https://www.sciencedirect.com/science/article/pii/S1361841521003480) | 2022-04      | MICCAI'2022                    |
+| [CMRxMotion](./resources/CMRxMotion.md)       | 3D MRI, 360 Cases, 3 Categories of Heart Structure Segmentation                           | [Synapse](https://www.synapse.org/#!Synapse:syn28503327/wiki/617823)  | -                                                                                                     | [ArXiv'2022](https://arxiv.org/abs/2210.06385)                                  | 2022-05      | MICCAI'2022                    |
+| [MSD Cardiac](./resources/MSD_Cardiac.md)     | 3D MRI, 30 Cases, 1 Category of Left Atrium Segmentation                                  | [MSD](http://medicaldecathlon.com/)                                   | [Google Drive](https://drive.google.com/drive/folders/1HqEgzS8BV2c7xYNrZdEAnrHk7osJJ--2)              | [Nature Communication](https://www.nature.com/articles/s41467-022-30695-9)      | 2019-02      | Medical Segmentation Decathlon |
 
-[MyoPS 2020](./resources/MyoPS_2020.md) (3D MRI, 45 Cases, 5 Categories)
-
-[MM-WHS](./resources/MM-WHS.md) (3D CT/MRI, 120 Cases, 7 Categories)
-
-[ACDC](./resources/ACDC.md) (3D MRI, 150 Cases, 3 Categories)
-
-[MSD Cardiac](./resources/MSD_Cardiac.md) (3D MRI, 30 Cases, 1 Category)
-
-[CMRxMotion](./resources/CMRxMotion.md) (3D MRI, 360 Cases, 3 Categories)
 
 ### Bones
 
-[VerSe](./resources/VerSe.md) (3D CT, 374 Cases, 26 Categories)
-
-[SPIDER](./resources/SPIDER.md) (3D MR, 544 Cases, 19 Categories)
-
-[CTSpine1K](./resources/CTSpine1K.md) (3D CT, 1005 Cases, 25 Categories)
-
-[CTPelvic1K](./resources/CTPelvic1K.md) (3D CT, 1184 Cases, 4 Categories)
+| Dataset                                 | Description                                                                              | Official Website                                         | Download Link                                            | Paper                                                                      | Release Date | Challenge          |
+|:----------------------------------------|:-----------------------------------------------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------|:---------------------------------------------------------------------------|:-------------|:-------------------|
+| [VerSe](./resources/VerSe.md)           | 3D CT, 374 Cases, 26 Categories of Spine Segmentation                                    | [Github](https://github.com/anjany/verse)                | -                                                        | [MIA'2021](https://linkinghub.elsevier.com/retrieve/pii/S1361841521002127) | 2020-05      | MICCAI'2019 & 2020 |
+| [CTPelvic1K](./resources/CTPelvic1K.md) | 3D CT, 1184 Cases, 4 Categories of Lumbar Spine, Sacrum, Left and Right Hip Segmentation | [Github](https://github.com/MIRACLE-Center/CTPelvic1K)   | [Zenodo](https://zenodo.org/record/4588403#.YEyLq_0zaCo) | [IJCARS](https://link.springer.com/article/10.1007/s11548-021-02363-8)     | 2020-12      | -                  |
+| [CTSpine1K](./resources/CTSpine1K.md)   | 3D CT, 1005 Cases, 25 Categories of Spine Segmentation                                   | [Github](https://github.com/MIRACLE-Center/CTSpine1K)    | -                                                        | [ArXiv'2021](https://arxiv.org/abs/2105.14711)                             | 2021-05      | -                  |
+| [SPIDER](./resources/SPIDER.md)         | 3D MR, 544 Cases, 19 Categories of Spine, Intervertebral Disc, Spinal Canal Segmentation | [Grand Challenge](https://spider.grand-challenge.org/)   | -                                                        | [ArXiv'2023](https://arxiv.org/abs/2306.12217)                             | 2023-06      | -                  |
 
 ### Endoscopy
 
