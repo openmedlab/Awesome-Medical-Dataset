@@ -112,13 +112,13 @@ Pål Halvorsen (University of Oslo)
 
 ## Source Information
 
-Official Website: TBD
+Official Website: https://datasets.simula.no/nerthus/
 
-Download Link: TBD
+Download Link: https://datasets.simula.no/nerthus/
 
-Article Address: TBD
+Article Address: https://dl.acm.org/doi/10.1145/3083187.3083216
 
-Publication Date: TBD
+Publication Date: 2017-06
 
 ## Citation
 
