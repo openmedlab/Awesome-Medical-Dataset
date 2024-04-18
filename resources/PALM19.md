@@ -7,7 +7,10 @@
 
 ## Dataset Information
 
-This part is introduction and summarization of the dataset.
+The Pathological Myopia Challenge (PALM) is focused on the research and development of advanced algorithms for the diagnosis of pathological myopia (PM) and the precise segmentation of lesion areas in fundus photographs of PM patients. This event is part of the 2019 International Medical Imaging Conference (ISBI) and is also one of the highly regarded iChallenge series competitions. The main objective of the PALM challenge is to compare and evaluate the performance of various automated algorithms for detecting pathological myopia on a standardized dataset of retinal fundus images. For this purpose, the challenge provides a total of 1200 annotated images, which are divided into 400 training images, 400 validation images, and 400 test images to support the development and testing of participants' algorithms. The challenge primarily focuses on: (1) the classification of normal and myopic fundus; (2) segmentation of typical lesions of pathological myopia (retinal atrophy, hemorrhage, macular lesions). All photographs were taken with a Zeiss Visucam 500.
+
+Myopia has become a global public health burden. Among people with myopia, approximately 35% suffer from high myopia. Myopia leads to elongation of the eyeball, which can cause pathological changes in the retina and choroid. As the degree of myopia increases, high myopia can develop into pathological myopia, characterized by pathological changes forming in the following locations: (1) the posterior pole, including retinal detachment, posterior staphyloma, retinochoroidal degeneration, etc.; (2) the optic disc, including peripapillary atrophy, tilting, etc.; (3) myopic maculopathy, including lacquer cracks, Forster's spots, choroidal neovascularization (CNV), etc. Pathological myopia can cause irreversible visual impairment in patients. Therefore, early diagnosis and regular follow-up are very important.
+
 
 ## Dataset Meta Information
 
