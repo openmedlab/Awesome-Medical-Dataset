@@ -77,7 +77,7 @@ Paolo Soda (University "Campus Bio-Medico" of Roma)
 
 ## Source Information
 
-Official Website: https://github.com/KaikaiZhao/HEp-2_cell_classification
+Official Website: https://github.com/KaikaiZhao/HEp-2_cell_classification (expired)
 
 Download Link: https://www.heywhale.com/mw/dataset/5ec3c6883241a100378d5d4a
 
