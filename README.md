@@ -246,67 +246,36 @@
 
 ## Image text dataset
 
-[VQA-RAD](./resources/VQA-RAD.md) (VQA, 3515  Cases QA Pair)
-
-[SLAKE](./resources/SLAKE.md) (VQA, 14028  Cases QA Pair)
-
-[PathVQA](./resources/PathVQA.md) (VQA, 32799 Cases QA Pair)
-
-[ROCOV2](./resources/ROCOV2.md) (caption, 80080  Cases image-caption Pair)
-
-[ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) (VQA, 15292  Cases QA Pair)
-
-[RP3D-Caption](./resources/RP3D-Caption.md) (caption, 69523 Cases image-caption Pair)
-
-[Montgomery County CXR Set](./resources/MontgomeryCounty.md) (2D X-Ray, 138例, 2 Categories of CXR Image Abnormality Diagnosis)
-
-[PMC-OA](./resources/PMC-OA.md) (VQA, 1.6M QA Pair)
-
-[MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md) (VQA, 1752 Cases QA Pair)
-
-[MedICaT](./resources/MedICaT.md) (VQA, 217060 Cases QA Pair)
-
-[CT-RATE](./resources/CT-RATE.md) chest CT and its radiology diagnostic report data set (Caption, 47149 Cases)
-
-[Quilt-1M](./resources/Quilt-1M.md) Visual-Language Histopathology Dataset (Caption, 768826 Cases)
+| Dataset                                                         | Description                                                          | Official Website                                                                                         | Release Date |
+|:----------------------------------------------------------------|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-------------|
+| [VQA-RAD](./resources/VQA-RAD.md)                               | VQA, 3515  Cases QA Pair                                             | [Project Homepage](https://osf.io/89kps/)                                                                | 2018-11      |
+| [ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) | VQA, 15292  Cases QA Pair                                            | [Project Homepage](https://www.imageclef.org/2019/medical/vqa/)                                          | 2019-09      |
+| [PathVQA](./resources/PathVQA.md)                               | VQA, 32799 Cases QA Pair                                             | [Grand Challenge](https://pathvqachallenge.grand-challenge.org/)                                         | 2020-03      |
+| [MedICaT](./resources/MedICaT.md)                               | VQA, 217060 Cases QA Pair                                            | [Github](https://github.com/allenai/medicat)                                                             | 2020-12      |
+| [SLAKE](./resources/SLAKE.md)                                   | VQA, 14028  Cases QA Pair                                            | [Project Homepage](https://www.med-vqa.com/slake/)                                                       | 2021-02      |
+| [Montgomery County CXR Set](./resources/MontgomeryCounty.md)    | 2D X-Ray, 138 Cases, 2 Categories of CXR Image Abnormality Diagnosis | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets) | 2021-06      |
+| [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md)     | VQA, 1752 Cases QA Pair                                              | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                              | 2022-07      |
+| [PMC-OA](./resources/PMC-OA.md)                                 | VQA, 1.6M QA Pair                                                    | [Project Homepage](https://weixionglin.github.io/PMC-CLIP/)                                              | 2023-03      |
+| [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
+| [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                              | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
+| [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                              | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
+| [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                 | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
 
 ## Text dataset
 
-[MedQA](./resources/MedQA.md) (QA, 61,097 Cases QA Pair)
-
-[MedMCQA](./resources/MedMCQA.md) (QA, 193,155 Cases QA Pair)
-
-[PubMedQA](./resources/PubMedQA.md) (QA, 1000 Cases Expert annotation QA Pair)
-
-[HealthSearchQA](./resources/HealthSearchQA.md) (QA, 3173 Cases QA Pair)
-
-[webMedQA](./resources/webMedQA.md) (QA, 63,284 Cases QA Pair)
-
-[LiveQA](./resources/LiveQA.md) (QA, 634例 QA Pair)
-
-[CMExam](./resources/CMExam.md) (QA, 68K Cases QA Pair)
-
-[CMB](./resources/CMB.md) (QA, 270K Cases QA Pair)
-
-[MedDialog-CN](./resources/MedDialog-CN.md) (QA, 1.1M Cases QA Pair)
-
-[Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) (QA, 792K Cases QA Pair)
-
-[cMedQA](./resources/cMedQA.md) v2.0 (QA, 108K Cases QA Pair)
-
-[Huatuo-26M](./resources/Huatuo-26M.md) (QA, 26M Cases QA Pair)
-
-[ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md) (QA, 113K Cases QA Pair)
-
-[MedBench](./resources/MedBench.md) (QA, 113K Cases QA Pair)
-
-
-
-
-
-
-
-
-
-
-
+| Dataset                                                                          | Description                              | Official Website                                                 | Release Date |
+|:---------------------------------------------------------------------------------|:-----------------------------------------|:-----------------------------------------------------------------|:-------------|
+| [LiveQA](./resources/LiveQA.md)                                                  | QA, 634 Cases QA Pair                    | [Github](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017) | 2017         |
+| [cMedQA](./resources/cMedQA.md) v2.0                                             | QA, 108K Cases QA Pair                   | [Github](https://github.com/zhangsheng93/cMedQA2)                | 2018-12      | 
+| [webMedQA](./resources/webMedQA.md)                                              | QA, 63,284 Cases QA Pair                 | [Github](https://github.com/hejunqing/webMedQA/tree/master)      | 2019         |
+| [PubMedQA](./resources/PubMedQA.md)                                              | QA, 1000 Cases Expert annotation QA Pair | [Project Homepage](https://pubmedqa.github.io/)                  | 2019         |
+| [MedDialog-CN](./resources/MedDialog-CN.md)                                      | QA, 1.1M Cases QA Pair                   | [Github](https://github.com/UCSD-AI4H/Medical-Dialogue-System)   | 2020-07      |
+| [MedQA](./resources/MedQA.md)                                                    | QA, 61,097 Cases QA Pair                 | [Github](https://github.com/jind11/MedQA)                        | 2020-09      |
+| [Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) | QA, 792K Cases QA Pair                   | [Project Homepage](https://tianchi.aliyun.com/dataset/90163)     | 2021-02      |
+| [MedMCQA](./resources/MedMCQA.md)                                                | QA, 193,155 Cases QA Pair                | [Project Homepage](https://medmcqa.github.io/)                   | 2022-03      |
+| [Huatuo-26M](./resources/Huatuo-26M.md)                                          | QA, 26M Cases QA Pair                    | [Github](https://github.com/FreedomIntelligence/Huatuo-26M)      | 2023-05      |
+| [HealthSearchQA](./resources/HealthSearchQA.md)                                  | QA, 3173 Cases QA Pair                   | [Paper](https://www.nature.com/articles/s41586-023-06291-2)      | 2023-07      |
+| [CMB](./resources/CMB.md)                                                        | QA, 270K Cases QA Pair                   | [Github](https://github.com/FreedomIntelligence/CMB/tree/main)   | 2023-08      |
+| [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md)                           | QA, 113K Cases QA Pair                   | [Github](https://github.com/ywjawmw/TCMEB/blob/main/)            | 2023-08      |
+| [CMExam](./resources/CMExam.md)                                                  | QA, 68K Cases QA Pair                    | [Github](https://github.com/williamliujl/CMExam/)                | 2023-10      |
+| [MedBench](./resources/MedBench.md)                                              | QA, 113K Cases QA Pair                   | [Project Homepage](https://medbench.opencompass.org.cn/)         | 2023-12      |
