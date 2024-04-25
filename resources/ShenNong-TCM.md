@@ -194,7 +194,7 @@ Xiaoling Wang (Intelligent Knowledge Management and Service Team, School of Comp
 
 ## Source Information
 
-Official Website: https://github.com/ywjawmw/TCMEB/blob/main/README.md
+Official Website: https://github.com/ywjawmw/TCMEB/blob/main
 
 Download Link: https://huggingface.co/datasets/michaelwzhu/ShenNong_TCM_Dataset
 
