@@ -10,7 +10,7 @@
 
 - [Imaging](#Imaging)
   - [Whole Body (5)](#whole-body)
-  - [Head and Neck (30)](#head-and-neck)
+  - [Head and Neck (32)](#head-and-neck)
   - [Chest (24)](#chest)
   - [Abdomen (27)](#abdomen)
   - [Heart (6)](#heart)
