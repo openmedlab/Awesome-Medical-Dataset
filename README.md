@@ -1,5 +1,7 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+Last updated: 2024/05/07
+
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
 ## Table of Content
@@ -10,7 +12,7 @@
 
 - [Imaging](#Imaging)
   - [Whole Body (5)](#whole-body)
-  - [Head and Neck (32)](#head-and-neck)
+  - [Head and Neck (30)](#head-and-neck)
   - [Chest (24)](#chest)
   - [Abdomen (27)](#abdomen)
   - [Heart (6)](#heart)
