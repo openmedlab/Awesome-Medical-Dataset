@@ -1,4 +1,4 @@
-# ~~AbdomenAtlas 1.0 Mini~~
+# AbdomenAtlas 1.0 Mini
 
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/AbdomenAtlas_Mini_0.webp"></a>
