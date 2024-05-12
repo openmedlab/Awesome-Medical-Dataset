@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/05/11
+Last updated: 2024/05/12
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -17,7 +17,7 @@ Last updated: 2024/05/11
   - [Abdomen (28)](#abdomen)
   - [Heart (8)](#heart)
   - [Bones (5)](#bones)
-  - [Endoscopy (19)](#endoscopy)
+  - [Endoscopy (20)](#endoscopy)
   - [Retina (22)](#retina)
   - [Skin (6)](#skin)
   - [Microscopic imaging (22)](#microscopic-imaging)
@@ -167,6 +167,7 @@ Last updated: 2024/05/11
 | Dataset                                                                                                     | Description                                                                                       | Official Website                                                                               | Release Date | Challenge   |
 |:------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:-------------|:------------|
 | [CVC-ClinicDB](./resources/CVC-ClinicDB.md)                                                                 | 2D, Endoscopy, 612 Cases, 1 Category of Colon Polyp Segmentation                                  | [Grand Challenge](https://polyp.grand-challenge.org/CVCClinicDB/)                              | 2015-02      | MICCAI'2015 |
+| [AIDA-E2](./resources/AIDA-E2.md)                                                                           | 2D Endoscopy, 262 Cases, 3 Categories of Digestive Tract Disease Classification                   | [Grand Challenge](https://isbi-aida.grand-challenge.org/)                                      | 2015-11      | ISBI'2016   |
 | [Colonoscopic](./resources/Colonoscopic.md)                                                                 | 2D Endoscopy, 152 Cases, 3 Categories of Gastrointestinal Lesions Classification                  | [Project Homepage](https://www.depeca.uah.es/colonoscopy_dataset/)                             | 2016-09      | -           |
 | [The Nerthus Dataset](./resources/Nerthus.md)                                                               | 2D Endoscopy, 5525 Cases, 4 Categories of Intestinal Cleansing Levels Classification              | [Project Homepage](https://datasets.simula.no/nerthus/)                                        | 2017-06      | -           |
 | [EAD 2019](./resources/EAD2019.md)                                                                          | 2D Endoscopy, 2991 Cases, 7 Categories of Esophageal, Colon, Stomach, Bladder, Liver Segmentation | [Grand Challenge](https://ead2019.grand-challenge.org/EAD2019/)                                | 2019-08      | -           |
