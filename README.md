@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/05/13
+Last updated: 2024/05/14
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -17,9 +17,9 @@ Last updated: 2024/05/13
   - [Abdomen (28)](#abdomen)
   - [Heart (8)](#heart)
   - [Bones (5)](#bones)
-  - [Endoscopy (20)](#endoscopy)
+  - [Endoscopy (21)](#endoscopy)
   - [Retina (22)](#retina)
-  - [Skin (6)](#skin)
+  - [Skin (7)](#skin)
   - [Microscopic imaging (22)](#microscopic-imaging)
 - [Imaging and Text (22)](#Image-text-dataset)
 - [Text (13)](#Text-dataset)
@@ -217,14 +217,15 @@ Last updated: 2024/05/13
 
 ### Skin
 
-| Dataset                                                          | Description                                                                                      | Official Website                                                                         | Release Date | Challenge |
-|:-----------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:-------------|:----------|
-| [PH²](./resources/PH2.md)                                        | 2D Dermoscopic Images, 200 Cases, 2 Categories of Melanoma Segmentation                          | [Project Homepage](https://www.fc.up.pt/addi/ph2%20database.html)                        | 2015         | -         |
-| [MED-NODE](./resources/MED-NODE.md)                              | 2D Dermoscopic Images, 170 Cases, 2 Categories of Benign and Malignant Melanoma Classification   | [Project Homepage](https://www.cs.rug.nl/~imaging/databases/melanoma_naevi/)             | 2015-07      | -         |
-| [ISIC 2017](./resources/ISIC2017.md)                             | 2D Dermoscopic Images, 2750 Cases, 1 Category of Melanoma Segmentation                           | [Project Homepage](https://challenge.isic-archive.com/data/#2017)                        | 2017         | -         |
-| [ISIC 2020](./resources/ISIC2020.md)                             | 2D Dermoscopic Images, 33126 Cases, 2 Categories of Benign and Malignant Melanoma Classification | [Project Homepage](https://challenge2020.isic-archive.com/)                              | 2020         | -         |
-| [PED-UFES-20](./resources/PED-UFES-20.md)                        | 2D Dermoscopic Images, 2298 Cases, 6 Categories of Dermatology classification                    | [Mendeley](https://data.mendeley.com/datasets/zr7vgbcyr2/1)                              | 2020-07      | -         |
-| [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md)  | 2D Dermoscopic Images, 804 Cases, 6 Categories of Dermatology Classification                     | [Kaggle](https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-image-dataset-2022)| 2022-08      | -         |
+| Dataset                                                         | Description                                                                                                 | Official Website                                                                          | Release Date | Challenge |
+|:----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-------------|:----------|
+| [PH²](./resources/PH2.md)                                       | 2D Dermoscopic Images, 200 Cases, 2 Categories of Melanoma Segmentation                                     | [Project Homepage](https://www.fc.up.pt/addi/ph2%20database.html)                         | 2015         | -         |
+| [MED-NODE](./resources/MED-NODE.md)                             | 2D Dermoscopic Images, 170 Cases, 2 Categories of Benign and Malignant Melanoma Classification              | [Project Homepage](https://www.cs.rug.nl/~imaging/databases/melanoma_naevi/)              | 2015-07      | -         |
+| [ISIC 2017](./resources/ISIC2017.md)                            | 2D Dermoscopic Images, 2750 Cases, 1 Category of Melanoma Segmentation                                      | [Project Homepage](https://challenge.isic-archive.com/data/#2017)                         | 2017         | -         |
+| [ISIC 2020](./resources/ISIC2020.md)                            | 2D Dermoscopic Images, 33126 Cases, 2 Categories of Benign and Malignant Melanoma Classification            | [Project Homepage](https://challenge2020.isic-archive.com/)                               | 2020         | -         |
+| [PED-UFES-20](./resources/PED-UFES-20.md)                       | 2D Dermoscopic Images, 2298 Cases, 6 Categories of Dermatology classification                               | [Mendeley](https://data.mendeley.com/datasets/zr7vgbcyr2/1)                               | 2020-07      | -         |
+| [Fitzpatrick 17k](./resources/Fitzpatrick17k.md)                | 2D Dermoscopic Images, 16577 Cases, 6 Categories of Fitzpatrick Skin Type, 114 Categories of Skin Condition | [Github](https://github.com/mattgroh/fitzpatrick17k)                                      | 2021         | -         |
+| [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) | 2D Dermoscopic Images, 804 Cases, 6 Categories of Dermatology Classification                                | [Kaggle](https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-image-dataset-2022) | 2022-08      | -         |
 
 ### Microscopic imaging
 
