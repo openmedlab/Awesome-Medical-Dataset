@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/05/16
+Last updated: 2024/05/17
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -50,6 +50,7 @@ Last updated: 2024/05/16
 | [PDDCA](./resources/PDDCA.md)                             | 3D CT, 48 Cases, 9 Categories of Head and Neck Organs Segmentation                         | [ImagEngLab](https://www.imagenglab.com/newsite/pddca/)                                 | 2017-03      | -                              |
 | [iSeg](./resources/iSeg.md)                               | 3D MRI, 13 Cases, 3 Categories of Brain Tissue Segmentation                                | [Project Homepage](https://iseg2019.web.unc.edu/)                                       | 2019         | MICCAI'2017 & 2019             |
 | [StructSeg2019 Task1](./resources/StructSeg2019_Task1.md) | 3D CT, 50 Cases, 22 Categories of Head and Neck Organs Segmentation                        | [Grand Challenge](https://structseg2019.grand-challenge.org/)                           | 2019         | MICCAI'2019                    |
+| [StructSeg2019 Task2](./resources/StructSeg2019_Task2.md) | 3D CT, 50 Cases, 1 Category of Nasopharyngeal Carcinoma Segmentation                       | [Grand Challenge](https://structseg2019.grand-challenge.org/)                           | 2019         | MICCAI'2019                    |
 | [MSD Hippocampus](./resources/MSD_Hippocampus.md)         | 3D MRI, 394 Cases, 2 Categories of Hippocampus Segmentation                                | [MSD](http://medicaldecathlon.com/)                                                     | 2019-02      | Medical Segmentation Decathlon |
 | [Head CT-hemorrhage](./resources/HeadCT-hemorrhage.md)    | 2D CT, 200 Cases, 2 Categories of Cerebral Hemorrhage Classification                       | [Kaggle](https://www.kaggle.com/datasets/felipekitamura/head-ct-hemorrhage)             | 2019-09      | -                              |
 | [WMH](./resources/WMH.md)                                 | 3D MRI, 170 Cases, 1 Category of White Matter Hyperintensity Segmentation                  | [Project Homepage](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD) | 2019-11      | -                              |
