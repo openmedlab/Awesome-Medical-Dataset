@@ -16,9 +16,9 @@ The challenge comprises three specific application tasks:
 
 For these three different modality tasks, the competition provides corresponding datasets. This article introduces the MedFM ChestDR chest X-ray disease screening dataset. The introduction articles for the other two datasets are as follows:
 
-[PlaceHolder]
+- [MedFM Endoscopy](./MedFM_Endo.md)
 
-[PlaceHolder]
+- [MedFM Colonoscopy](./MedFM_Colon.md)
 
 The MedFM ChestDR dataset aims to classify **19** common chest abnormalities using chest X-ray images. This dataset includes **4,848** frontal chest X-ray images from one hospital, with **2,140** images used as the training set (including images and labels) and 2,708 images as the validation set (only including images). Additionally, there are **2,626** images from another hospital, which will be used for the final evaluation of the methods. Chest X-ray examinations are a commonly used imaging technique in routine clinical practice. Many chest diseases are reported, and further examinations are recommended for differential diagnosis. Due to the high volume and rapid turnaround required in some emergency departments, quick screening and reporting of common chest diseases can greatly improve clinical workflow efficiency.
 
