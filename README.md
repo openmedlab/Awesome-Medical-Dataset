@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/05/28
+Last updated: 2024/05/29
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -18,7 +18,7 @@ Last updated: 2024/05/28
   - [Heart (8)](#heart)
   - [Bones (5)](#bones)
   - [Endoscopy (22)](#endoscopy)
-  - [Retina (27)](#retina)
+  - [Retina (28)](#retina)
   - [Skin (7)](#skin)
   - [Microscopic imaging (22)](#microscopic-imaging)
 - [Imaging and Text (22)](#Image-text-dataset)
@@ -226,6 +226,7 @@ Last updated: 2024/05/28
 | [FIVES](./resources/FIVES.md)                                               | 2D Retinal Images, 800 Cases, 1 Category of Fundus Blood Vessels Segmentation                                   | [Project Homepage](https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1) | 2022-08      | -           |
 | [ODIR-5K](./resources/ODIR-5K.md)                                           | 2D Retinal Images, 5000 Cases, 8 Categories of Common Ophthalmic Diseases Classification                        | [Grand Challenge](https://odir2019.grand-challenge.org/introduction/)                                                             | 2023         | -           |
 | [RFMiD 2.0](./resources/RFMiD.md)                                           | 2D Retinal Images, 3200 Cases, 45 Categories of Eye Disease Classification                                      | [Grand Challenge](https://riadd.grand-challenge.org/Home/)                                                                        | 2023-01      | ISBI'2021   |
+| [ToxoFundus](./resources/ToxoFundus.md)                                     | 2D Fundus Color Photos, 412 Cases, 2 Categories of Toxoplasmic Chorioretinitis Classification                   | [Kaggle](https://www.kaggle.com/datasets/nafin59/ocular-toxoplasmosis-fundus-images-dataset)                                      | 2023-06      | -           |
 
 ### Skin
 
