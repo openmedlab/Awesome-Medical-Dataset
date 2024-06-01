@@ -45,10 +45,22 @@ The statistical results are based on the actual data collected by the author:
 
 ## File Structure
 
-The file structure of the dataset is as follows: `images` are stored in images, and the annotations of `train` and `val` are given in `txt` format.
+The file structure of the dataset is shown below, with images of the three categories divided into three different folders.
 
 ``` 
-TBD
+data
+├── Normal
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   └── ...
+├── Papilledema
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   └── ...
+└── Pseudopapilledema
+    ├── 1.jpg
+    ├── 2.jpg
+    └── ...
 ```
 
 ## Authors and Institutions
