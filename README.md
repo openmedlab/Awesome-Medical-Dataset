@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/06/06
+Last updated: 2024/06/07
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -13,7 +13,7 @@ Last updated: 2024/06/06
 - [Imaging](#Imaging)
   - [Whole Body (5)](#whole-body)
   - [Head and Neck (35)](#head-and-neck)
-  - [Chest (27)](#chest)
+  - [Chest (28)](#chest)
   - [Abdomen (29)](#abdomen)
   - [Heart (8)](#heart)
   - [Bones (5)](#bones)
@@ -83,6 +83,7 @@ Last updated: 2024/06/06
 
 | Dataset                                                                       | Description                                                                                              | Official Website                                                                            | Release Date | Challenge                      |
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------------|:-------------------------------|
+| [CRASS12](./resources/CRASS12.md)                                             | 2D X-Ray, 284 Cases, 1 Category of Clavicle Segmentation                                                 | [Grand Challenge](https://crass.grand-challenge.org/Details/)                               | 2012-12      | -                              |
 | [LUNA16](./resources/LUNA16.md)                                               | 3D CT, 888 Cases, 1 Category of Lung Nodule Detection                                                    | [Grand Challenge](https://luna16.grand-challenge.org/Home/)                                 | 2016-03      | LUNA16                         |
 | [Breast Ultrasound Dataset B](./resources/Breast_Ultrasound_DatasetB.md)      | 2D Ultrasound, 163 Cases, 1 Category of Breast Lesions Detection                                         | [Project Homepage](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php)                      | 2018-06      | -                              |
 | [FUMPE](./resources/FUMPE.md)                                                 | 3D CT, 35 Cases, 1 Category of Pulmonary Embolism (PE) Segmentation                                      | [Figshare](https://figshare.com/collections/FUMPE/4107803/1)                                | 2018-09      | -                              |
