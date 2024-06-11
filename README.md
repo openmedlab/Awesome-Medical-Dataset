@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/06/11
+Last updated: 2024/06/12
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/06/11
   - [Whole Body (6)](#whole-body)
   - [Head and Neck (35)](#head-and-neck)
   - [Chest (28)](#chest)
-  - [Abdomen (29)](#abdomen)
+  - [Abdomen (30)](#abdomen)
   - [Heart (8)](#heart)
   - [Bones (5)](#bones)
   - [Endoscopy (23)](#endoscopy)
@@ -128,6 +128,7 @@ Last updated: 2024/06/11
 | [MSD Prostate](./resources/MSD_Prostate.md)                                                     | 3D MR, 48 Cases, 2 Categories of Prostate Segmentation                                        | [MSD](http://medicaldecathlon.com/)                                                                 | 2019-02      | Medical Segmentation Decathlon |
 | [KiTS19](./resources/KiTS19.md)                                                                 | 3D CT, 300 Cases, 2 Categories of Kidney and Tumor Segmentation                               | [Grand Challenge](https://kits19.grand-challenge.org/)                                              | 2019-03      | MICCAI'2019                    |
 | [CHAOS](./resources/CHAOS.md)                                                                   | 3D CT&MRI, 40 Cases, 4 Categories of Abdominal Organ Segmentation                             | [Grand Challenge](https://chaos.grand-challenge.org/Combined_Healthy_Abdominal_Organ_Segmentation/) | 2019-04      | ISBI'2019                      |
+| [Pancreas-CT](./resources/Pancreas-CT.md)                                                       | 3D Contrast-enhanced CT, 80 Cases, 1 Category of Healthy Pancreas Segmentation                | [TCIA](https://www.cancerimagingarchive.net/collection/pancreas-ct/)                                | 2020         | -                              |
 | [KiTS21](./resources/KiTS21.md)                                                                 | 3D CT, 400 Cases, 3 Categories of Kidney and Tumor Segmentation                               | [Project Homepage](https://kits-challenge.org/kits21/)                                              | 2021-03      | MICCAI'2021                    |
 | [FLARE 2021](./resources/FLARE2021.md)                                                          | 3D CT, 511 Cases, 4 Categories of Abdominal Organ Segmentation                                | [Grand Challenge](https://flare.grand-challenge.org/)                                               | 2021-05      | MICCAI'2021                    |
 | [AbdomenCT-1K](./resources/AbdomenCT-1K.md)                                                     | 3D CT, 1112 Cases, 4 Categories of Abdominal Organ Segmentation                               | [Github](https://github.com/JunMa11/AbdomenCT-1K)                                                   | 2021-07      | -                              |
@@ -146,7 +147,7 @@ Last updated: 2024/06/11
 | [MOOD2023](./resources/MOOD2023.md)                                                             | 3D CT&MR, 1300 Cases, Out-of-Distribution Detection                                           | [Project Homepage](http://medicalood.dkfz.de/web/)                                                  | 2023-04      | MICCAI'2023                    |
 | [Adrenal-ACC-Ki67-Seg](./resources/Adrenal-ACC-Ki67-Seg.md)                                     | 3D CT, 57 Cases, 1 Category of Pathologically Confirmed Adrenocortical Carcinoma Segmentation | [TCIA](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/)                       | 2023-05      | -                              |
 | [AbdomenAtlas 1.0 Mini](./resources/AbdomenAtlas_Mini.md)                                       | 3D CT, 5195 Cases, 9 Categories of Abdominal Organ Segmentation                               | [Github](https://github.com/MrGiovanni/AbdomenAtlas)                                                | 2024-02      | -                              |
-
+ 
 ### Heart
 
 | Dataset                                              | Description                                                                              | Official Website                                                     | Release Date | Challenge                      |
