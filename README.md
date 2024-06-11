@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/06/07
+Last updated: 2024/06/11
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -11,7 +11,7 @@ Last updated: 2024/06/07
 :book: **Contents**
 
 - [Imaging](#Imaging)
-  - [Whole Body (5)](#whole-body)
+  - [Whole Body (6)](#whole-body)
   - [Head and Neck (35)](#head-and-neck)
   - [Chest (28)](#chest)
   - [Abdomen (29)](#abdomen)
@@ -30,13 +30,14 @@ Last updated: 2024/06/07
 
 ### Whole Body
 
-| Dataset                                                   | Description                                                         | Official Website                                                                                                    | Release Date | Challenge          |
-|:----------------------------------------------------------|:--------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------|
-| [CT-ORG](./resources/CT-ORG.md)                           | 3D CT, 140 Cases, 6 Categories of Organ Segmentation.               | [Github](https://github.com/bbrister/ctOrganSegmentation)                                                           | 2020         | -                  |
-| [AutoPET](./resources/Auto-PET.md)                        | 3D PET-CT, 1214 Cases, 1 Category of Whole Body Tumor Segmentation. | [Grand Challenge](https://autopet.grand-challenge.org/), [Grand Challenge](https://autopet-ii.grand-challenge.org/) | 2022-04      | MICCAI'2022 & 2023 | 
-| [TotalSegmentator](./resources/TotalSegmentator.md)       | 3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation. | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2022-07      | -                  |
-| [TotalSegmentator V2](./resources/TotalSegmentator_v2.md) | 3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation. | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2023         | -                  |
-| [ULS](./resources/ULS.md)                                 | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation.    | [Grand Challenge](https://uls23.grand-challenge.org/)                                                               | 2023-10      | -                  |
+| Dataset                                                     | Description                                                        | Official Website                                                                                                    | Release Date | Challenge          |
+|:------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------|
+| [CT-ORG](./resources/CT-ORG.md)                             | 3D CT, 140 Cases, 6 Categories of Organ Segmentation               | [Github](https://github.com/bbrister/ctOrganSegmentation)                                                           | 2020         | -                  |
+| [AutoPET](./resources/Auto-PET.md)                          | 3D PET-CT, 1214 Cases, 1 Category of Whole Body Tumor Segmentation | [Grand Challenge](https://autopet.grand-challenge.org/), [Grand Challenge](https://autopet-ii.grand-challenge.org/) | 2022-04      | MICCAI'2022 & 2023 | 
+| [TotalSegmentator](./resources/TotalSegmentator.md)         | 3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2022-07      | -                  |
+| [TotalSegmentator V2](./resources/TotalSegmentator_v2.md)   | 3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2023         | -                  |
+| [ULS](./resources/ULS.md)                                   | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation    | [Grand Challenge](https://uls23.grand-challenge.org/)                                                               | 2023-10      | -                  |
+| [TotalSegmentator MRI](./resources/TotalSegmentator_MRI.md) | 3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation   | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2024-05      | -                  |
 
 ### Head and Neck
 
