@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/06/27
+Last updated: 2024/06/28
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,8 +21,8 @@ Last updated: 2024/06/27
   - [Retina (31)](#retina)
   - [Skin (7)](#skin)
   - [Microscopic imaging (27)](#microscopic-imaging)
-- [Imaging and Text (22)](#Image-text-dataset)
-- [Text (13)](#Text-dataset)
+- [Imaging and Text (13)](#Image-text-dataset)
+- [Text (14)](#Text-dataset)
 
 ---
 
@@ -294,6 +294,7 @@ Last updated: 2024/06/27
 | [Montgomery County CXR Set](./resources/MontgomeryCounty.md)    | 2D X-Ray, 138 Cases, 2 Categories of CXR Image Abnormality Diagnosis | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets) | 2021-06      |
 | [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md)     | VQA, 1752 Cases QA Pair                                              | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                              | 2022-07      |
 | [PMC-OA](./resources/PMC-OA.md)                                 | VQA, 1.6M QA Pair                                                    | [Project Homepage](https://weixionglin.github.io/PMC-CLIP/)                                              | 2023-03      |
+| [PMC-VQA](./resources/PMC-VQA.md)                               | VQA, 227K Cases                                                      | [Github](https://github.com/xiaoman-zhang/PMC-VQA)                                                       | 2023-05      |
 | [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
 | [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                              | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
 | [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                              | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
