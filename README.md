@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/16
+Last updated: 2024/07/17
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -20,7 +20,7 @@ Last updated: 2024/07/16
   - [Endoscopy (25)](#endoscopy)
   - [Retina (31)](#retina)
   - [Skin (7)](#skin)
-  - [Microscopic imaging (27)](#microscopic-imaging)
+  - [Microscopic imaging (28)](#microscopic-imaging)
 - [Imaging and Text (13)](#Image-text-dataset)
 - [Text (14)](#Text-dataset)
 
@@ -283,6 +283,7 @@ Last updated: 2024/07/16
 | [CoCaHis](./resources/CoCaHis.md)                                                   | 2D Pathological Imaging, 82 Cases, 2 Categories of Colon Cancer Tissue Segmentation                     | [Project Homepage](https://cocahis.irb.hr/)                                                                     | 2021-01      | -            |
 | [Malaria Cell Images](./resources/Malaria.md)                                       | 2D Microscopic Imaging, 27558 Cases, 2 Categories of Malaria Classification                             | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html) | 2021-03      | -            |
 | [Bone Marrow Cytomorphology](./resources/BoneMarrowCytomorphology.md)               | 2D Pathological Imaging, 171,375 Cases, 21 Categories of Bone Marrow Cell Morphological Classification  | [Project Homepage](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101941770)                | 2021-11      | -            |
+| [Chaoyang](./resources/Chaoyang.md)                                                 | 2D Pathological Imaging, 6160 Cases, 4 Categories of Colonic Lesions Classification                     | [Github](https://bupt-ai-cz.github.io/HSA-NRL/)                                                                 | 2021-11      | -            |
 | [CoNIC2022](./resources/CoNIC2022.md)                                               | 2D Pathological Imaging, 4981 Cases, 7 Categories of Nuclei within Tissues Segmentation                 | [Grand Challenge](https://conic-challenge.grand-challenge.org/)                                                 | 2022         | ISBI'2022    |
 | [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md)                          | 2D Microscopic Imaging, 3022 Cases, 1 Category of Cell Instance Segmentation                            | [Grand Challenge](https://neurips22-cellseg.grand-challenge.org/)                                               | 2022-06      | NeurIPS'2022 |
 | [BRACS](./resources/BRACS.md)                                                       | 2D Pathological Imaging, 4539 ROIs/547 WSIs, 7 Categories of Breast Cancer Subtype Classification       | [Project Homepage](https://www.bracs.icar.cnr.it/)                                                              | 2022-10      | -            |
