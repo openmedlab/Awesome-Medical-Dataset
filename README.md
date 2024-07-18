@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/17
+Last updated: 2024/07/18
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,7 +21,7 @@ Last updated: 2024/07/17
   - [Retina (31)](#retina)
   - [Skin (7)](#skin)
   - [Microscopic imaging (28)](#microscopic-imaging)
-- [Imaging and Text (13)](#Image-text-dataset)
+- [Imaging and Text (14)](#Image-text-dataset)
 - [Text (14)](#Text-dataset)
 
 ---
@@ -306,6 +306,7 @@ Last updated: 2024/07/17
 | [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
 | [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                              | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
 | [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                              | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
+| [PMC-Inline](./resources/PMC-Inline.md)                         | Caption, 11,000,000 Images                                           | [Hugginface](https://huggingface.co/datasets/chaoyi-wu/PMC-Inline/tree/main)                             | 2023-11      |
 | [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                 | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
 
 ## Text dataset
