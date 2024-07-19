@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/18
+Last updated: 2024/07/19
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,7 +21,7 @@ Last updated: 2024/07/18
   - [Retina (31)](#retina)
   - [Skin (7)](#skin)
   - [Microscopic imaging (28)](#microscopic-imaging)
-- [Imaging and Text (14)](#Image-text-dataset)
+- [Imaging and Text (15)](#Image-text-dataset)
 - [Text (14)](#Text-dataset)
 
 ---
@@ -165,8 +165,8 @@ Last updated: 2024/07/18
 | [MyoPS 2020](./resources/MyoPS_2020.md)              | 3D MRI, 45 Cases, 5 Categories of Myocardial Pathology Segmentation                      | [Github](https://zmiclab.github.io/zxh/0/myops20/)                                                                               | 2020-04      | MICCAI'2020                    |
 | [LAScarQS 2022](./resources/LAScarQS_2022.md)        | 3D MRI, 194 Cases, 2 Categories of Left Atrium and Scar Segmentation                     | [Github](https://zmiclab.github.io/projects/lascarqs22/)                                                                         | 2022-04      | MICCAI'2022                    |
 | [CMRxMotion](./resources/CMRxMotion.md)              | 3D MRI, 360 Cases, 3 Categories of Heart Structure Segmentation                          | [Synapse](https://www.synapse.org/#!Synapse:syn28503327/wiki/617823)                                                             | 2022-05      | MICCAI'2022                    |
-| [ImageCAS](./resources/ImageCAS.md)                 | 3D CTA, 1000 Cases, 1 Category of Coronary Artery Segmentation                           | [Github](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT) | 2023         | -                              | 
-| [CardiacUDA](./resources/CardiacUDA.md)             | 2D Ultrasound, 992 Cases, 5 Categories of Heart Structure Segmentation                   | [Github](https://github.com/xmed-lab/GraphEcho)                                                                                  | 2023-09      | -                              |
+| [ImageCAS](./resources/ImageCAS.md)                  | 3D CTA, 1000 Cases, 1 Category of Coronary Artery Segmentation                           | [Github](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT) | 2023         | -                              | 
+| [CardiacUDA](./resources/CardiacUDA.md)              | 2D Ultrasound, 992 Cases, 5 Categories of Heart Structure Segmentation                   | [Github](https://github.com/xmed-lab/GraphEcho)                                                                                  | 2023-09      | -                              |
 
 ### Bones
 
@@ -292,22 +292,23 @@ Last updated: 2024/07/18
 
 ## Image text dataset
 
-| Dataset                                                         | Description                                                          | Official Website                                                                                         | Release Date |
-|:----------------------------------------------------------------|:---------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-------------|
-| [VQA-RAD](./resources/VQA-RAD.md)                               | VQA, 3515  Cases QA Pair                                             | [Project Homepage](https://osf.io/89kps/)                                                                | 2018-11      |
-| [ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) | VQA, 15292  Cases QA Pair                                            | [Project Homepage](https://www.imageclef.org/2019/medical/vqa/)                                          | 2019-09      |
-| [PathVQA](./resources/PathVQA.md)                               | VQA, 32799 Cases QA Pair                                             | [Grand Challenge](https://pathvqachallenge.grand-challenge.org/)                                         | 2020-03      |
-| [MedICaT](./resources/MedICaT.md)                               | VQA, 217060 Cases QA Pair                                            | [Github](https://github.com/allenai/medicat)                                                             | 2020-12      |
-| [SLAKE](./resources/SLAKE.md)                                   | VQA, 14028  Cases QA Pair                                            | [Project Homepage](https://www.med-vqa.com/slake/)                                                       | 2021-02      |
-| [Montgomery County CXR Set](./resources/MontgomeryCounty.md)    | 2D X-Ray, 138 Cases, 2 Categories of CXR Image Abnormality Diagnosis | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets) | 2021-06      |
-| [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md)     | VQA, 1752 Cases QA Pair                                              | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                              | 2022-07      |
-| [PMC-OA](./resources/PMC-OA.md)                                 | VQA, 1.6M QA Pair                                                    | [Project Homepage](https://weixionglin.github.io/PMC-CLIP/)                                              | 2023-03      |
-| [PMC-VQA](./resources/PMC-VQA.md)                               | VQA, 227K Cases                                                      | [Github](https://github.com/xiaoman-zhang/PMC-VQA)                                                       | 2023-05      |
-| [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
-| [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                              | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
-| [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                              | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
-| [PMC-Inline](./resources/PMC-Inline.md)                         | Caption, 11,000,000 Images                                           | [Hugginface](https://huggingface.co/datasets/chaoyi-wu/PMC-Inline/tree/main)                             | 2023-11      |
-| [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                 | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
+| Dataset                                                         | Description                                                                       | Official Website                                                                                         | Release Date |
+|:----------------------------------------------------------------|:----------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-------------|
+| [IU-Xray](./resources/IU-Xray.md)                               | RG, 7,470 Frontal or Lateral Chest X-ray Images, with 3,955 Corresponding Reports | [PaperWithCode](https://paperswithcode.com/dataset/iu-x-ray)                                             | 2016         |
+| [VQA-RAD](./resources/VQA-RAD.md)                               | VQA, 3515  Cases QA Pair                                                          | [Project Homepage](https://osf.io/89kps/)                                                                | 2018-11      |
+| [ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) | VQA, 15292  Cases QA Pair                                                         | [Project Homepage](https://www.imageclef.org/2019/medical/vqa/)                                          | 2019-09      |
+| [PathVQA](./resources/PathVQA.md)                               | VQA, 32799 Cases QA Pair                                                          | [Grand Challenge](https://pathvqachallenge.grand-challenge.org/)                                         | 2020-03      |
+| [MedICaT](./resources/MedICaT.md)                               | VQA, 217060 Cases QA Pair                                                         | [Github](https://github.com/allenai/medicat)                                                             | 2020-12      |
+| [SLAKE](./resources/SLAKE.md)                                   | VQA, 14028  Cases QA Pair                                                         | [Project Homepage](https://www.med-vqa.com/slake/)                                                       | 2021-02      |
+| [Montgomery County CXR Set](./resources/MontgomeryCounty.md)    | 2D X-Ray, 138 Cases, 2 Categories of CXR Image Abnormality Diagnosis              | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets) | 2021-06      |
+| [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md)     | VQA, 1752 Cases QA Pair                                                           | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                              | 2022-07      |
+| [PMC-OA](./resources/PMC-OA.md)                                 | VQA, 1.6M QA Pair                                                                 | [Project Homepage](https://weixionglin.github.io/PMC-CLIP/)                                              | 2023-03      |
+| [PMC-VQA](./resources/PMC-VQA.md)                               | VQA, 227K Cases                                                                   | [Github](https://github.com/xiaoman-zhang/PMC-VQA)                                                       | 2023-05      |
+| [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                             | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
+| [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                                           | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
+| [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                                           | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
+| [PMC-Inline](./resources/PMC-Inline.md)                         | Caption, 11,000,000 Images                                                        | [Hugginface](https://huggingface.co/datasets/chaoyi-wu/PMC-Inline/tree/main)                             | 2023-11      |
+| [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                              | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
 
 ## Text dataset
 
