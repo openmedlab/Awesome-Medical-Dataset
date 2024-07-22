@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/21
+Last updated: 2024/07/22
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -20,7 +20,7 @@ Last updated: 2024/07/21
   - [Endoscopy (25)](#endoscopy)
   - [Retina (31)](#retina)
   - [Skin (7)](#skin)
-  - [Microscopic imaging (28)](#microscopic-imaging)
+  - [Microscopic imaging (29)](#microscopic-imaging)
 - [Imaging and Text (15)](#Image-text-dataset)
 - [Text (14)](#Text-dataset)
 
@@ -288,6 +288,7 @@ Last updated: 2024/07/21
 | [CoNIC2022](./resources/CoNIC2022.md)                                               | 2D Pathological Imaging, 4981 Cases, 7 Categories of Nuclei within Tissues Segmentation                 | [Grand Challenge](https://conic-challenge.grand-challenge.org/)                                                 | 2022         | ISBI'2022    |
 | [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md)                          | 2D Microscopic Imaging, 3022 Cases, 1 Category of Cell Instance Segmentation                            | [Grand Challenge](https://neurips22-cellseg.grand-challenge.org/)                                               | 2022-06      | NeurIPS'2022 |
 | [BRACS](./resources/BRACS.md)                                                       | 2D Pathological Imaging, 4539 ROIs/547 WSIs, 7 Categories of Breast Cancer Subtype Classification       | [Project Homepage](https://www.bracs.icar.cnr.it/)                                                              | 2022-10      | -            |
+| [BCI](./resources/BCI.md)                                                           | 2D Pathological Imaging, 4870 Cases, 4 Categories to convert HE images to IHC images                    | [Project Homepage](https://bupt-ai-cz.github.io/BCI/)                                                           | 2023-04      | -            |
 | [MedFM Colon 2023](./resources/MedFM_Colon.md)                                      | 2D Pathological Imaging, 10009 Cases, 2 Categories of Colon Tumor Classification                        | [Grand Challenge](https://medfm2023.grand-challenge.org/)                                                       | 2023-05      | NeurIPS'2023 |
 | [KPIs](./resources/KPIs.md)                                                         | 2D Pathological Imaging, 10428 Patches, 1 Category of Glomerular Tissue Segmentation                    | [Project Homepage](https://sites.google.com/view/kpis2024)                                                      | 2024-03      | MICCAI'2024  |
 
