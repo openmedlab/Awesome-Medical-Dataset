@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/23
+Last updated: 2024/07/24
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -18,7 +18,7 @@ Last updated: 2024/07/23
   - [Heart (9)](#heart)
   - [Bones (7)](#bones)
   - [Endoscopy (25)](#endoscopy)
-  - [Retina (31)](#retina)
+  - [Retina (32)](#retina)
   - [Skin (7)](#skin)
   - [Microscopic imaging (29)](#microscopic-imaging)
 - [Imaging and Text (15)](#Image-text-dataset)
@@ -239,6 +239,7 @@ Last updated: 2024/07/23
 | [RIM-ONE DL](./resources/RIM-ONE_DL.md)                                     | 2D Retinal Images, 485 Cases, 2 Categories of Glaucoma Classification and Optic Disc and Optic Cup Segmentation | [Github](https://github.com/miag-ull/rim-one-dl)                                                                                  | 2020-06      | -           | 
 | [ORVS](./resources/ORVS.md)                                                 | 2D Retinal Images, 49 Cases, 1 Category of Fundus Blood Vessels Segmentation                                    | [Github](https://github.com/AbdullahSarhan/ICPRVessels)                                                                           | 2020-12      | -           |
 | [Diabetic Retinopathy Arranged](./resources/DiabeticRetinopathyArranged.md) | 2D Retinal Images, 35127 Cases, 5 Categories of Diabetic Retinopathy Classification                             | [Project Homepage](https://tianchi.aliyun.com/dataset/93926)                                                                      | 2021-03      | -           |
+| [Augemnted ocular diseases(AOD)](./resources/AOD.md)                        | 2D Retinal Images, 14.8k Cases, 7 Categories of Major Eye Diseases Classification                               | [Kaggle](https://www.kaggle.com/datasets/nurmukhammed7/augemnted-ocular-diseases)                                                 | 2021-04      | -           |
 | [iChallenge-ADAM-Task1](./resources/iChallenge-ADAM-Task1.md)               | 2D Retinal Images, 800 Cases, 2 Categories of Age-related Macular Degeneration (AMD) Classification             | [Grand Challenge](https://amd.grand-challenge.org/Home/)                                                                          | 2022         | ISBI'2020   |
 | [Retinal OCT-C8](./resources/Retinal_OCT-C8.md)                             | 2D OCT, 24000 Cases, 8 Categories of Retinal Disease Classification                                             | [Kaggle](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)                                                            | 2022-01      | -           |
 | [Multi-Label Retinal Diseases](./resources/Multi-LabelRetinalDiseases.md)   | 2D Retinal Images, 2451 Cases, 20 Categories of Eye Diseases Classification                                     | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                                                       | 2022-07      | -           |
