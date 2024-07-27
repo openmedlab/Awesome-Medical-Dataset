@@ -316,6 +316,7 @@ Last updated: 2024/07/27
 | [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                                           | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
 | [PMC-Inline](./resources/PMC-Inline.md)                         | Caption, 11,000,000 Images                                                        | [Hugginface](https://huggingface.co/datasets/chaoyi-wu/PMC-Inline/tree/main)                             | 2023-11      |
 | [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                              | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
+| [MedPromptX-VQA](./resources/MedPromptX-VQA.md)                               | VQA, 968 Cases QA Pair                                                              | [Project Homepage](https://github.com/BioMedIA-MBZUAI/MedPromptX)                                     | 2024-03      |
 
 ## Text dataset
 
