@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/28
+Last updated: 2024/07/29
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -20,7 +20,7 @@ Last updated: 2024/07/28
   - [Endoscopy (26)](#endoscopy)
   - [Retina (33)](#retina)
   - [Skin (7)](#skin)
-  - [Microscopic imaging (29)](#microscopic-imaging)
+  - [Microscopic imaging (30)](#microscopic-imaging)
 - [Imaging and Text (15)](#Image-text-dataset)
 - [Text (14)](#Text-dataset)
 
@@ -289,6 +289,7 @@ Last updated: 2024/07/28
 | [ANHIR](./resources/ANHIR.md)                                                       | 2D Pathological Imaging, 481 Cases, Pathological Image Lung Lobes and Breast Tissue Registration        | [Grand Challenge]( https://anhir.grand-challenge.org/)                                                          | 2020-07      | ISBI'2019    |
 | [CoCaHis](./resources/CoCaHis.md)                                                   | 2D Pathological Imaging, 82 Cases, 2 Categories of Colon Cancer Tissue Segmentation                     | [Project Homepage](https://cocahis.irb.hr/)                                                                     | 2021-01      | -            |
 | [Malaria Cell Images](./resources/Malaria.md)                                       | 2D Microscopic Imaging, 27558 Cases, 2 Categories of Malaria Classification                             | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html) | 2021-03      | -            |
+| [MHIST](./resources/MHIST.md)                                                       | 2D Pathological Imaging, 3152 Cases, 2 Categories of Colon Polyps Classification                        | [Project Homepage](https://bmirds.github.io/MHIST/)                                                             | 2021-06      | -            |
 | [Bone Marrow Cytomorphology](./resources/BoneMarrowCytomorphology.md)               | 2D Pathological Imaging, 171,375 Cases, 21 Categories of Bone Marrow Cell Morphological Classification  | [Project Homepage](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101941770)                | 2021-11      | -            |
 | [Chaoyang](./resources/Chaoyang.md)                                                 | 2D Pathological Imaging, 6160 Cases, 4 Categories of Colonic Lesions Classification                     | [Github](https://bupt-ai-cz.github.io/HSA-NRL/)                                                                 | 2021-11      | -            |
 | [CoNIC2022](./resources/CoNIC2022.md)                                               | 2D Pathological Imaging, 4981 Cases, 7 Categories of Nuclei within Tissues Segmentation                 | [Grand Challenge](https://conic-challenge.grand-challenge.org/)                                                 | 2022         | ISBI'2022    |
