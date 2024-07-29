@@ -23,7 +23,7 @@ In MedPromptX-VQA, patients are labeled with 12 pathological conditions: _Atelec
 The creation of MedPromptX-VQA involves three steps: (1) extraction of laboratory test results from the _chartevents_ table within the MIMIC-IV dataset, resulting in 357 features in total, (2) feature engineering, which includes identification of the most strongly correlated features in relation to the label using Pearson method, and (3) transformation of clinical charts into textual representations using comma-separated values (i.e., serialization). Finally, the dataset is structured to support the in-context learning task, where each record has interleaved image and text, encompassing both positive and negative samples of patients. The motivation for feature selection is to maintain input consistency between the few-shot data and the query sample. This means that the features present in the query sample should already be represented by the candidates, while also adhering to the context length. Hence, we set a maximum of 10 features per label.
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="https://i.ibb.co/NS9mkps/class-distribution.jpg"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/MedPromptX-VQA_class_distribution.jpg"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em>Figure 1, The Positive and Negative representations for 12 pathological conditions.</em></p>
 
