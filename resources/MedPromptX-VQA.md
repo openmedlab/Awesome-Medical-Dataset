@@ -1,7 +1,7 @@
 # MedPromptX-VQA
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/Med-Prompt-X.jpg"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/MedPromptX.jpg"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em></em></p>
 
