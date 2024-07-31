@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/07/30
+Last updated: 2024/07/31
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/07/30
   - [Whole Body (6)](#whole-body)
   - [Head and Neck (41)](#head-and-neck)
   - [Chest (29)](#chest)
-  - [Abdomen (33)](#abdomen)
+  - [Abdomen (34)](#abdomen)
   - [Heart (9)](#heart)
   - [Bones (7)](#bones)
   - [Endoscopy (26)](#endoscopy)
@@ -138,6 +138,7 @@ Last updated: 2024/07/30
 | [KiTS19](./resources/KiTS19.md)                                                                 | 3D CT, 300 Cases, 2 Categories of Kidney and Tumor Segmentation                                       | [Grand Challenge](https://kits19.grand-challenge.org/)                                                 | 2019-03      | MICCAI'2019                    |
 | [CHAOS](./resources/CHAOS.md)                                                                   | 3D CT&MRI, 40 Cases, 4 Categories of Abdominal Organ Segmentation                                     | [Grand Challenge](https://chaos.grand-challenge.org/Combined_Healthy_Abdominal_Organ_Segmentation/)    | 2019-04      | ISBI'2019                      |
 | [Pancreas-CT](./resources/Pancreas-CT.md)                                                       | 3D Contrast-enhanced CT, 80 Cases, 1 Category of Healthy Pancreas Segmentation                        | [TCIA](https://www.cancerimagingarchive.net/collection/pancreas-ct/)                                   | 2020         | -                              |
+| [QIN-PROSTATE-Repeatability](./resources/QIN-PROSTATE-Repeatability.md)                         | 3D MR, 30 Cases, 3 Categories of Prostate Segmentation                                                | [TCIA](https://www.cancerimagingarchive.net/collection/qin-prostate-repeatability/)                    | 2020-11      | -                              |
 | [KiTS21](./resources/KiTS21.md)                                                                 | 3D CT, 400 Cases, 3 Categories of Kidney and Tumor Segmentation                                       | [Project Homepage](https://kits-challenge.org/kits21/)                                                 | 2021-03      | MICCAI'2021                    |
 | [FLARE 2021](./resources/FLARE2021.md)                                                          | 3D CT, 511 Cases, 4 Categories of Abdominal Organ Segmentation                                        | [Grand Challenge](https://flare.grand-challenge.org/)                                                  | 2021-05      | MICCAI'2021                    |
 | [AbdomenCT-1K](./resources/AbdomenCT-1K.md)                                                     | 3D CT, 1112 Cases, 4 Categories of Abdominal Organ Segmentation                                       | [Github](https://github.com/JunMa11/AbdomenCT-1K)                                                      | 2021-07      | -                              |
