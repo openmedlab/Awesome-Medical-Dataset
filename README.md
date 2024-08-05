@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/08/02
+Last updated: 2024/08/05
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -15,7 +15,7 @@ Last updated: 2024/08/02
   - [Head and Neck (41)](#head-and-neck)
   - [Chest (29)](#chest)
   - [Abdomen (34)](#abdomen)
-  - [Heart (10)](#heart)
+  - [Heart (11)](#heart)
   - [Bones (7)](#bones)
   - [Endoscopy (26)](#endoscopy)
   - [Retina (34)](#retina)
@@ -172,7 +172,8 @@ Last updated: 2024/08/02
 | [CMRxMotion](./resources/CMRxMotion.md)                 | 3D MRI, 360 Cases, 3 Categories of Heart Structure Segmentation                          | [Synapse](https://www.synapse.org/#!Synapse:syn28503327/wiki/617823)                                                             | 2022-05      | MICCAI'2022                    |
 | [ImageCAS](./resources/ImageCAS.md)                     | 3D CTA, 1000 Cases, 1 Category of Coronary Artery Segmentation                           | [Github](https://github.com/XiaoweiXu/ImageCAS-A-Large-Scale-Dataset-and-Benchmark-for-Coronary-Artery-Segmentation-based-on-CT) | 2023         | -                              | 
 | [CardiacUDA](./resources/CardiacUDA.md)                 | 2D Ultrasound, 992 Cases, 5 Categories of Heart Structure Segmentation                   | [Github](https://github.com/xmed-lab/GraphEcho)                                                                                  | 2023-09      | -                              |
-| [MICCAI 2024 CARE MyoPS++](./resources/CARE_MyoPS++.md) | 3D CMR, 2741 Cases, 5 Categories of Myocardial Lesion Segmentation                       | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | -                              |
+| [MICCAI 2024 CARE MyoPS++](./resources/CARE_MyoPS++.md) | 3D CMR, 2741 Cases, 5 Categories of Myocardial Lesion Segmentation                       | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
+| [MICCAI 2024 CARE WHS++](./resources/CARE_WHS++.md)     | 3D CT/CTA, 206 Cases, 1 Category of Whole heart segmentation                             | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
 
 ### Bones
 
