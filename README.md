@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/08/06
+Last updated: 2024/08/07
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/08/06
   - [Whole Body (6)](#whole-body)
   - [Head and Neck (41)](#head-and-neck)
   - [Chest (29)](#chest)
-  - [Abdomen (34)](#abdomen)
+  - [Abdomen (35)](#abdomen)
   - [Heart (12)](#heart)
   - [Bones (7)](#bones)
   - [Endoscopy (26)](#endoscopy)
@@ -158,6 +158,7 @@ Last updated: 2024/08/06
 | [MICCAI 2023 PSFHS](./resources/PSFHS.md)                                                       | 2D Ultrasound, 5101 (4000) Cases, 2 Categories of Fetal Head and Pubic Symphysis (FH-PS) Segmentation | [Grand Challenge](https://ps-fh-aop-2023.grand-challenge.org/)                                         | 2023-04      | MICCAI'2023                    |
 | [Adrenal-ACC-Ki67-Seg](./resources/Adrenal-ACC-Ki67-Seg.md)                                     | 3D CT, 57 Cases, 1 Category of Pathologically Confirmed Adrenocortical Carcinoma Segmentation         | [TCIA](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/)                          | 2023-05      | -                              |
 | [AbdomenAtlas 1.0 Mini](./resources/AbdomenAtlas_Mini.md)                                       | 3D CT, 5195 Cases, 9 Categories of Abdominal Organ Segmentation                                       | [Github](https://github.com/MrGiovanni/AbdomenAtlas)                                                   | 2024-02      | -                              |
+| [MICCAI 2024 CARE-LiQA](./resources/CARE-LiQA.md)                                               | 3D MRI, 250 Cases, 2 Categories of Liver Segmentation and Fibrosis Staging                            | [Project Homepage](http://zmic.org.cn/care_2024/track3/)                                               | 2024-05      | MICCAI'2024                    |
 
 ### Heart
 
