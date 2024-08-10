@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/08/09
+Last updated: 2024/08/11
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -22,7 +22,7 @@ Last updated: 2024/08/09
   - [Skin (7)](#skin)
   - [Microscopic imaging (30)](#microscopic-imaging)
 - [Imaging and Text (15)](#Image-text-dataset)
-- [Text (14)](#Text-dataset)
+- [Text (15)](#Text-dataset)
 
 ---
 
@@ -346,3 +346,4 @@ Last updated: 2024/08/09
 | [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md)                           | QA, 113K Cases QA Pair                   | [Github](https://github.com/ywjawmw/TCMEB/blob/main/)            | 2023-08      |
 | [CMExam](./resources/CMExam.md)                                                  | QA, 68K Cases QA Pair                    | [Github](https://github.com/williamliujl/CMExam/)                | 2023-10      |
 | [MedBench](./resources/MedBench.md)                                              | QA, 113K Cases QA Pair                   | [Project Homepage](https://medbench.opencompass.org.cn/)         | 2023-12      |
+| [RJUA-QA](./resources/RJUA-QA.md)                                                | QA, 213 Cases QA Pair                    | [Github](https://github.com/alipay/RJU_Ant_QA/)                  | 2023         |
