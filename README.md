@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/08/20
+Last updated: 2024/08/21
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/08/20
   - [Whole Body (6)](#whole-body)
   - [Head and Neck (43)](#head-and-neck)
   - [Chest (29)](#chest)
-  - [Abdomen (38)](#abdomen)
+  - [Abdomen (39)](#abdomen)
   - [Heart (12)](#heart)
   - [Bones (8)](#bones)
   - [Endoscopy (26)](#endoscopy)
@@ -154,6 +154,7 @@ Last updated: 2024/08/20
 | [AMOS 2022](./resources/AMOS.md)                                                                | 3D CT&MRI, 600 Cases, 15 Categories of Abdominal Organ Segmentation                                   | [Grand Challenge](https://amos22.grand-challenge.org/)                                                 | 2022-05      | MICCAI'2022                    |
 | [PI-CAI](./resources/PI-CAI.md)                                                                 | 3D MR, 1500 Cases, 1 Category of Prostate Tumor Segmentation                                          | [Grand Challenge](https://pi-cai.grand-challenge.org/)                                                 | 2022-05      | -                              |
 | [HCC-TACE-Seg](./resources/HCC-TACE-Seg.md)                                                     | 3D CT, 628 Cases, 4 Categories of Liver and Liver Tumor Segmentation                                  | [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/)                                  | 2022-08      | -                              |
+| [EBHI-Seg](./resources/EBHI-Seg.md)                                                             | 2D Pathology, 4456 Cases, 6 Categories of Colon Segmentation                                          |                                                                                                        | 2023-01      | -                              |
 | [LLD-MMRI2023](./resources/LLD-MMRI2023.md)                                                     | 3D MRI, 394 Cases, Liver Lesion Detection                                                             | [Github](https://github.com/LMMMEng/LLD-MMRI2023/tree/main?tab=readme-ov-file)                         | 2023-02      | MICCAI'2023                    |
 | [SPPIN](./resources/SPPIN.md)                                                                   | 3D MRI, 111 Cases, 1 Category of Pediatric Neuroblastoma Segmentation                                 | [Grand Challenge](https://sppin.grand-challenge.org/sppin/)                                            | 2023-04      | MICCAI'2023                    |
 | [FLARE 2023](./resources/FLARE2023.md)                                                          | 3D CT, 4500 Cases, 14 Categories of Abdominal Organ and Tumor Segmentation                            | [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/12239)                                         | 2023-04      | MICCAI'2023                    |
