@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/08/24
+Last updated: 2024/08/25
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -13,7 +13,7 @@ Last updated: 2024/08/24
 - [Imaging](#Imaging)
   - [Whole Body (6)](#whole-body)
   - [Head and Neck (43)](#head-and-neck)
-  - [Chest (30)](#chest)
+  - [Chest (31)](#chest)
   - [Abdomen (40)](#abdomen)
   - [Heart (12)](#heart)
   - [Bones (8)](#bones)
@@ -92,6 +92,7 @@ Last updated: 2024/08/24
 
 | Dataset                                                                       | Description                                                                                              | Official Website                                                                            | Release Date | Challenge                      |
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------------|:-------------------------------|
+| [jsrt-directions](./resources/jsrt-directions.md)                             | 2D X-Ray, 988 Cases, 4 Categories of X-ray Direction Classification                                      | [Project Homepage](http://imgcom.jsrt.or.jp/minijsrtdb/)                                    | 2000-01      | -                              |
 | [CRASS12](./resources/CRASS12.md)                                             | 2D X-Ray, 284 Cases, 1 Category of Clavicle Segmentation                                                 | [Grand Challenge](https://crass.grand-challenge.org/Details/)                               | 2012-12      | -                              |
 | [QIBA-VolCT-1B](./resources/QIBA-VolCT-1B.md)                                 | 3D CT, 323 Cases, 1 Categories of Lung Tumor Segmentation and Lesion Size Measurement                    | [TCIA](https://www.cancerimagingarchive.net/analysis-result/qiba-volct-1b/)                 | 2015         | -                              |
 | [MIAS](./resources/MIAS.md)                                                   | 2D X-ray, 322 Cases, 7 Categories of Breast Lesions Classification                                       | [Kaggle](https://www.kaggle.com/datasets/kmader/mias-mammography)                           | 2015         | -                              |
