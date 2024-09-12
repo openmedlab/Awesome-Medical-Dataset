@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/09/11
+Last updated: 2024/09/12
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/09/11
   - [Whole Body (7)](#whole-body)
   - [Head and Neck (45)](#head-and-neck)
   - [Chest (33)](#chest)
-  - [Abdomen (42)](#abdomen)
+  - [Abdomen (43)](#abdomen)
   - [Heart (12)](#heart)
   - [Bones (10)](#bones)
   - [Endoscopy (28)](#endoscopy)
@@ -175,6 +175,7 @@ Last updated: 2024/09/11
 | [FLARE 2024 Task 1](./resources/FLARE2024_Task1.md)                                             | 3D CT, 10000 Cases, 1 Category of Whole Body Tumor Segmentation                                       | [Codabench](https://www.codabench.org/competitions/2319)                                               | 2024-04      | MICCAI'2024                    |
 | [MICCAI 2024 CARE-LiQA](./resources/CARE-LiQA.md)                                               | 3D MRI, 250 Cases, 2 Categories of Liver Segmentation and Fibrosis Staging                            | [Project Homepage](http://zmic.org.cn/care_2024/track3/)                                               | 2024-05      | MICCAI'2024                    |
 | [FedSurg](./resources/FedSurg.md)                                                               | 2D Laparoscopy, 30 Cases, 6 Categories of Laparoscopic Appendectomy                                   | [Synapse](https://www.synapse.org/Synapse:syn53137385/wiki/625370)                                     | 2024-05      | MICCAI'2024                    |
+| [MICCAI-24 ACOUSLIC](./resources/ACOUSLIC.md)                                                   | 3D Ultrasound, 600 Cases, 3 Categories of Fetal Abdomen Waist measurement                             | [Grand Challenge](https://acouslic-ai.grand-challenge.org/overview-and-goals/)                         | 2024-05      | MICCAI'2024                    |
 
 ### Heart
 
