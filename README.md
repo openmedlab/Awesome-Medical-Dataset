@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/09/13
+Last updated: 2024/09/14
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -20,7 +20,7 @@ Last updated: 2024/09/13
   - [Endoscopy (28)](#endoscopy)
   - [Retina (38)](#retina)
   - [Skin (7)](#skin)
-  - [Microscopic imaging (31)](#microscopic-imaging)
+  - [Microscopic imaging (32)](#microscopic-imaging)
 - [Imaging and Text (17)](#Image-text-dataset)
 - [Text (15)](#Text-dataset)
 
@@ -331,6 +331,7 @@ Last updated: 2024/09/13
 | [BRACS](./resources/BRACS.md)                                                       | 2D Pathological Imaging, 4539 ROIs/547 WSIs, 7 Categories of Breast Cancer Subtype Classification       | [Project Homepage](https://www.bracs.icar.cnr.it/)                                                              | 2022-10      | -            |
 | [BCI](./resources/BCI.md)                                                           | 2D Pathological Imaging, 4870 Cases, 4 Categories to convert HE images to IHC images                    | [Project Homepage](https://bupt-ai-cz.github.io/BCI/)                                                           | 2023-04      | -            |
 | [MedFM Colon 2023](./resources/MedFM_Colon.md)                                      | 2D Pathological Imaging, 10009 Cases, 2 Categories of Colon Tumor Classification                        | [Grand Challenge](https://medfm2023.grand-challenge.org/)                                                       | 2023-05      | NeurIPS'2023 |
+| [SegPANDA200](./resources/SegPANDA200.md)                                           | 2D Pathological Imaging, 100960 Cases, 6 Categories of Prostate Tissue Segmentation                     | [Project Homepage](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_25)                              | 2023-10      | -            |
 | [KPIs](./resources/KPIs.md)                                                         | 2D Pathological Imaging, 10428 Patches, 1 Category of Glomerular Tissue Segmentation                    | [Project Homepage](https://sites.google.com/view/kpis2024)                                                      | 2024-03      | MICCAI'2024  |
 
 ## Image text dataset
