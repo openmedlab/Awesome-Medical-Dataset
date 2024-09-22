@@ -3,7 +3,7 @@
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/C3VD_0.png"></a>
 </div>
-<p style="text-align:center;font-size:10px;"><em> ITK-SNAP Visualization.</em></p>
+<p style="text-align:center;font-size:10px;"><em></em></p>
 
 ## Dataset Information
 
