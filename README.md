@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/09/25
+Last updated: 2024/09/26
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -12,7 +12,7 @@ Last updated: 2024/09/25
 
 - [Medical Image Datasets](#medical-image-datasets)
   - [Whole Body (7)](#whole-body)
-  - [Head and Neck (47)](#head-and-neck)
+  - [Head and Neck (48)](#head-and-neck)
   - [Chest (33)](#chest)
   - [Abdomen (45)](#abdomen)
   - [Heart (12)](#heart)
@@ -53,6 +53,7 @@ Last updated: 2024/09/25
 | [BraTS-TCGA-GBM](./resources/BraTS-TCGA-GBM.md)           | 3D MRI, 102 Cases, 3 Categories of Glioblastoma Multiforme (GBM) Segmentation                                            | [TCIA](https://www.cancerimagingarchive.net/analysis-result/brats-tcga-gbm/)            | 2017         | BRATS2015                      |
 | [PDDCA](./resources/PDDCA.md)                             | 3D CT, 48 Cases, 9 Categories of Head and Neck Organs Segmentation                                                       | [Project Homepage](https://www.imagenglab.com/newsite/pddca/)                           | 2017-03      | -                              |
 | [BraTS18](./resources/BraTS18.md)                         | 3D MRI, 285 Cases, 3 Categories of Brain Tumor Segmentation                                                              | [Project Homepage](https://www.med.upenn.edu/sbia/brats2018/data.html)                  | 2018         | MICCAI'2018                    |
+| [ZuCo](./resources/ZuCo.md)                               | 2D NLP, 146909 Cases, 3 Categories of EEG (electroencephalography) Sampling in Reading                                   | [Project Homepage](https://osf.io/q3zws/)                                               | 2018-07      | -                              |
 | [iSeg](./resources/iSeg.md)                               | 3D MRI, 13 Cases, 3 Categories of Brain Tissue Segmentation                                                              | [Project Homepage](https://iseg2019.web.unc.edu/)                                       | 2019         | MICCAI'2017 & 2019             |
 | [StructSeg2019 Task1](./resources/StructSeg2019_Task1.md) | 3D CT, 50 Cases, 22 Categories of Head and Neck Organs Segmentation                                                      | [Grand Challenge](https://structseg2019.grand-challenge.org/)                           | 2019         | MICCAI'2019                    |
 | [StructSeg2019 Task2](./resources/StructSeg2019_Task2.md) | 3D CT, 50 Cases, 1 Category of Nasopharyngeal Carcinoma Segmentation                                                     | [Grand Challenge](https://structseg2019.grand-challenge.org/)                           | 2019         | MICCAI'2019                    |
@@ -367,21 +368,21 @@ Last updated: 2024/09/25
 
 ## Text dataset
 
-| Dataset                                                                          | Description                                                      | Official Website                                                                 | Release Date |
-|:---------------------------------------------------------------------------------|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------|
-| [LiveQA](./resources/LiveQA.md)                                                  | QA, 634 Cases QA Pair                                            | [Github](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017)                 | 2017         |
-| [cMedQA](./resources/cMedQA.md) v2.0                                             | QA, 108K Cases QA Pair                                           | [Github](https://github.com/zhangsheng93/cMedQA2)                                | 2018-12      | 
-| [webMedQA](./resources/webMedQA.md)                                              | QA, 63,284 Cases QA Pair                                         | [Github](https://github.com/hejunqing/webMedQA/tree/master)                      | 2019         |
-| [PubMedQA](./resources/PubMedQA.md)                                              | QA, 1000 Cases Expert annotation QA Pair                         | [Project Homepage](https://pubmedqa.github.io/)                                  | 2019         |
-| [MedDialog-CN](./resources/MedDialog-CN.md)                                      | QA, 1.1M Cases QA Pair                                           | [Github](https://github.com/UCSD-AI4H/Medical-Dialogue-System)                   | 2020-07      |
-| [MedQA](./resources/MedQA.md)                                                    | QA, 61,097 Cases QA Pair                                         | [Github](https://github.com/jind11/MedQA)                                        | 2020-09      |
+| Dataset                                                                         | Description                                                      | Official Website                                                                 | Release Date |
+|:--------------------------------------------------------------------------------|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------|
+| [LiveQA](./resources/LiveQA.md)                                                 | QA, 634 Cases QA Pair                                            | [Github](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017)                 | 2017         |
+| [cMedQA](./resources/cMedQA.md) v2.0                                            | QA, 108K Cases QA Pair                                           | [Github](https://github.com/zhangsheng93/cMedQA2)                                | 2018-12      | 
+| [webMedQA](./resources/webMedQA.md)                                             | QA, 63,284 Cases QA Pair                                         | [Github](https://github.com/hejunqing/webMedQA/tree/master)                      | 2019         |
+| [PubMedQA](./resources/PubMedQA.md)                                             | QA, 1000 Cases Expert annotation QA Pair                         | [Project Homepage](https://pubmedqa.github.io/)                                  | 2019         |
+| [MedDialog-CN](./resources/MedDialog-CN.md)                                     | QA, 1.1M Cases QA Pair                                           | [Github](https://github.com/UCSD-AI4H/Medical-Dialogue-System)                   | 2020-07      |
+| [MedQA](./resources/MedQA.md)                                                   | QA, 61,097 Cases QA Pair                                         | [Github](https://github.com/jind11/MedQA)                                        | 2020-09      |
 | [Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) | QA, 792K Cases QA Pair                                           | [Project Homepage](https://tianchi.aliyun.com/dataset/90163)                     | 2021-02      |
-| [MedMCQA](./resources/MedMCQA.md)                                                | QA, 193,155 Cases QA Pair                                        | [Project Homepage](https://medmcqa.github.io/)                                   | 2022-03      |
-| [Huatuo-26M](./resources/Huatuo-26M.md)                                          | QA, 26M Cases QA Pair                                            | [Github](https://github.com/FreedomIntelligence/Huatuo-26M)                      | 2023-05      |
-| [HealthSearchQA](./resources/HealthSearchQA.md)                                  | QA, 3173 Cases QA Pair                                           | [Paper](https://www.nature.com/articles/s41586-023-06291-2)                      | 2023-07      |
-| [CMB](./resources/CMB.md)                                                        | QA, 270K Cases QA Pair                                           | [Github](https://github.com/FreedomIntelligence/CMB/tree/main)                   | 2023-08      |
-| [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md)                           | QA, 113K Cases QA Pair                                           | [Github](https://github.com/ywjawmw/TCMEB/blob/main/)                            | 2023-08      |
-| [CMExam](./resources/CMExam.md)                                                  | QA, 68K Cases QA Pair                                            | [Github](https://github.com/williamliujl/CMExam/)                                | 2023-10      |
-| [MedBench](./resources/MedBench.md)                                              | QA, 113K Cases QA Pair                                           | [Project Homepage](https://medbench.opencompass.org.cn/)                         | 2023-12      |
-| [RJUA-QA](./resources/RJUA-QA.md)                                                | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                  | 2023         |
-| [ChineseEEG](./resources/ChineseEEG.md)                                          | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing)   | 2024-03      |
+| [MedMCQA](./resources/MedMCQA.md)                                               | QA, 193,155 Cases QA Pair                                        | [Project Homepage](https://medmcqa.github.io/)                                   | 2022-03      |
+| [Huatuo-26M](./resources/Huatuo-26M.md)                                         | QA, 26M Cases QA Pair                                            | [Github](https://github.com/FreedomIntelligence/Huatuo-26M)                      | 2023-05      |
+| [HealthSearchQA](./resources/HealthSearchQA.md)                                 | QA, 3173 Cases QA Pair                                           | [Paper](https://www.nature.com/articles/s41586-023-06291-2)                      | 2023-07      |
+| [CMB](./resources/CMB.md)                                                       | QA, 270K Cases QA Pair                                           | [Github](https://github.com/FreedomIntelligence/CMB/tree/main)                   | 2023-08      |
+| [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md)                          | QA, 113K Cases QA Pair                                           | [Github](https://github.com/ywjawmw/TCMEB/blob/main/)                            | 2023-08      |
+| [CMExam](./resources/CMExam.md)                                                 | QA, 68K Cases QA Pair                                            | [Github](https://github.com/williamliujl/CMExam/)                                | 2023-10      |
+| [MedBench](./resources/MedBench.md)                                             | QA, 113K Cases QA Pair                                           | [Project Homepage](https://medbench.opencompass.org.cn/)                         | 2023-12      |
+| [RJUA-QA](./resources/RJUA-QA.md)                                               | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                  | 2023         |
+| [ChineseEEG](./resources/ChineseEEG.md)                                         | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing)   | 2024-03      |
