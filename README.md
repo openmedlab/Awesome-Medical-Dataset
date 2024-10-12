@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/09
+Last updated: 2024/10/12
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,7 +21,7 @@ Last updated: 2024/10/09
   - [Retina (41)](#retina)
   - [Skin (9)](#skin)
   - [Microscopic imaging (35)](#microscopic-imaging)
-- [Imaging and Text (17)](#Image-text-dataset)
+- [Imaging and Text (18)](#Image-text-dataset)
 - [Text (16)](#Text-dataset)
 
 ---
@@ -368,6 +368,7 @@ Last updated: 2024/10/09
 | [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                              | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
 | [MedPromptX-VQA](./resources/MedPromptX-VQA.md)                 | VQA, 968 Cases QA Pair                                                            | [Project Homepage](https://github.com/BioMedIA-MBZUAI/MedPromptX)                                        | 2024-03      |
 | [WSI-VQA](./resources/WSI-VQA.md)                               | VQA, 8672 Cases QA Pair                                                           | [Github](https://github.com/cpystan/WSI-VQA/tree/master)                                                 | 2024-07      |
+| [Medical-CXR-VQA](./resources/Medical-CXR-VQA.md)               | 2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray images                   | [Github](https://github.com/Holipori/Medical-CXR-VQA)                                                    | 2024-07      |
 
 ## Text dataset
 
