@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/12
+Last updated: 2024/10/13
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -16,7 +16,7 @@ Last updated: 2024/10/12
   - [Chest (33)](#chest)
   - [Abdomen (45)](#abdomen)
   - [Heart (12)](#heart)
-  - [Bones (10)](#bones)
+  - [Bones (11)](#bones)
   - [Endoscopy (28)](#endoscopy)
   - [Retina (41)](#retina)
   - [Skin (9)](#skin)
@@ -201,18 +201,19 @@ Last updated: 2024/10/12
 
 ### Bones
 
-| Dataset                                                                               | Description                                                                                        | Official Website                                                                          | Release Date | Challenge          |
-|:--------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-------------|:-------------------|
-| [TCB Challeng](./resources/TCB.md)                                                    | 2D Bone Radiograph, 174Cases, 2 Categories of Osteoporosis Classification                          | [Project Homepage](https://www.idpoisson.fr/tcbchallenge/)                                | 2016-08      | -                  |
-| [IVDM3Seg](./resources/IVDM3Seg.md)                                                   | 3D MRI, 16 Cases, 1 Category of Intervertebral Disc Segmentation                                   | [Project Homepage](https://ivdm3seg.weebly.com/)                                          | 2018-09      | MICCAI'2018        | 
-| [Osteosarcoma Tumor Assessment](./resources/Osteosarcoma.md)                          | 2D Pathological Imaging, 1144 Cases, 3 Categories of Tumor after Surgical Resection Classification | [TCIA](https://www.cancerimagingarchive.net/collection/osteosarcoma-tumor-assessment/)    | 2019         | -                  |
-| [VerSe](./resources/VerSe.md)                                                         | 3D CT, 374 Cases, 26 Categories of Spine Segmentation                                              | [Github](https://github.com/anjany/verse)                                                 | 2020-05      | MICCAI'2019 & 2020 |
-| [RibFrac 2020](./resources/RibFrac.md)                                                | 3D CT, 660 Cases, 4 Categories of Rib Fracture Detection and Classification                        | [Grand Challenge](https://ribfrac.grand-challenge.org/)                                   | 2020-06      | MICCAI'2020        |                                    
-| [Digital Knee X-ray Images](./resources/Digital_Knee_X-ray_Images.md)                 | 2D X-Ray, 1650 Cases, 5 Categories of Knee Joint Diseases Classification                           | [Project Homepage](https://data.mendeley.com/datasets/t9ndx37v5h/1)                       | 2020-06      | -                  |
-| [CTPelvic1K](./resources/CTPelvic1K.md)                                               | 3D CT, 1184 Cases, 4 Categories of Lumbar Spine, Sacrum, Left and Right Hip Segmentation           | [Github](https://github.com/MIRACLE-Center/CTPelvic1K)                                    | 2020-12      | -                  |
-| [CTSpine1K](./resources/CTSpine1K.md)                                                 | 3D CT, 1005 Cases, 25 Categories of Spine Segmentation                                             | [Github](https://github.com/MIRACLE-Center/CTSpine1K)                                     | 2021-05      | -                  |
-| [SPIDER](./resources/SPIDER.md)                                                       | 3D MR, 544 Cases, 19 Categories of Spine, Intervertebral Disc, Spinal Canal Segmentation           | [Grand Challenge](https://spider.grand-challenge.org/)                                    | 2023-06      | -                  |
-| [Fractured Bone Detection](./resources/FracturedBoneDetection.md)                     | 3D CT, 24 Cases, 2 Categories of 2 Fractures Classification                                        | [Kaggle](https://www.kaggle.com/competitions/fractured-bone-detection-challenge/overview) | 2023-06      | -                  |
+| Dataset                                                               | Description                                                                                        | Official Website                                                                          | Release Date | Challenge          |
+|:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-------------|:-------------------|
+| [TCB Challeng](./resources/TCB.md)                                    | 2D Bone Radiograph, 174Cases, 2 Categories of Osteoporosis Classification                          | [Project Homepage](https://www.idpoisson.fr/tcbchallenge/)                                | 2016-08      | -                  |
+| [MURA](./resources/MURA.md)                                           | 2D X-ray, 40561 Cases, 2 Categories of Musculoskeletal Classification                              | [Project Homepage](https://stanfordmlgroup.github.io/competitions/mura/)                  | 2018         | -                  |
+| [IVDM3Seg](./resources/IVDM3Seg.md)                                   | 3D MRI, 16 Cases, 1 Category of Intervertebral Disc Segmentation                                   | [Project Homepage](https://ivdm3seg.weebly.com/)                                          | 2018-09      | MICCAI'2018        | 
+| [Osteosarcoma Tumor Assessment](./resources/Osteosarcoma.md)          | 2D Pathological Imaging, 1144 Cases, 3 Categories of Tumor after Surgical Resection Classification | [TCIA](https://www.cancerimagingarchive.net/collection/osteosarcoma-tumor-assessment/)    | 2019         | -                  |
+| [VerSe](./resources/VerSe.md)                                         | 3D CT, 374 Cases, 26 Categories of Spine Segmentation                                              | [Github](https://github.com/anjany/verse)                                                 | 2020-05      | MICCAI'2019 & 2020 |
+| [RibFrac 2020](./resources/RibFrac.md)                                | 3D CT, 660 Cases, 4 Categories of Rib Fracture Detection and Classification                        | [Grand Challenge](https://ribfrac.grand-challenge.org/)                                   | 2020-06      | MICCAI'2020        |                                    
+| [Digital Knee X-ray Images](./resources/Digital_Knee_X-ray_Images.md) | 2D X-Ray, 1650 Cases, 5 Categories of Knee Joint Diseases Classification                           | [Project Homepage](https://data.mendeley.com/datasets/t9ndx37v5h/1)                       | 2020-06      | -                  |
+| [CTPelvic1K](./resources/CTPelvic1K.md)                               | 3D CT, 1184 Cases, 4 Categories of Lumbar Spine, Sacrum, Left and Right Hip Segmentation           | [Github](https://github.com/MIRACLE-Center/CTPelvic1K)                                    | 2020-12      | -                  |
+| [CTSpine1K](./resources/CTSpine1K.md)                                 | 3D CT, 1005 Cases, 25 Categories of Spine Segmentation                                             | [Github](https://github.com/MIRACLE-Center/CTSpine1K)                                     | 2021-05      | -                  |
+| [SPIDER](./resources/SPIDER.md)                                       | 3D MR, 544 Cases, 19 Categories of Spine, Intervertebral Disc, Spinal Canal Segmentation           | [Grand Challenge](https://spider.grand-challenge.org/)                                    | 2023-06      | -                  |
+| [Fractured Bone Detection](./resources/FracturedBoneDetection.md)     | 3D CT, 24 Cases, 2 Categories of 2 Fractures Classification                                        | [Kaggle](https://www.kaggle.com/competitions/fractured-bone-detection-challenge/overview) | 2023-06      | -                  |
 
 ### Endoscopy
 
