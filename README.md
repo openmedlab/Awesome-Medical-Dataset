@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/14
+Last updated: 2024/10/15
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -14,7 +14,7 @@ Last updated: 2024/10/14
   - [Whole Body (7)](#whole-body)
   - [Head and Neck (50)](#head-and-neck)
   - [Chest (33)](#chest)
-  - [Abdomen (45)](#abdomen)
+  - [Abdomen (46)](#abdomen)
   - [Heart (12)](#heart)
   - [Bones (11)](#bones)
   - [Endoscopy (28)](#endoscopy)
@@ -161,13 +161,14 @@ Last updated: 2024/10/14
 | [AbdomenCT-1K](./resources/AbdomenCT-1K.md)                                                     | 3D CT, 1112 Cases, 4 Categories of Abdominal Organ Segmentation                                       | [Github](https://github.com/JunMa11/AbdomenCT-1K)                                                      | 2021-07      | -                              |
 | [QUBIQ2021](./resources/QUBIQ2021.md)                                                           | 3D CT, 90 Cases, 2 Categories of Pancreas and Lesions Segmentation                                    | [Grand Challenge](https://qubiq21.grand-challenge.org/QUBIQ2021/)                                      | 2021-08      | MICCAI'2021                    |
 | [WORD](./resources/WORD.md)                                                                     | 3D CT, 150 Cases, 16 Categories of Abdominal Organ Segmentation                                       | [Github](https://github.com/HiLab-git/WORD)                                                            | 2021-11      | -                              |
+| [NuCLS](./resources/NuCLS.md)                                                                   | 2D Pathology, 119828 Cases, Gastric Cancer Pathology Image Classification                             | [Project Homepage](https://www.sciencedirect.com/science/article/abs/pii/S0010482521010015)            | 2022-03      | -                              |
 | [FLARE 2023](./resources/FLARE2023.md)                                                          | 3D CT, 2300 Cases, 13 Categories of Abdominal Organ Segmentation                                      | [Grand Challenge](https://flare22.grand-challenge.org/)                                                | 2022-03      | MICCAI'2022                    |
 | [UW-Madison GI Tract Image Segmentation](./resources/UW-Madison_GI_Tract_Image_Segmentation.md) | 2D MRI, 38496 Cases, 3 Categories of Gastrointestinal Tract Segmentation                              | [Kaggle](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation/overview)          | 2022-04      | -                              |
 | [KiPA22](./resources/KiPA22.md)                                                                 | 3D CTA, 130 Cases, 4 Categories of Vessel and Tumor Segmentation                                      | [Grand Challenge](https://kipa22.grand-challenge.org/)                                                 | 2022-04      | MICCAI'2022                    |
 | [AMOS 2022](./resources/AMOS.md)                                                                | 3D CT&MRI, 600 Cases, 15 Categories of Abdominal Organ Segmentation                                   | [Grand Challenge](https://amos22.grand-challenge.org/)                                                 | 2022-05      | MICCAI'2022                    |
 | [PI-CAI](./resources/PI-CAI.md)                                                                 | 3D MR, 1500 Cases, 1 Category of Prostate Tumor Segmentation                                          | [Grand Challenge](https://pi-cai.grand-challenge.org/)                                                 | 2022-05      | -                              |
 | [HCC-TACE-Seg](./resources/HCC-TACE-Seg.md)                                                     | 3D CT, 628 Cases, 4 Categories of Liver and Liver Tumor Segmentation                                  | [TCIA](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/)                                  | 2022-08      | -                              |
-| [EBHI-Seg](./resources/EBHI-Seg.md)                                                             | 2D Pathology, 4456 Cases, 6 Categories of Colon Segmentation                                          |                                                                                                        | 2023-01      | -                              |
+| [EBHI-Seg](./resources/EBHI-Seg.md)                                                             | 2D Pathology, 4456 Cases, 6 Categories of Colon Segmentation                                          | [Project Homepage](https://figshare.com/articles/dataset/EBHI-SEG/21540159/1)                          | 2023-01      | -                              |
 | [LLD-MMRI2023](./resources/LLD-MMRI2023.md)                                                     | 3D MRI, 394 Cases, Liver Lesion Detection                                                             | [Github](https://github.com/LMMMEng/LLD-MMRI2023/tree/main?tab=readme-ov-file)                         | 2023-02      | MICCAI'2023                    |
 | [SPPIN](./resources/SPPIN.md)                                                                   | 3D MRI, 111 Cases, 1 Category of Pediatric Neuroblastoma Segmentation                                 | [Grand Challenge](https://sppin.grand-challenge.org/sppin/)                                            | 2023-04      | MICCAI'2023                    |
 | [FLARE 2023](./resources/FLARE2023.md)                                                          | 3D CT, 4500 Cases, 14 Categories of Abdominal Organ and Tumor Segmentation                            | [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/12239)                                         | 2023-04      | MICCAI'2023                    |
