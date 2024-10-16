@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/15
+Last updated: 2024/10/16
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -15,7 +15,7 @@ Last updated: 2024/10/15
   - [Head and Neck (50)](#head-and-neck)
   - [Chest (33)](#chest)
   - [Abdomen (46)](#abdomen)
-  - [Heart (12)](#heart)
+  - [Heart (13)](#heart)
   - [Bones (11)](#bones)
   - [Endoscopy (28)](#endoscopy)
   - [Retina (41)](#retina)
@@ -193,6 +193,7 @@ Last updated: 2024/10/15
 | [MM-WHS](./resources/MM-WHS.md)                          | 3D CT/MRI, 120 Cases, 7 Categories of Heart Substructure Segmentation                          | [Github](https://zmiclab.github.io/zxh/0/mmwhs/)                                                                                 | 2017         | MICCAI'2017                    |
 | [MSD Cardiac](./resources/MSD_Cardiac.md)                | 3D MRI, 30 Cases, 1 Category of Left Atrium Segmentation                                       | [MSD](http://medicaldecathlon.com/)                                                                                              | 2019-02      | Medical Segmentation Decathlon |
 | [M&Ms Cardiac CMR Segmentation](./resources/M&Ms.md)     | 3D MR, 375 Cases, 3 Categories of Left and right ventricles and myocardial segmentation        | [Project Homepage](https://www.ub.edu/mnms/)                                                                                     | 2020         | MICCAI'2020                    |
+| [EMIDEC](./resources/EMIDEC.md)                          | 3D DE-MRI, 150 Cases, 3 Categories of Assessment of Myocardial Infarction Segmentation         | [Project Homepage](https://emidec.com/)                                                                                          | 2020-04      | MICCAI'2020                    |
 | [MyoPS 2020](./resources/MyoPS_2020.md)                  | 3D MRI, 45 Cases, 5 Categories of Myocardial Pathology Segmentation                            | [Github](https://zmiclab.github.io/zxh/0/myops20/)                                                                               | 2020-04      | MICCAI'2020                    |
 | [LAScarQS 2022](./resources/LAScarQS_2022.md)            | 3D MRI, 194 Cases, 2 Categories of Left Atrium and Scar Segmentation                           | [Github](https://zmiclab.github.io/projects/lascarqs22/)                                                                         | 2022-04      | MICCAI'2022                    |
 | [CMRxMotion](./resources/CMRxMotion.md)                  | 3D MRI, 360 Cases, 3 Categories of Heart Structure Segmentation                                | [Synapse](https://www.synapse.org/#!Synapse:syn28503327/wiki/617823)                                                             | 2022-05      | MICCAI'2022                    |
