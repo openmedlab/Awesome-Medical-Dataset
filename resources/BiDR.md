@@ -15,7 +15,7 @@ The labels in the dataset are binary, with `0` indicating the presence of diabet
 
 | Dimensions | Modality            | Task Type        | Anatomical Area | Number of Categories | Data Volume | File Format |
 |------------|---------------------|------------------|-----------------|----------------------|-------------|-------------|
-| 2D         | fundus photography  | Classification   | Head and Neck   | 2                    | 2838        | JPG         |
+| 2D         | fundus photography  | Classification   | Retina          | 2                    | 2838        | JPG         |
 
 
 ### Resolution Details
