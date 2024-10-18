@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/17
+Last updated: 2024/10/18
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,7 +21,7 @@ Last updated: 2024/10/17
   - [Retina (42)](#retina)
   - [Skin (9)](#skin)
   - [Microscopic imaging (35)](#microscopic-imaging)
-- [Imaging and Text (18)](#Image-text-dataset)
+- [Imaging and Text (19)](#Image-text-dataset)
 - [Text (16)](#Text-dataset)
 
 ---
@@ -359,6 +359,7 @@ Last updated: 2024/10/17
 | [IU-Xray](./resources/IU-Xray.md)                               | RG, 7,470 Frontal or Lateral Chest X-ray Images, with 3,955 Corresponding Reports | [PaperWithCode](https://paperswithcode.com/dataset/iu-x-ray)                                             | 2016         |
 | [VQA-RAD](./resources/VQA-RAD.md)                               | VQA, 3515  Cases QA Pair                                                          | [Project Homepage](https://osf.io/89kps/)                                                                | 2018-11      |
 | [ImageClef-2019-VQA-Med](./resources/ImageClef-2019-VQA-Med.md) | VQA, 15292  Cases QA Pair                                                         | [Project Homepage](https://www.imageclef.org/2019/medical/vqa/)                                          | 2019-09      |
+| [ZuCo 2.0](./resources/ZuCo2.0.md)                              | eeg-to-text                                                                       | [Project Homepage](https://osf.io/2urht/)                                                                | 2019-12      | 
 | [PathVQA](./resources/PathVQA.md)                               | VQA, 32799 Cases QA Pair                                                          | [Grand Challenge](https://pathvqachallenge.grand-challenge.org/)                                         | 2020-03      |
 | [MedICaT](./resources/MedICaT.md)                               | VQA, 217060 Cases QA Pair                                                         | [Github](https://github.com/allenai/medicat)                                                             | 2020-12      |
 | [SLAKE](./resources/SLAKE.md)                                   | VQA, 14028  Cases QA Pair                                                         | [Project Homepage](https://www.med-vqa.com/slake/)                                                       | 2021-02      |
