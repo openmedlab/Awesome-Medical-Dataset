@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/22
+Last updated: 2024/10/23
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -13,7 +13,7 @@ Last updated: 2024/10/22
 - [Medical Image Datasets](#medical-image-datasets)
   - [Whole Body (8)](#whole-body)
   - [Head and Neck (50)](#head-and-neck)
-  - [Chest (32)](#chest)
+  - [Chest (33)](#chest)
   - [Abdomen (46)](#abdomen)
   - [Heart (13)](#heart)
   - [Bones (11)](#bones)
@@ -113,6 +113,7 @@ Last updated: 2024/10/22
 | [MSD Lung Tumours](./resources/MSD_Lung_Tumours.md)                           | 3D CT, 96 Cases, 1 Category of Lung Tumor Segmentation                                                   | [MSD](http://medicaldecathlon.com/)                                                         | 2019-02      | Medical Segmentation Decathlon |
 | [LNDb](./resources/LNDb.md)                                                   | 3D CT, 294 Cases, 1 Category of Lung Nodule Segmentation                                                 | [Grand Challenge](https://lndb.grand-challenge.org/)                                        | 2019-11      | ICIAR'2020                     |
 | [BUSI](./resources/BUSI.md)                                                   | 3D Ultrasound, 780 Cases, 3 Categories of Breast Tumor Segmentation                                      | [Project Homepage](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)                       | 2019-11      | -                              |
+| [RIDER-LungCT-Seg](./resources/RIDER-LungCT-Seg.md)                           | 3D CT, 59 Cases, 1 Category of Lung Cancer Segmentation                                                  | [TCIA](https://www.cancerimagingarchive.net/analysis-result/rider-lungct-seg/)              | 2020-02      | -                              |
 | [PleThora](./resources/PleThora.md)                                           | 3D CT, 402 Cases, 2 Categories of Pleural Effusion and Thoracic Segmentation                             | [TCIA](https://www.cancerimagingarchive.net/analysis-result/plethora/)                      | 2020-04      | -                              |
 | [SARS-COV-2 Ct-Scan](./resources/SARS-COV-2.md)                               | 2D CT, 2482 Cases, 2 Categories of Pneumonia Classification                                              | [Kaggle](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)             | 2020-05      | -                              |
 | [COVID_CT_COVID-CT](./resources/COVID_CT_COVID-CT.md)                         | 2D CT, 746 Cases, 2 Categories of Pneumonia Classification                                               | [Tianchi](https://tianchi.aliyun.com/dataset/106604)                                        | 2020-06      | -                              |
