@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/23
+Last updated: 2024/10/24
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -20,7 +20,7 @@ Last updated: 2024/10/23
   - [Endoscopy (27)](#endoscopy)
   - [Retina (42)](#retina)
   - [Skin (9)](#skin)
-  - [Microscopic imaging (35)](#microscopic-imaging)
+  - [Microscopic imaging (36)](#microscopic-imaging)
 - [Imaging and Text (19)](#Image-text-dataset)
 - [Text (16)](#Text-dataset)
 
@@ -338,6 +338,7 @@ Last updated: 2024/10/23
 | [ANHIR](./resources/ANHIR.md)                                                       | 2D Pathological Imaging, 481 Cases, Pathological Image Lung Lobes and Breast Tissue Registration                          | [Grand Challenge]( https://anhir.grand-challenge.org/)                                                          | 2020-07      | ISBI'2019    |
 | [MitoEM2021](./resources/MitoEM2021.md)                                             | 3D Histopathology Imaging, 2 Cases, 1 Category of Mitochondria Segmentation                                               | [Grand Challenge](https://mitoem.grand-challenge.org/)                                                          | 2021         | ISBI'2021    |
 | [CoCaHis](./resources/CoCaHis.md)                                                   | 2D Pathological Imaging, 82 Cases, 2 Categories of Colon Cancer Tissue Segmentation                                       | [Project Homepage](https://cocahis.irb.hr/)                                                                     | 2021-01      | -            |
+| [ARCH](./resources/ARCH.md)                                                         | 2D Pathological Imaging, 11816 Cases, Pathological Images and Corresponding Text Descriptions                             | [Project Homepage](https://warwick.ac.uk/fac/cross_fac/tia/data/arch)                                           | 2021-03      | -            | 
 | [Malaria Cell Images](./resources/Malaria.md)                                       | 2D Microscopic Imaging, 27558 Cases, 2 Categories of Malaria Classification                                               | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html) | 2021-03      | -            |
 | [SegPC21](./resources/SegPC21.md)                                                   | 2D Microscopic Imaging, 498 Cases, 2 Categories of Myeloma Segmentation                                                   | [Grand Challenge](https://segpc-2021.grand-challenge.org/SegPC-2021/)                                           | 2021-04      | ISBI'2021    |
 | [MHIST](./resources/MHIST.md)                                                       | 2D Pathological Imaging, 3152 Cases, 2 Categories of Colon Polyps Classification                                          | [Project Homepage](https://bmirds.github.io/MHIST/)                                                             | 2021-06      | -            |
