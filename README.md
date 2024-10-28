@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/28
+Last updated: 2024/10/29
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -13,7 +13,7 @@ Last updated: 2024/10/28
 - [Medical Image Datasets](#medical-image-datasets)
   - [Whole Body (8)](#whole-body)
   - [Head and Neck (50)](#head-and-neck)
-  - [Chest (33)](#chest)
+  - [Chest (34)](#chest)
   - [Abdomen (46)](#abdomen)
   - [Heart (13)](#heart)
   - [Bones (11)](#bones)
@@ -133,6 +133,7 @@ Last updated: 2024/10/28
 | [AIIB23](./resources/AIIB23.md)                                               | 3D CT, 312 Cases, 1 Category of Lung Airway Segmentation                                                 | [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/13238)                              | 2023-05      | MICCAI'2023                    |
 | [SEG.A.](./resources/SEG.A.md)                                                | 3D CTA, 56 Cases, 1 Category of Aorta Segmentation                                                       | [Grand Challenge](https://multicenteraorta.grand-challenge.org/)                            | 2023-05      | MICCAI'2023                    |
 | [LNQ 2023](./resources/LNQ2023.md)                                            | 3D CT, 513 Cases, 1 Category of Lymph Node Quantification                                                | [Grand Challenge](https://lnq2023.grand-challenge.org/lnq2023/)                             | 2023-05      | MICCAI'2023                    |
+| [MICCAI2024 TriALS 2024 Task1](./resources/TriALS.md)                         | 3D CT, 60 Cases, 1 Category of Liver Diesase Segmentation                                                | [Synapse](https://www.synapse.org/Synapse:syn53285416/wiki/)                                | 2024-06      | MICCAI'2024                    |
 
 ### Abdomen
 
