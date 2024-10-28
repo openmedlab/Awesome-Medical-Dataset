@@ -42,17 +42,17 @@ The LAG dataset not only includes a large number of expert-annotated suspicious 
 ## Visualization
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_1.webp"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_1.png"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em>Non-glaucoma.</em></p>
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_2.webp"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_2.png"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em>Suspected glaucoma.</em></p>
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_3.webp"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/LAG_3.png"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em>Focus Area Map.</em></p>
 
