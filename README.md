@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/10/30
+Last updated: 2024/10/31
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -18,7 +18,7 @@ Last updated: 2024/10/30
   - [Heart (13)](#heart)
   - [Bones (12)](#bones)
   - [Endoscopy (27)](#endoscopy)
-  - [Retina (43)](#retina)
+  - [Retina (44)](#retina)
   - [Skin (9)](#skin)
   - [Microscopic imaging (36)](#microscopic-imaging)
 - [Imaging and Text (20)](#Image-text-dataset)
@@ -297,9 +297,10 @@ Last updated: 2024/10/30
 | [ToxoFundus](./resources/ToxoFundus.md)                                       | 2D Fundus Color Photos, 412 Cases, 2 Categories of Toxoplasmic Chorioretinitis Classification                                                                                     | [Kaggle](https://www.kaggle.com/datasets/nafin59/ocular-toxoplasmosis-fundus-images-dataset)                                                     | 2023-06      | -            |
 | [Harvard Glaucoma Detection and Progression](./resources/Harvard_Glaucoma.md) | 2D Fundus photograph, 1544 Cases, 3 Categories of Predicting Glaucoma and Severity Classification                                                                                 | [Project Homepage](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000)                                                                       | 2023-08      | -            |
 | [BiDR](./resources/BiDR.md)                                                   | 2D Fundus Photography, 2838 Cases, 2 Categories of Diabetic Retinopathy Classification                                                                                            | [Kaggle](https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy?resource=download-directory)                                 | 2023-11      | -            |
-| [MICCAI 2024 DIAMOND](./resources/DIAMOND.md)                                 | 2D Fundus photograph, 2 Categories of center-involved DME Prediction and Retina Diseases Classification                                                                           | [Codabench](https://www.codabench.org/competitions/2333/)                                                                                        | 2024-03      | MICCAI'2024  |
+| [MICCAI 2024 DIAMOND](./resources/DIAMOND.md)                                 | 2D Fundus Photograph, 2 Categories of center-involved DME Prediction and Retina Diseases Classification                                                                           | [Codabench](https://www.codabench.org/competitions/2333/)                                                                                        | 2024-03      | MICCAI'2024  |
 | [Cataract-1K](./resources/Cataract-1K.md)                                     | 2D Ophthalmic Microscope, 1000 Cases, 13 Categories of Surgical Stages, 2 Categories of Anomaly Detection, 12 Categories of Segmentations                                         | [Github](https://github.com/Negin-Ghamsarian/Cataract-1K)                                                                                        | 2024-04      | -            |
 | [OphNet](./resources/OphNet.md)                                               | 2D Ophthalmic Microscope, 2278 Cases, 66 Categories of Surgeries, 103 Categories of Stages, 150 Categories of Operations Ophthalmic Surgery Video Classification and Localization | [Project Homepage]( https://minghu0830.github.io/OphNet-benchmark/)                                                                              | 2024-07      | -            |
+| [MAPLES-DR](./resources/MAPLES-DR.md)                                         | 2D Fundus Photograph, 198 Cases, 12 Categories of Diabetic Retinopathy Segmentation                                                                                               | [Project Homepage](https://www.nature.com/articles/s41597-024-03739-6?_gl=1)                                                                     | 2024-08      | -            |                                                                                                                                             
 
 ### Skin
 
