@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/11/5
+Last updated: 2024/11/6
 
 🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
 
@@ -21,7 +21,7 @@ Last updated: 2024/11/5
   - [Retina (44)](#retina)
   - [Skin (9)](#skin)
   - [Microscopic imaging (36)](#microscopic-imaging)
-- [Imaging and Text (22)](#Image-text-dataset)
+- [Imaging and Text (23)](#Image-text-dataset)
 - [Text (17)](#Text-dataset)
 
 ---
@@ -791,6 +791,7 @@ Last updated: 2024/11/1
 | [Medical-CXR-VQA](./resources/Medical-CXR-VQA.md)               | 2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray Images                                      | [Github](https://github.com/Holipori/Medical-CXR-VQA)                                                    | 2024-07      |
 | [PathMMU](./resources/PathMMU.md)                               | VQA, 33,428 Cases QA Pair and 24,067 Cases Pathological Images                                       | [Project Homepage](https://pathmmu-benchmark.github.io/#/)                                               | 2024-08      |
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 visual dialogues                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
+| [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2025-07      |
 
 ## Text dataset
 
