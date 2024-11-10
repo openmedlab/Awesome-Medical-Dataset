@@ -2,15 +2,23 @@
 
 Last updated: 2024/11/10
 
-🔥🔥🔥 Medical Dataset is very important for Medical Image Analysis. In this repository, we provide an up-to-date list of medical datasets.
+🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
 ## Table of Content
 
----
-
 :book: **Contents**
+- [Awesome Medical Dataset](#Awesome-Medical-Dataset)
+  - [Public Medical Dataset](#Public-Medical-Dataset)
+  - [Other Medical Awesome Collection Projects](#Other-Medical-Awesome-Collection-Projects)
+  - [Dataset Platforms](#Dataset-Platforms)
+  - [Evaluation Benchmark](#Evaluation-Benchmark)
+  - [Related SOTA Methods](#SOTA-Methods)
+  - [Related Foundation Toolbox Projects](#Related-Foundation-Toolbox-Projects)
 
-- [Medical Image Datasets](#medical-image-datasets)
+## Public Medical Dataset
+:book: **Medical Datasets**
+
+- [Imaging](#Imaging)
   - [Whole Body (8)](#whole-body)
   - [Head and Neck (51)](#head-and-neck)
   - [Chest (35)](#chest)
@@ -24,11 +32,12 @@ Last updated: 2024/11/10
 - [Imaging and Text (23)](#Image-text-dataset)
 - [Text (17)](#Text-dataset)
 
----
+### Imaging
 
-## Medical Image Datasets
+#### Whole Body
+<details>
 
-### Whole Body
+<summary> </summary>
 
 | Dataset                                                     | Description                                                                                 | Official Website                                                                                                    | Release Date | Challenge          |
 |:------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------|
@@ -41,7 +50,13 @@ Last updated: 2024/11/10
 | [TotalSegmentator MRI](./resources/TotalSegmentator_MRI.md) | 3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation                            | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2024-05      | -                  |
 | [MedFMC](./resources/MedFMC.md)                             | 2D, 22349 Cases, 5 Tasks of Disease Classification                                          | [Github](https://github.com/wllfore/MedFMC_fewshot_baseline)                                                        | 2023-09      | -                  |
 
-### Head and Neck
+</details>
+
+#### Head and Neck
+
+<details>
+
+<summary> </summary>
 
 | Dataset                                                    | Description                                                                                                              | Official Website                                                                        | Release Date | Challenge                      |
 |:-----------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------|:-------------|:-------------------------------|
@@ -97,7 +112,13 @@ Last updated: 2024/11/10
 | [MICCAI'2024 HNTS-MRG Task1](./resources/HNTS-MRG_1.md)    | 3D MRI T2w, 150 Cases, 2 Categories of Primary Tumor and Metastatic Lymph Nodes Segmentation                             | [Grand Challenge](https://hntsmrg24.grand-challenge.org/overview/)                      | 2024-06      | MICCAI'2024                    |
 | [MMIS-2024@ACM MM 2024](./resources/MMIS-2024.md)          | 4D MRI, 310 Cases, 2 Categories of Diversified and Personalized Gross Tumor Volume Segmentation                          | [Project Homepage](https://mmis2024.com/)                                               | 2024-07      | MM'2024                        |
 
-### Chest
+</details>
+
+#### Chest
+
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                       | Description                                                                                              | Official Website                                                                                    | Release Date | Challenge                      |
 |:------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-------------|:-------------------------------|
@@ -137,7 +158,13 @@ Last updated: 2024/11/10
 | [LNQ 2023](./resources/LNQ2023.md)                                            | 3D CT, 513 Cases, 1 Category of Lymph Node Quantification                                                | [Grand Challenge](https://lnq2023.grand-challenge.org/lnq2023/)                                     | 2023-05      | MICCAI'2023                    |
 | [MICCAI2024 TriALS 2024 Task1](./resources/TriALS.md)                         | 3D CT, 60 Cases, 1 Category of Liver Diesase Segmentation                                                | [Synapse](https://www.synapse.org/Synapse:syn53285416/wiki/)                                        | 2024-06      | MICCAI'2024                    |
 
-### Abdomen
+</details>
+
+#### Abdomen
+
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                                         | Description                                                                                           | Official Website                                                                                       | Release Date | Challenge                      |
 |:------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------|
@@ -188,7 +215,12 @@ Last updated: 2024/11/10
 | [MICCAI-24 ACOUSLIC](./resources/ACOUSLIC.md)                                                   | 3D Ultrasound, 600 Cases, 3 Categories of Fetal Abdomen Waist Measurement                             | [Grand Challenge](https://acouslic-ai.grand-challenge.org/overview-and-goals/)                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 PENGWIN Task1](./resources/PENGWIN.md)                                             | 3D CT, 100 Cases, 3 Categories of Pelvis Segmentation                                                 | [Grand Challenge](https://pengwin.grand-challenge.org/pengwin/)                                        | 2024-07      | MICCAI'2024                    |
 
-### Heart
+</details>
+
+#### Heart
+<details>
+
+<summary> </summary>
 
 | Dataset                                                  | Description                                                                                    | Official Website                                                                                                                 | Release Date | Challenge                      |
 |:---------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------------------|
@@ -206,7 +238,12 @@ Last updated: 2024/11/10
 | [MICCAI 2024 CARE WHS++](./resources/CARE_WHS++.md)      | 3D CT/CTA, 206 Cases, 1 Category of Whole heart segmentation                                   | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 CARE LAScarQS++](./resources/LAScarQS++.md) | 3D LGE MRI, 194 Cases, 3 Categories of Left Atrial Cavity Segmentation and Scar Quantification | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
 
-### Bones
+</details>
+
+#### Bones
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                                | Description                                                                                        | Official Website                                                                          | Release Date | Challenge          |
 |:---------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------|:-------------|:-------------------|
@@ -223,7 +260,12 @@ Last updated: 2024/11/10
 | [SPIDER](./resources/SPIDER.md)                                                        | 3D MR, 544 Cases, 19 Categories of Spine, Intervertebral Disc, Spinal Canal Segmentation           | [Grand Challenge](https://spider.grand-challenge.org/)                                    | 2023-06      | -                  |
 | [Fractured Bone Detection](./resources/FracturedBoneDetection.md)                      | 3D CT, 24 Cases, 2 Categories of 2 Fractures Classification                                        | [Kaggle](https://www.kaggle.com/competitions/fractured-bone-detection-challenge/overview) | 2023-06      | -                  |
 
-### Endoscopy
+</details>
+
+#### Endoscopy
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                                                     | Description                                                                                                                | Official Website                                                                               | Release Date | Challenge   |
 |:------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------|:-------------|:------------|
@@ -256,7 +298,12 @@ Last updated: 2024/11/10
 | [C3VD](./resources/C3VD.md)                                                                                 | 2D Endoscopy, 10015 Cases, 3D Reconstruction                                                                               | [Project Homepage](https://durrlab.github.io/C3VD/)                                            | 2023-08      | -           |
 | [SurgVU24](./resources/SurgVU24.md)                                                                         | 2D Endoscopy, 280 Cases, 12 Categories of Surgical Instruments and 8 Categories of Surgical Tasks Video Timing Positioning | [Grand Challenge](https://surgvu24.grand-challenge.org/)                                       | 2024-05      | MICCAI'2024 |
 
-### Retina
+</details>
+
+#### Retina
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                       | Description                                                                                                                                                                       | Official Website                                                                                                                                 | Release Date | Challenge    |
 |:------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------|
@@ -305,146 +352,13 @@ Last updated: 2024/11/10
 | [OphNet](./resources/OphNet.md)                                               | 2D Ophthalmic Microscope, 2278 Cases, 66 Categories of Surgeries, 103 Categories of Stages, 150 Categories of Operations Ophthalmic Surgery Video Classification and Localization | [Project Homepage]( https://minghu0830.github.io/OphNet-benchmark/)                                                                              | 2024-07      | -            |
 | [MAPLES-DR](./resources/MAPLES-DR.md)                                         | 2D Fundus Photograph, 198 Cases, 12 Categories of Diabetic Retinopathy Segmentation                                                                                               | [Project Homepage](https://www.nature.com/articles/s41597-024-03739-6?_gl=1)                                                                     | 2024-08      | -            |                                                                                                                                             
 
-### Skin
+</details>
 
-| Dataset                                                         | Description                                                                                                 | Official Website                                                                                             | Release Date | Challenge |
-|:----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|:-------------|:----------|
-| [PH²](./resources/PH2.md)                                       | 2D Dermoscopic Images, 200 Cases, 2 Categories of Melanoma Segmentation                                     | [Project Homepage](https://www.fc.up.pt/addi/ph2%20database.html)                                            | 2015         | -         |
-| [MED-NODE](./resources/MED-NODE.md)                             | 2D Dermoscopic Images, 170 Cases, 2 Categories of Benign and Malignant Melanoma Classification              | [Project Homepage](https://www.cs.rug.nl/~imaging/databases/melanoma_naevi/)                                 | 2015-07      | -         |
-| [ISIC 2017](./resources/ISIC2017.md)                            | 2D Dermoscopic Images, 2750 Cases, 1 Category of Melanoma Segmentation                                      | [Project Homepage](https://challenge.isic-archive.com/data/#2017)                                            | 2017         | -         |
-| [Derm7pt](./resources/Derm7pt.md)                               | 2D Dermoscopic Images, 2000 Cases, 19 Categories of Skin Lesion Malignancy Examination Classification       | [Project Homepage](https://derm.cs.sfu.ca/Welcome.html)                                                      | 2019         | -         |
-| [ISIC 2020](./resources/ISIC2020.md)                            | 2D Dermoscopic Images, 33126 Cases, 2 Categories of Benign and Malignant Melanoma Classification            | [Project Homepage](https://challenge2020.isic-archive.com/)                                                  | 2020         | -         |
-| [PED-UFES-20](./resources/PED-UFES-20.md)                       | 2D Dermoscopic Images, 2298 Cases, 6 Categories of Dermatology classification                               | [Mendeley](https://data.mendeley.com/datasets/zr7vgbcyr2/1)                                                  | 2020-07      | -         |
-| [Fitzpatrick 17k](./resources/Fitzpatrick17k.md)                | 2D Dermoscopic Images, 16577 Cases, 6 Categories of Fitzpatrick Skin Type, 114 Categories of Skin Condition | [Github](https://github.com/mattgroh/fitzpatrick17k)                                                         | 2021         | -         |
-| [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) | 2D Dermoscopic Images, 804 Cases, 6 Categories of Dermatology Classification                                | [Kaggle](https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-image-dataset-2022)                    | 2022-08      | -         |
-| [SCIN](./resources/SCIN.md)                                     | 2D Dermoscopic Images, 10408 Cases, Skin Pathological Conditions (Appearance and Severity) Classification   | [Project Homepage](https://research.google/blog/scin-a-new-resource-for-representative-dermatology-images/)  | 2023-02      | -         | 
+#### Skin
 
-### Microscopic imaging
+<details>
 
-| Dataset                                                                             | Description                                                                                                               | Official Website                                                                                                | Release Date | Challenge    |
-|:------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:-------------|:-------------|
-| [Herlev-Cervical Smear](./resources/Herlev.md)                                      | 2D Histopathology, 917 Cases, 7 Categories of Cervical Smear Classification                                               | [Project Homepage](https://mde-lab.aegean.gr/index.php/downloads/)                                              | 2003         | -            |
-| [Corneal Nerve](./resources/Corneal_Nerve.md)                                       | 2D Microscopic Imaging, 90 Cases, 2 Categories of Corneal Abnormality Classification                                      | [Project Homepage](http://bioimlab.dei.unipd.it/Corneal%20Nerve%20Data%20Set.htm)                               | 2008-11      | -            |
-| [Malignant Lymphoma Classification](./resources/MalignantLymphomaClassification.md) | 2D Pathological Sections, 374 Cases, 3 Categories of Malignant Lymphoma Classification                                    | [Kaggle](https://www.kaggle.com/datasets/andrewmvd/malignant-lymphoma-classification)                           | 2010-07      | -            |
-| [Corneal Nerve Tortuosity](./resources/Corneal_Nerve_Tortuosity.md)                 | 2D Microscopic Imaging, 30 Cases, 3 Categories of Corneal Nerve Distortion Grade                                          | [Project Homepage](http://bioimlab.dei.unipd.it/Corneal%20Nerve%20Tortuosity%20Data%20Set.htm)                  | 2011-08      | -            |
-| [BioMediTech](./resources/BioMediTech.md)                                           | 2D Cell Imaging, 1862 Cases, 4 Categories of Retinal Cell Classification                                                  | [Project Homepage](https://figshare.com/s/d6fb591f1beb4f8efa6f)                                                 | 2016-02      | -            |
-| [GlaS](./resources/GlaS.md)                                                         | 2D Pathological Imaging, 165 Cases, 1 Category of Colorectal Gland Tissue Segmentation                                    | [Project Homepage](https://warwick.ac.uk/services/gov/calendar/section2/regulations/computing/)                 | 2017         | MICCAI'2015  |
-| [HuSHeM](./resources/HuSHeM.md)                                                     | 2D Microscopic Imaging, 216 Cases, 4 Categories of Sperm Classification                                                   | [Mendeley](https://data.mendeley.com/datasets/tt3yj2pf38/3)                                                     | 2017-06      | -            |
-| [MoNuSeg](./resources/MoNuSeg.md)                                                   | 2D Microscopic Imaging, 53 Cases, 1 Category of Nucleus Segmentation                                                      | [Grand Challenge](https://monuseg.grand-challenge.org/Home/)                                                    | 2017         | MICCAI'2018  |
-| [PatchCamelyon](./resources/PatchCamelyon.md)                                       | 2D Pathological Imaging, 327,680 Cases, 2 Categories of Breast Cancer Metastasis Classification                           | [Project Homepage](https://patchcamelyon.grand-challenge.org/)                                                  | 2018-06      | CAMELYON16   |
-| [ICIAR 2018 BACH Task1](./resources/ICIAR_2018_BACH_Task1.md)                       | 2D Histology Imaging, 400 Cases, 4 Categories of Breast Cancer Classification                                             | [Grand Challenge](https://iciar2018-challenge.grand-challenge.org/Dataset/)                                     | 2018-08      | ICIAR'2018   |
-| [ICIAR 2018 BACH Task2](./resources/ICIAR_2018_BACH_Task2.md)                       | 2D Histology Imaging, 30 Cases, 3 Categories of Breast Cancer Segmentation                                                | [Grand Challenge](https://iciar2018-challenge.grand-challenge.org/Dataset/)                                     | 2018-08      | ICIAR'2018   |
-| [CORN](./resources/CORN.md)                                                         | 2D Microscopic Imaging, 1698 Cases, 1 Category of Corneal Nerve Segmentation                                              | [Project Homepage](https://imed.nimte.ac.cn/CORN.html)                                                          | 2019         | -            | 
-| [DigestPath2019](./resources/DigestPath2019.md)                                     | 2D Pathological Imaging, 250 Cases, 1 Category of Digestive System Pathology Segmentation and Detection                   | [Grand Challenge](https://digestpath2019.grand-challenge.org/Home/)                                             | 2019         | MICCAI'2019  |
-| [Leukemia](./resources/Leukemia.md)                                                 | 2D Microscopic Imaging, 1867 Cases, 2 Categories of Leukemia Cell Classification                                          | [Kaggle](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification)                                     | 2019         | -            | 
-| [ICPR-HEp-2](./resources/ICPR-HEp-2.md)                                             | 2D Cell Fluorescence Microscopy Imaging, 14K, 6 Categories of Cell Classification                                         | [Project Homepage](https://www.heywhale.com/mw/dataset/5ec3c6883241a100378d5d4a)                                | 2019-02      | -            |
-| [Complete Blood Count](./resources/CompleteBloodCount.md)                           | 2D Blood Smear, 360 Cases, 3 Categories of Blood Cell Count                                                               | [Github](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset)                                     | 2019-07      | -            |
-| [LC25000](./resources/LC25000.md)                                                   | 2D Pathological Imaging, 25000 Cases, 5 Categories of Pathological Image Classification                                   | [Github](https://github.com/tampapath/lung_colon_image_set)                                                     | 2020-01      | -            |
-| [PanNuke](./resources/PanNuke.md)                                                   | 2D Pathology, 7904 Cases, 6 Categories of Nuclear Segmentation                                                            | [Project Homepage](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke)                                 | 2020-03      | -            |
-| [SICAPv2](./resources/SICAPv2.md) Prostate Pathology Segmentation Dataset           | 2D Pathological Imaging, 18783 Cases, 4 Categories of Prostate Cancer Grade                                               | [Mendeley](https://data.mendeley.com/datasets/9xxm58dvs3/1)                                                     | 2020-07      | -            | 
-| [ANHIR](./resources/ANHIR.md)                                                       | 2D Pathological Imaging, 481 Cases, Pathological Image Lung Lobes and Breast Tissue Registration                          | [Grand Challenge]( https://anhir.grand-challenge.org/)                                                          | 2020-07      | ISBI'2019    |
-| [MitoEM2021](./resources/MitoEM2021.md)                                             | 3D Histopathology Imaging, 2 Cases, 1 Category of Mitochondria Segmentation                                               | [Grand Challenge](https://mitoem.grand-challenge.org/)                                                          | 2021         | ISBI'2021    |
-| [CoCaHis](./resources/CoCaHis.md)                                                   | 2D Pathological Imaging, 82 Cases, 2 Categories of Colon Cancer Tissue Segmentation                                       | [Project Homepage](https://cocahis.irb.hr/)                                                                     | 2021-01      | -            |
-| [ARCH](./resources/ARCH.md)                                                         | 2D Pathological Imaging, 11816 Cases, Pathological Images and Corresponding Text Descriptions                             | [Project Homepage](https://warwick.ac.uk/fac/cross_fac/tia/data/arch)                                           | 2021-03      | -            | 
-| [Malaria Cell Images](./resources/Malaria.md)                                       | 2D Microscopic Imaging, 27558 Cases, 2 Categories of Malaria Classification                                               | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html) | 2021-03      | -            |
-| [SegPC21](./resources/SegPC21.md)                                                   | 2D Microscopic Imaging, 498 Cases, 2 Categories of Myeloma Segmentation                                                   | [Grand Challenge](https://segpc-2021.grand-challenge.org/SegPC-2021/)                                           | 2021-04      | ISBI'2021    |
-| [MHIST](./resources/MHIST.md)                                                       | 2D Pathological Imaging, 3152 Cases, 2 Categories of Colon Polyps Classification                                          | [Project Homepage](https://bmirds.github.io/MHIST/)                                                             | 2021-06      | -            |
-| [Bone Marrow Cytomorphology](./resources/BoneMarrowCytomorphology.md)               | 2D Pathological Imaging, 171,375 Cases, 21 Categories of Bone Marrow Cell Morphological Classification                    | [Project Homepage](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101941770)                | 2021-11      | -            |
-| [Chaoyang](./resources/Chaoyang.md)                                                 | 2D Pathological Imaging, 6160 Cases, 4 Categories of Colonic Lesions Classification                                       | [Github](https://bupt-ai-cz.github.io/HSA-NRL/)                                                                 | 2021-11      | -            |
-| [CoNIC2022](./resources/CoNIC2022.md)                                               | 2D Pathological Imaging, 4981 Cases, 7 Categories of Nuclei within Tissues Segmentation                                   | [Grand Challenge](https://conic-challenge.grand-challenge.org/)                                                 | 2022         | ISBI'2022    |
-| [NeurIPS 2022 Cell Seg](./resources/NeurIPS2022CellSeg.md)                          | 2D Microscopic Imaging, 3022 Cases, 1 Category of Cell Instance Segmentation                                              | [Grand Challenge](https://neurips22-cellseg.grand-challenge.org/)                                               | 2022-06      | NeurIPS'2022 |
-| [BRACS](./resources/BRACS.md)                                                       | 2D Pathological Imaging, 4539 ROIs/547 WSIs, 7 Categories of Breast Cancer Subtype Classification                         | [Project Homepage](https://www.bracs.icar.cnr.it/)                                                              | 2022-10      | -            |
-| [BCI](./resources/BCI.md)                                                           | 2D Pathological Imaging, 4870 Cases, 4 Categories to convert HE images to IHC images                                      | [Project Homepage](https://bupt-ai-cz.github.io/BCI/)                                                           | 2023-04      | -            |
-| [MIDOG++](./resources/MIDOG++.md)                                                   | 2D Pathological Imaging, 22688 Cases, 2 Categories of Tumor Tissue Mitotic Classification                                 | [Github](https://github.com/DeepMicroscopy/MIDOGpp/tree/main)                                                   | 2023-07      | -            |
-| [SegPANDA200](./resources/SegPANDA200.md)                                           | 2D Pathological Imaging, 100960 Cases, 6 Categories of Prostate Tissue Segmentation                                       | [Project Homepage](https://link.springer.com/chapter/10.1007/978-3-031-44917-8_25)                              | 2023-10      | -            |
-| [MIST-HER2](./resources/MIST-HER2.md)                                               | 2D Pathological Imaging, 22688 Cases, 4 Categories of Critical Biomarkers in Breast Cancer Diagnosis Image Transformation | [Project Homepage](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_61)                              | 2023-10      | -            |
-| [KPIs](./resources/KPIs.md)                                                         | 2D Pathological Imaging, 10428 Patches, 1 Category of Glomerular Tissue Segmentation                                      | [Project Homepage](https://sites.google.com/view/kpis2024)                                                      | 2024-03      | MICCAI'2024  |
-
-## Text dataset
-
-| Dataset                                                                         | Description                                                      | Official Website                                                                 | Release Date |
-|:--------------------------------------------------------------------------------|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------|
-| [LiveQA](./resources/LiveQA.md)                                                 | QA, 634 Cases QA Pair                                            | [Github](https://github.com/abachaa/LiveQA_MedicalTask_TREC2017)                 | 2017         |
-| [cMedQA](./resources/cMedQA.md) v2.0                                            | QA, 108K Cases QA Pair                                           | [Github](https://github.com/zhangsheng93/cMedQA2)                                | 2018-12      | 
-| [webMedQA](./resources/webMedQA.md)                                             | QA, 63,284 Cases QA Pair                                         | [Github](https://github.com/hejunqing/webMedQA/tree/master)                      | 2019         |
-| [PubMedQA](./resources/PubMedQA.md)                                             | QA, 1000 Cases Expert annotation QA Pair                         | [Project Homepage](https://pubmedqa.github.io/)                                  | 2019         |
-| [MedDialog-CN](./resources/MedDialog-CN.md)                                     | QA, 1.1M Cases QA Pair                                           | [Github](https://github.com/UCSD-AI4H/Medical-Dialogue-System)                   | 2020-07      |
-| [MedQA](./resources/MedQA.md)                                                   | QA, 61,097 Cases QA Pair                                         | [Github](https://github.com/jind11/MedQA)                                        | 2020-09      |
-| [Chinese Medical Dialogue Dataset](./resources/ChineseMedicalDialogueDataset.md) | QA, 792K Cases QA Pair                                           | [Project Homepage](https://tianchi.aliyun.com/dataset/90163)                     | 2021-02      |
-| [MedMCQA](./resources/MedMCQA.md)                                               | QA, 193,155 Cases QA Pair                                        | [Project Homepage](https://medmcqa.github.io/)                                   | 2022-03      |
-| [Huatuo-26M](./resources/Huatuo-26M.md)                                         | QA, 26M Cases QA Pair                                            | [Github](https://github.com/FreedomIntelligence/Huatuo-26M)                      | 2023-05      |
-| [HealthSearchQA](./resources/HealthSearchQA.md)                                 | QA, 3173 Cases QA Pair                                           | [Paper](https://www.nature.com/articles/s41586-023-06291-2)                      | 2023-07      |
-| [CMB](./resources/CMB.md)                                                       | QA, 270K Cases QA Pair                                           | [Github](https://github.com/FreedomIntelligence/CMB/tree/main)                   | 2023-08      |
-| [ShenNong-TCM-Dataset/EB](./resources/ShenNong-TCM.md)                          | QA, 113K Cases QA Pair                                           | [Github](https://github.com/ywjawmw/TCMEB/blob/main/)                            | 2023-08      |
-| [CMExam](./resources/CMExam.md)                                                 | QA, 68K Cases QA Pair                                            | [Github](https://github.com/williamliujl/CMExam/)                                | 2023-10      |
-| [MedBench](./resources/MedBench.md)                                             | QA, 113K Cases QA Pair                                           | [Project Homepage](https://medbench.opencompass.org.cn/)                         | 2023-12      |
-| [RJUA-QA](./resources/RJUA-QA.md)                                               | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                  | 2023         |
-| [ChineseEEG](./resources/ChineseEEG.md)                                         | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing)   | 2024-03      |            | 2D Endoscopy, 307 Cases, 19 Categories of Abdominal Organs and Surgical Equipment Segmentation                             | [Kaggle](https://www.kaggle.com/datasets/salmanmaq/m2caiseg)                                   | 2020-12      | MICCAI'2016 |
-| [CholecSeg8k](./resources/CholecSeg8k.md)                                                                   | 2D Endoscopy, 8080 Cases, 13 Categories of Cholecystectomy Surgery Semantic Segmentation                                   | [Kaggle](https://www.kaggle.com/datasets/newslab/cholecseg8k)                                  | 2020-12      | -           |
-| [Kvasir-Capsule](./resources/Kvasir-Capsule.md)                                                             | 2D Endoscopy, 4741504 Cases, 14 Categories of Digestive Tract Lesion Segmentation                                          | [Project Homepage](https://datasets.simula.no/kvasir-capsule/)                                 | 2021-05      | -           |
-| [FetReg 2021 Task1](./resources/FetReg.md)                                                                  | 2D Fetoscope, 2718 Cases, 3 Categories of Blood vessels, Fetus, Surgical Tools Segmentation                                | [Synapse](https://www.synapse.org/#!Synapse:syn25313156)                                       | 2021-07      | MICCAI'2021 |
-| [LDPolypVideo](./resources/LDPolypVideo.md)                                                                 | 2D Endoscopy, 861400 Slices, 1 Category of Polyp Detection                                                                 | [Github](https://github.com/dashishi/LDPolypVideo-Benchmark)                                   | 2021-09      | -           |
-| [EndoMapper](./resources/EndoMapper.md)                                                                     | 2D Endoscopy Video, 59 Cases, 3D Reconstruction and VSLAM                                                                  | [Synapse]( https://www.synapse.org/#!Synapse:syn26707219/wiki/615178)                          | 2022-04      | -           |
-| [CholecT45 Dataset](./resources/CholecT45.md)                                                               | 2D Endoscopy, 90489 Cases, 128 Categories of Cholecystectomy Surgery Action Recognition                                    | [Github](https://github.com/CAMMA-public/cholect45)                                            | 2022-04      | -           |
-| [Surgical scene segmentation](./resources/Surgical_Scene_Segmentation.md)                                   | 2D Endoscopy, 9156 Cases, 32 Categories of Surgery Scene Segmentation                                                      | [Project Homepage](https://sisvse.github.io/)                                                  | 2022-09      | -           |
-| [LIMUC](./resources/LIMUC.md)                                                                               | 2D Endoscopy, 11276 Cases, 4 Categories of Mayo Score Classification                                                       | [Github](https://github.com/GorkemP/labeled-images-for-ulcerative-colitis)                     | 2022-11      | -           |
-| [SUN-SEG](./resources/SUN-SEG.md)                                                                           | 2D Endoscopy, 158,690 Cases, 7 Categories of Video Polyp Segmentation                                                      | [Github](https://github.com/GewelsJI/VPS/tree/main)                                            | 2022-11      | -           |
-| [PitVis](./resources/PitVis.md)                                                                             | 2D Endoscopy, 120024 Cases, 15 Categories of Workflow Identification in Endoscopic Pituitary Surgery                       | [Project Homepage](https://opencas.dkfz.de/endovis/challenges/2023/)                           | 2023         | MICCAI'2023 |
-| [Endoscopic Bladder Tissue Classification Dataset](./resources/Endoscopic_Bladder_Tissue_Classification.md) | 2D Endoscopy, 1754 Cases, 4 Categories of Cystoscopy Tissue Classification                                                 | [Project Homepage](https://commons.datacite.org/doi.org/10.5281/zenodo.7741475)                | 2023-03      | -           |
-| [C3VD](./resources/C3VD.md)                                                                                 | 2D Endoscopy, 10015 Cases, 3D Reconstruction                                                                               | [Project Homepage](https://durrlab.github.io/C3VD/)                                            | 2023-08      | -           |
-| [SurgVU24](./resources/SurgVU24.md)                                                                         | 2D Endoscopy, 280 Cases, 12 Categories of Surgical Instruments and 8 Categories of Surgical Tasks Video Timing Positioning | [Grand Challenge](https://surgvu24.grand-challenge.org/)                                       | 2024-05      | MICCAI'2024 |
-
-### Retina
-
-| Dataset                                                                       | Description                                                                                                                                                                       | Official Website                                                                                                                                 | Release Date | Challenge    |
-|:------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------|:-------------|:-------------|
-| [STARE](./resources/STARE.md)                                                 | 2D Retinal Images, 20 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Project Homepage](https://cecas.clemson.edu/~ahoover/stare/)                                                                                    | 2000-03      | -            |
-| [DRIVE](./resources/DRIVE.md)                                                 | 2D Retinal Images, 40 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Grand Challenge](https://drive.grand-challenge.org/)                                                                                            | 2004-04      | -            |
-| [CHASE](./resources/CHASE.md)                                                 | 2D Retinal Images, 28 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Project Homepage](https://blogs.kingston.ac.uk/retinal/chasedb1/)                                                                               | 2011-06      | -            |
-| [DRiDB](./resources/DRiDB.md)                                                 | 2D Retinal Images, 648 Cases, 3 Categories of Diabetic Retinopathy Classification                                                                                                 | [Project Homepage](https://ipg.fer.hr/ipg/resources/image_database)                                                                              | 2013         | -            |
-| [RITE](./resources/RITE.md)                                                   | 2D Retinal Images, 40 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Project Homepage](https://medicine.uiowa.edu/eye/rite-dataset)                                                                                  | 2013         | -            |
-| [HRF](./resources/HRF.md)                                                     | 2D Retinal Images, 45 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Project Homepage](https://www5.cs.fau.de/research/data/fundus-images/)                                                                          | 2013-12      | -            |
-| [Messidor-2](./resources/Messidor-2.md)                                       | 2D Retinal Images, 1748 Cases, 2 Categories of Diabetic Retinopathy Classification                                                                                                | [Project Homepage](https://www.adcis.net/en/third-party/messidor2/)                                                                              | 2013         | -            |
-| [DRISHTI-GS](./resources/DRISHTI-GS.md)                                       | 2D Retinal Images, 101 Cases, 2 Categories of Optic Cup and Optic Disc Segmentation                                                                                               | [Project Homepage](https://ieeexplore.ieee.org/document/6867807)                                                                                 | 2014         | -            |
-| [Retinal image quality assessment dataset](./resources/Retinal_QA.md)         | 2D Retinal Images, 216 Cases, 3 Categories of Image Quality Evaluation                                                                                                            | [Project Homepage](http://academictorrents.com/details/99811ba62918f8e73791d21be29dcc372d660305)                                                 | 2014-04      | -            |
-| [Retina](./resources/Retina.md)                                               | 2D Retinal Images, 601 Cases, 4 Categories of Cataracts, Glaucoma Retinopathy                                                                                                     | -                                                                                                                                                | 2016         | -            |
-| [Eyepacs](./resources/Eyepacs.md)                                             | 2D Retinal Images, 35126 Cases, 5 Categories of Diabetic Retinopathy Grading                                                                                                      | [Project Homepage](https://www.eyepacs.com/)                                                                                                     | 2016         | -            |
-| [RETOUCH](./resources/RETOUCH.md)                                             | 3D OCT, 112 Cases, 3 Categories of Retinal Fluid Segmentation                                                                                                                     | [Grand Challenge](https://retouch.grand-challenge.org/Home/)                                                                                     | 2017-04      | MICCAI'2017  |
-| [LES-AV](./resources/LES-AV.md)                                               | 2D Retinal Images, 22 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Project Homepage](https://ignaciorlando.github.io/)                                                                                             | 2018         | -            |
-| [OCT 2017](./resources/OCT2017.md)                                            | 2D OCT, 35126 Cases, 4 Categories of Eye Disease Classification                                                                                                                   | [Github](https://github.com/aishangcengloua/OCT_Classification?tab=readme-ov-file)                                                               | 2018         | -            |
-| [Papilledema](./resources/Papilledema.md)                                     | 2D Fundus, 1369 Cases, 3 Categories of Papilledema Classification                                                                                                                 | [Project Homepage](https://osf.io/2w5ce/)                                                                                                        | 2018         | -            |
-| [REFUGE](./resource/REFUGE.md)                                                | 2D Fundus, 1200 Cases, 2 Categories of Glaucoma Classification, 2 Categories of Optic Disc/Cup Segmentation                                                                       | [Grand Challenge](https://refuge.grand-challenge.org/)                                                                                           | 2018-03      | MICCAI'2018  |
-| [IDRID](./resources/IDRID.md)                                                 | 2D Retinal Images, 81 Cases, 5 Categories of Diabetic Retinopathy Segmentation                                                                                                    | [Grand Challenge](https://idrid.grand-challenge.org/Home/)                                                                                       | 2018-07      | ISBI'2018    |
-| [PALM19](./resources/PALM19.md)                                               | 2D Retinal Images, 1200 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                    | [Project Homepage](https://palm.grand-challenge.org/Home/)                                                                                       | 2019         | ISBI'2019    |
-| [LAG](./resources/LAG.md)                                                     | 2D Fundus Photography, 11760 Cases, Glaucoma Early Detection and Research Classification                                                                                          | [Github](https://github.com/smilell/AG-CNN?tab=readme-ov-file)                                                                                   | 2019-03      | -            |
-| [ACRIMA](./resources/ACRIMA.md)                                               | 2D Retinal Images, 705 Cases, 2 Categories of Glaucoma Classification                                                                                                             | [Project Homepage](https://figshare.com/s/c2d31f850af14c5b5232)                                                                                  | 2019-03      | -            | 
-| [ROSE](./resources/ROSE.md)                                                   | 2D OCT, 229 Cases, 1 Category Fundus Blood Vessels Segmentation                                                                                                                   | [Project Homepage](https://imed.nimte.ac.cn/dataofrose.html)                                                                                     | 2020         | -            |
-| [OCTA-500](./resources/OCTA-500.md)                                           | 2D OCT , 500 Cases, 1 Category of Fundus Blood Vessel Segmentation                                                                                                                | [Project Homepage](https://ieee-dataport.org/open-access/octa-500)                                                                               | 2020-06      | -            |
-| [RIM-ONE DL](./resources/RIM-ONE_DL.md)                                       | 2D Retinal Images, 485 Cases, 2 Categories of Glaucoma Classification and Optic Disc and Optic Cup Segmentation                                                                   | [Github](https://github.com/miag-ull/rim-one-dl)                                                                                                 | 2020-06      | -            | 
-| [ORVS](./resources/ORVS.md)                                                   | 2D Retinal Images, 49 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Github](https://github.com/AbdullahSarhan/ICPRVessels)                                                                                          | 2020-12      | -            |
-| [JSIEC](./resources/JSIEC.md)                                                 | 2D Retinal Images, 1000 Cases, 39 Categories of Eye Diseases Classification                                                                                                       | [Kaggle](https://www.kaggle.com/datasets/linchundan/fundusimage1000)                                                                             | 2021         | -            |
-| [Diabetic Retinopathy Arranged](./resources/DiabeticRetinopathyArranged.md)   | 2D Retinal Images, 35127 Cases, 5 Categories of Diabetic Retinopathy Classification                                                                                               | [Project Homepage](https://tianchi.aliyun.com/dataset/93926)                                                                                     | 2021-03      | -            |
-| [Augemnted ocular diseases(AOD)](./resources/AOD.md)                          | 2D Retinal Images, 14.8k Cases, 7 Categories of Major Eye Diseases Classification                                                                                                 | [Kaggle](https://www.kaggle.com/datasets/nurmukhammed7/augemnted-ocular-diseases)                                                                | 2021-04      | -            |
-| [BEH (Bangladesh Eye Hospital)](./resources/BEH.md)                           | 2D Fundus photograph, 634 Casesm, 2 Categories of Glaucoma Classification                                                                                                         | [Github](https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation) | 2021-12      | -            |                                                                                                                                                             
-| [iChallenge-ADAM-Task1](./resources/iChallenge-ADAM-Task1.md)                 | 2D Retinal Images, 800 Cases, 2 Categories of Age-related Macular Degeneration (AMD) Classification                                                                               | [Grand Challenge](https://amd.grand-challenge.org/Home/)                                                                                         | 2022         | ISBI'2020    |
-| [Retinal OCT-C8](./resources/Retinal_OCT-C8.md)                               | 2D OCT, 24000 Cases, 8 Categories of Retinal Disease Classification                                                                                                               | [Kaggle](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)                                                                           | 2022-01      | -            |
-| [RAVIR](./resources/RAVIR.md)                                                 | 2D Infrared Reflectance Imaging, 46 Cases, 2 Categories of Retinal Arteries and Veins Segmentation                                                                                | [Grand Challenge](https://ravir.grand-challenge.org/RAVIR/)                                                                                      | 2022-03      | -            |
-| [Multi-Label Retinal Diseases](./resources/Multi-LabelRetinalDiseases.md)     | 2D Retinal Images, 2451 Cases, 20 Categories of Eye Diseases Classification                                                                                                       | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                                                                      | 2022-07      | -            |
-| [DRAC22](./resources/DRAC22.md)                                               | 2D Fundus Photograph, 174 Cases, Retinal Lesion Segmentation                                                                                                                      | [Grand Challenge](https://drac22.grand-challenge.org)                                                                                            | 2022-07      | MICCAI'2022  |
-| [FIVES](./resources/FIVES.md)                                                 | 2D Retinal Images, 800 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                     | [Project Homepage](https://figshare.com/articles/figure/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/19688169/1)                | 2022-08      | -            |
-| [OLIVES](./resources/OLIVES.md)                                               | 2D Fundus Color Photography, 412 Cases, 2 Categories of Diabetic Retinopathy Classification                                                                                       | [Github](https://github.com/olivesgatech/OLIVES_Dataset)                                                                                         | 2022         | NeurIPS'2022 | 
-| [ODIR-5K](./resources/ODIR-5K.md)                                             | 2D Retinal Images, 5000 Cases, 8 Categories of Common Ophthalmic Diseases Classification                                                                                          | [Grand Challenge](https://odir2019.grand-challenge.org/introduction/)                                                                            | 2023         | -            |
-| [AIROGS](./resources/AIROGS.md)                                               | 2D Fundus, 101442 Cases, 2 Categories of Glaucoma Classification                                                                                                                  | [Grand Challenge](https://airogs.grand-challenge.org/data-and-challenge/)                                                                        | 2023         | -            |
-| [RFMiD 2.0](./resources/RFMiD.md)                                             | 2D Retinal Images, 3200 Cases, 45 Categories of Eye Disease Classification                                                                                                        | [Grand Challenge](https://riadd.grand-challenge.org/Home/)                                                                                       | 2023-01      | ISBI'2021    |
-| [ToxoFundus](./resources/ToxoFundus.md)                                       | 2D Fundus Color Photos, 412 Cases, 2 Categories of Toxoplasmic Chorioretinitis Classification                                                                                     | [Kaggle](https://www.kaggle.com/datasets/nafin59/ocular-toxoplasmosis-fundus-images-dataset)                                                     | 2023-06      | -            |
-| [Harvard Glaucoma Detection and Progression](./resources/Harvard_Glaucoma.md) | 2D Fundus photograph, 1544 Cases, 3 Categories of Predicting Glaucoma and Severity Classification                                                                                 | [Project Homepage](https://ophai.hms.harvard.edu/datasets/harvard-gdp1000)                                                                       | 2023-08      | -            |
-| [BiDR](./resources/BiDR.md)                                                   | 2D Fundus Photography, 2838 Cases, 2 Categories of Diabetic Retinopathy Classification                                                                                            | [Kaggle](https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy?resource=download-directory)                                 | 2023-11      | -            |
-| [MICCAI 2024 DIAMOND](./resources/DIAMOND.md)                                 | 2D Fundus Photograph, 2 Categories of center-involved DME Prediction and Retina Diseases Classification                                                                           | [Codabench](https://www.codabench.org/competitions/2333/)                                                                                        | 2024-03      | MICCAI'2024  |
-| [Cataract-1K](./resources/Cataract-1K.md)                                     | 2D Ophthalmic Microscope, 1000 Cases, 13 Categories of Surgical Stages, 2 Categories of Anomaly Detection, 12 Categories of Segmentations                                         | [Github](https://github.com/Negin-Ghamsarian/Cataract-1K)                                                                                        | 2024-04      | -            |
-| [OphNet](./resources/OphNet.md)                                               | 2D Ophthalmic Microscope, 2278 Cases, 66 Categories of Surgeries, 103 Categories of Stages, 150 Categories of Operations Ophthalmic Surgery Video Classification and Localization | [Project Homepage]( https://minghu0830.github.io/OphNet-benchmark/)                                                                              | 2024-07      | -            |
-| [MAPLES-DR](./resources/MAPLES-DR.md)                                         | 2D Fundus Photograph, 198 Cases, 12 Categories of Diabetic Retinopathy Segmentation                                                                                               | [Project Homepage](https://www.nature.com/articles/s41597-024-03739-6?_gl=1)                                                                     | 2024-08      | -            |                                                                                                                                             
-
-### Skin
+<summary> </summary>
 
 | Dataset                                                         | Description                                                                                                 | Official Website                                                                                            | Release Date | Challenge  |
 |:----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|:-------------|:-----------|
@@ -459,7 +373,13 @@ Last updated: 2024/11/10
 | [SCIN](./resources/SCIN.md)                                     | 2D Dermoscopic Images, 10408 Cases, Skin Pathological Conditions (Appearance and Severity) Classification   | [Project Homepage](https://research.google/blog/scin-a-new-resource-for-representative-dermatology-images/) | 2023-02      | -          | 
 | [ISIC 2024 Challenge: SLICE-3D](./resources/SLICE-3D.md)        | 2D Dermoscopic Images, 401059 Cases, 2 Categories of Skin Cancer Classification                             | [Project Homepage](https://challenge2024.isic-archive.com/)                                                 | 2024-08      | ISBI'2024  |
 
-### Microscopic imaging
+</details>
+
+#### Microscopic imaging
+
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                             | Description                                                                                                               | Official Website                                                                                                | Release Date | Challenge    |
 |:------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|:-------------|:-------------|
@@ -500,8 +420,13 @@ Last updated: 2024/11/10
 | [MIST-HER2](./resources/MIST-HER2.md)                                               | 2D Pathological Imaging, 22688 Cases, 4 Categories of Critical Biomarkers in Breast Cancer Diagnosis Image Transformation | [Project Homepage](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_61)                              | 2023-10      | -            |
 | [KPIs](./resources/KPIs.md)                                                         | 2D Pathological Imaging, 10428 Patches, 1 Category of Glomerular Tissue Segmentation                                      | [Project Homepage](https://sites.google.com/view/kpis2024)                                                      | 2024-03      | MICCAI'2024  |
 
+</details>
 
-## Image text dataset
+### Image text dataset
+
+<details>
+
+<summary> </summary>
 
 | Dataset                                                         | Description                                                                                          | Official Website                                                                                         | Release Date |
 |:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-------------|
@@ -529,7 +454,12 @@ Last updated: 2024/11/10
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 visual dialogues                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
 | [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2025-07      |
 
-## Text dataset
+</details>
+
+### Text dataset
+<details>
+
+<summary> </summary>
 
 | Dataset                                                                         | Description                                                      | Official Website                                                                 | Release Date |
 |:--------------------------------------------------------------------------------|:-----------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------|
@@ -550,3 +480,78 @@ Last updated: 2024/11/10
 | [RJUA-QA](./resources/RJUA-QA.md)                                               | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                  | 2023         |
 | [ChineseEEG](./resources/ChineseEEG.md)                                         | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing)   | 2024-03      |
 | [MedConceptsQA](./resources/MedConceptsQA.md)                                   | QA, 800K Medical concepts                                        | [Project Homepage](https://nadavlab.github.io/MedConceptsQA-website)             | 2024-09      |
+
+</details>
+
+## Other Medical Awesome Collection Projects
+- [SegLossOdyssey](https://github.com/JunMa11/SegLossOdyssey): A collection of loss functions for medical image segmentation.
+- [SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg): SOTA medical image segmentation methods based on various challenges.
+- [awesome-transformers-in-medical-imaging](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging): A collection of resources on applications of Transformers in Medical Imaging.
+- [awesome-gan-for-medical-imaging](https://github.com/xinario/awesome-gan-for-medical-imaging): Awesome GAN for Medical Imaging.
+- [Awesome-Diffusion-Models-in-Medical-Imaging](https://github.com/amirhossein-kz/Awesome-Diffusion-Models-in-Medical-Imaging): Diffusion Models in Medical Imaging (Published in Medical Image Analysis Journal).
+- [Awesome-CLIP-in-Medical-Imaging](https://github.com/zhaozh10/Awesome-CLIP-in-Medical-Imaging): A Survey on CLIP in Medical Imaging.
+- [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging): A collection of resources on applications of multi-modal learning in medical imaging.
+- [awesome-medical-vision-language-models](https://github.com/yangzhou12/awesome-medical-vision-language-models): A collection of resources on Medical Vision-Language Models.
+- [Awesome-Medical-Large-Language-Models](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models): Curated papers on Large Language Models in Healthcare and Medical domain.
+- [awesome-healthcare](https://github.com/kakoni/awesome-healthcare): Curated list of awesome open source healthcare software, libraries, tools and resources.
+- [awesome_Chinese_medical_NLP](https://github.com/GanjinZero/awesome_Chinese_medical_NLP): 中文医学NLP公开资源整理：术语集/语料库/词向量/预训练模型/知识图谱/命名实体识别/QA/信息抽取/模型/论文/etc.
+- [Data-Centric-FM-Healthcare](https://github.com/openmedlab/Data-Centric-FM-Healthcare): A survey on data-centric foundation models in computational healthcare.
+
+## Dataset Platforms
+
+You can search for more medical datasets not included in this project on these websites:
+
+- [Grand Challenges](https://grand-challenge.org/challenges/): A platform for end-to-end development of machine learning solutions in biomedical imaging.
+- [Kaggle](https://www.kaggle.com/datasets): One of the largest AI & ML community.
+- [TCIA](https://www.cancerimagingarchive.net/access-data/): A service which de-identifies and hosts a large archive of medical images of cancer accessible for public download.
+- [Synapse](https://www.synapse.org/): A platform for supporting scientific collaborations centered around shared biomedical data sets.
+- [Medical Segmentation Decathlon](http://medicaldecathlon.com/): The MSD challenge tests the generalisability of machine learning algorithms when applied to 10 different semantic segmentation tasks.
+- [CodaLab](https://codalab.lisn.upsaclay.fr/): An open-source web-based platform that enables researchers, developers, and data scientists to collaborate, with the goal of advancing research fields where machine learning and advanced computation is used.
+- [Tianchi (Chinese)](https://tianchi.aliyun.com/dataset): Tianchi is a developer competition platform under Alibaba Cloud.
+- [OpenDataLab (Chinese)](https://opendatalab.com/): China Big Model Corpus Data Alliance open source data service designated platform, provides high-quality open data sets for large models.
+
+## Evaluation Benchmark
+Noted: Many of the datasets collected in this project are benchmarks on the data platform. This section collects comprehensive benchmarks specifically used to evaluate model performance.
+
+| Benchmark    |  Organization   |                                                 Paper                                                  |                                                                                                                                 Website                                                                                                                                  |
+|:-------------|:---------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| MedBench     | Shanghai AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-2407.10990-b31b1b.svg)](https://arxiv.org/abs/2407.10990) |                                                                                                         [Project Link](https://medbench.opencompass.org.cn/home)                                                                                                         |
+| OmniMedVQA   | Shanghai AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-2402.09181-b31b1b.svg)](https://arxiv.org/abs/2402.09181) | [![GitHub stars](https://img.shields.io/github/stars/OpenGVLab/Multi-Modality-Arena.svg?logo=github&label=Stars)](https://github.com/OpenGVLab/Multi-Modality-Arena?tab=readme-ov-file#omnimedvqa-a-new-large-scale-comprehensive-evaluation-benchmark-for-medical-lvlm) |
+| A-Eval       | Shanghai AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-2309.03906-b31b1b.svg)](https://arxiv.org/abs/2309.03906) |                                                               [![GitHub stars](https://img.shields.io/github/stars/uni-medical/A-Eval.svg?logo=github&label=Stars)](https://github.com/uni-medical/A-Eval)                                                               |
+| GMAI-MMBench | Shanghai AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-2408.03361-b31b1b.svg)](https://arxiv.org/abs/2408.03361) |                                                         [![GitHub stars](https://img.shields.io/github/stars/uni-medical/GMAI-MMBench.svg?logo=github&label=Stars)](https://github.com/uni-medical/GMAI-MMBench)                                                         |
+| Touchstone   |       JHU       | [![arXiv](https://img.shields.io/badge/arXiv-2305.09666-b31b1b.svg)](https://arxiv.org/abs/2305.09666) |                                                            [![GitHub stars](https://img.shields.io/github/stars/MrGiovanni/Touchstone.svg?logo=github&label=Stars)](https://github.com/MrGiovanni/Touchstone)                                                            |
+
+
+## SOTA Methods
+
+### Segmentation
+
+| Model             |  Organization   |                                                 Paper                                                  |                                           Github                                                                                                                                     |
+|:------------------|:---------------:|:------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| nnU-Net           |      DKFZ       | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-b31b1b.svg)](https://arxiv.org/abs/1809.10486) |                        [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet)                        |
+| MedNeXt           |      DKFZ       | [![arXiv](https://img.shields.io/badge/arXiv-2303.09975-b31b1b.svg)](https://arxiv.org/pdf/2303.09975) |                       [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/MedNeXt.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/MedNeXt)                       |
+| STU-Net           | Shanghai AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-2304.06716-b31b1b.svg)](https://arxiv.org/pdf/2304.06716) |                    [![GitHub stars](https://img.shields.io/github/stars/uni-medical/STU-Net.svg?logo=github&label=Stars)](https://github.com/uni-medical/STU-Net)                    |
+| U-Net & CLIP      |      CityU      | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) |     [![GitHub stars](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model.svg?logo=github&label=Stars)](https://github.com/ljwztc/CLIP-Driven-Universal-Model)     |
+| UNETR             |     NVIDIA      | [![arXiv](https://img.shields.io/badge/arXiv-2111.04004-b31b1b.svg)](https://arxiv.org/abs/2111.04004) |                [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/tutorials.svg?logo=github&label=Stars)](https://github.com/Project-MONAI/tutorials)                |
+| Swin UNETR        |     NVIDIA      | [![arXiv](https://img.shields.io/badge/arXiv-2211.11537-b31b1b.svg)](https://arxiv.org/abs/2211.11537) |                [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/tutorials.svg?logo=github&label=Stars)](https://github.com/Project-MONAI/tutorials)                |
+| Swin UNETR & CLIP |      CityU      | [![arXiv](https://img.shields.io/badge/arXiv-2301.00785-b31b1b.svg)](https://arxiv.org/abs/2301.00785) |     [![GitHub stars](https://img.shields.io/github/stars/ljwztc/CLIP-Driven-Universal-Model.svg?logo=github&label=Stars)](https://github.com/ljwztc/CLIP-Driven-Universal-Model)     |
+| MedFormer         |     Rutgers     | [![arXiv](https://img.shields.io/badge/arXiv-2203.00131-b31b1b.svg)](https://arxiv.org/abs/2203.00131) | [![GitHub stars](https://img.shields.io/github/stars/yhygao/CBIM-Medical-Image-Segmentation.svg?logo=github&label=Stars)](https://github.com/yhygao/CBIM-Medical-Image-Segmentation) |
+| UniSeg            |       NPU       | [![arXiv](https://img.shields.io/badge/arXiv-2304.03493-b31b1b.svg)](https://arxiv.org/abs/2304.03493) |                         [![GitHub stars](https://img.shields.io/github/stars/yeerwen/UniSeg.svg?logo=github&label=Stars)](https://github.com/yeerwen/UniSeg)                         |
+| Diff-UNet         |      HKUST      | [![arXiv](https://img.shields.io/badge/arXiv-2303.10326-b31b1b.svg)](https://arxiv.org/abs/2303.10326) |                      [![GitHub stars](https://img.shields.io/github/stars/ge-xing/Diff-UNet.svg?logo=github&label=Stars)](https://github.com/ge-xing/Diff-UNet)                      |
+| LHU-Net           |       UR        | [![arXiv](https://img.shields.io/badge/arXiv-2404.05102-b31b1b.svg)](https://arxiv.org/abs/2404.05102) |                       [![GitHub stars](https://img.shields.io/github/stars/xmindflow/LHUNet.svg?logo=github&label=Stars)](https://github.com/xmindflow/LHUNet)                       |
+| NexToU            |       HIT       | [![arXiv](https://img.shields.io/badge/arXiv-2305.15911-b31b1b.svg)](https://arxiv.org/abs/2305.15911) |                [![GitHub stars](https://img.shields.io/github/stars/PengchengShi1220/NexToU.svg?logo=github&label=Stars)](https://github.com/PengchengShi1220/NexToU)                |
+| SegVol            |      BAAI       | [![arXiv](https://img.shields.io/badge/arXiv-2311.13385-b31b1b.svg)](https://arxiv.org/abs/2311.13385) |                       [![GitHub stars](https://img.shields.io/github/stars/BAAI-DCAI/SegVol.svg?logo=github&label=Stars)](https://github.com/BAAI-DCAI/SegVol)                       |
+| UNesT             |     NVIDIA      | [![arXiv](https://img.shields.io/badge/arXiv-2303.10745-b31b1b.svg)](https://arxiv.org/abs/2303.10745) |                [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/tutorials.svg?logo=github&label=Stars)](https://github.com/Project-MONAI/tutorials)                |
+| SAM-Adapter       |      Duke       | [![arXiv](https://img.shields.io/badge/arXiv-2404.09957-b31b1b.svg)](https://arxiv.org/abs/2404.09957) |            [![GitHub stars](https://img.shields.io/github/stars/mazurowski-lab/finetune-SAM.svg?logo=github&label=Stars)](https://github.com/mazurowski-lab/finetune-SAM)            |
+
+
+## Related Foundation Toolbox Projects
+Many of the papers that use the datasets collected in this project have their code written based on the following Github code project.
+
+| Projects       |   Organization   |                                                 Paper                                                  |                                                                                    Github                                                                                     |
+|:---------------|:----------------:|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| nnU-Net        |       DKFZ       | [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-b31b1b.svg)](https://arxiv.org/abs/1809.10486) |                    [![GitHub stars](https://img.shields.io/github/stars/MIC-DKFZ/nnUNet.svg?logo=github&label=Stars)](https://github.com/MIC-DKFZ/nnUNet)                     | 
+| MONAI          |      NVIDIA      | [![arXiv](https://img.shields.io/badge/arXiv-2211.02701-b31b1b.svg)](https://arxiv.org/abs/2211.02701) |                [![GitHub stars](https://img.shields.io/github/stars/Project-MONAI/MONAI.svg?logo=github&label=Stars)](https://github.com/Project-MONAI/MONAI)                 |
+| SAM            |       META       | [![arXiv](https://img.shields.io/badge/arXiv-2304.02643-b31b1b.svg)](https://arxiv.org/abs/2304.02643) |         [![GitHub stars](https://img.shields.io/github/stars/facebookresearch/segment-anything.svg?logo=github&label=Stars)](https://github.com/facebookresearch/segment-anything)          |
+| MMSegmentation | Shanghai AI Lab  |                                                   -                                                    |          [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmsegmentation.svg?logo=github&label=Stars)](https://github.com/open-mmlab/mmsegmentation)           |
+ | MMPretrain     | Shanghai AI Lab  |                                                   -                                                    |                [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/mmpretrain.svg?logo=github&label=Stars)](https://github.com/open-mmlab/mmpretrain)                 |
