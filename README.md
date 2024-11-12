@@ -4,7 +4,7 @@ Last updated: 2024/11/12
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
-If you have some suggestions, please create a new issue and let us know! 😊
+**If you have some suggestions, please create a new issue and let us know!** 😊
 
 ## Table of Content
 
