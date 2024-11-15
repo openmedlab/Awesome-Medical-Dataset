@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/11/14
+Last updated: 2024/11/15
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -21,7 +21,7 @@ Last updated: 2024/11/14
 - [Imaging](#Imaging)
   - [Whole Body (8)](#whole-body)
   - [Head and Neck (52)](#head-and-neck)
-  - [Chest (36)](#chest)
+  - [Chest (37)](#chest)
   - [Abdomen (46)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (12)](#bones)
@@ -141,6 +141,7 @@ Last updated: 2024/11/14
 | [PleThora](./resources/PleThora.md)                                           | 3D CT, 402 Cases, 2 Categories of Pleural Effusion and Thoracic Segmentation                             | [TCIA](https://www.cancerimagingarchive.net/analysis-result/plethora/)                             | 2020-04      | -                              |
 | [SARS-COV-2 Ct-Scan](./resources/SARS-COV-2.md)                               | 2D CT, 2482 Cases, 2 Categories of Pneumonia Classification                                              | [Kaggle](https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset)                    | 2020-05      | -                              |
 | [COVID_CT_COVID-CT](./resources/COVID_CT_COVID-CT.md)                         | 2D CT, 746 Cases, 2 Categories of Pneumonia Classification                                               | [Tianchi](https://tianchi.aliyun.com/dataset/106604)                                               | 2020-06      | -                              |
+| [CoronaHack](./resources/CoronaHack.md)                                       | 2D CXR, 5910 Cases, 2 (7) Categories of Pneumonia Segmentation and Classification                        | [Kaggle](https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset/data)            | 2020-06      | -                              |
 | [COVIDGR](./resources/COVIDGR.md)                                             | 2D X-Ray, 852 Cases, 2 Categories Pneumonia Classification                                               | [Github](https://github.com/ari-dasci/covidgr)                                                     | 2020-12      | -                              |
 | [CMMD](./resources/CMMD.md)                                                   | 2D X-ray, 5334 Cases, 2 Categories of Breast Cancer Classification                                       | [TCIA](https://www.cancerimagingarchive.net/collection/cmmd/)                                      | 2021         | -                              |
 | [SIIM-FISABIO-RSNA COVID-19](./resources/SIIM-FISABIO-RSNA.md)                | 2D X Ray, 7597 Cases, 4 Categories of Pneumonia Classification                                           | [Kaggle](https://www.kaggle.com/competitions/siim-covid19-detection/data)                          | 2021         | -                              |
