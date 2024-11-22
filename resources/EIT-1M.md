@@ -126,7 +126,7 @@ Download Link: https://huggingface.co/datasets/eit-1m/EIT-1M
 
 Article Address: https://arxiv.org/pdf/2407.01884
 
-Publication Date: 2025-07
+Publication Date: 2024-07
 
 ## Citation
 
