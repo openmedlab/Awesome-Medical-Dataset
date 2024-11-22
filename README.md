@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/11/21
+Last updated: 2024/11/22
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -29,7 +29,7 @@ Last updated: 2024/11/21
   - [Retina (47)](#retina)
   - [Skin (10)](#skin)
   - [Microscopic imaging (37)](#microscopic-imaging)
-- [Imaging and Text (23)](#Image-text-dataset)
+- [Imaging and Text (24)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -458,9 +458,10 @@ Last updated: 2024/11/21
 | [MedPromptX-VQA](./resources/MedPromptX-VQA.md)                 | VQA, 968 Cases QA Pair                                                                               | [Project Homepage](https://github.com/BioMedIA-MBZUAI/MedPromptX)                                        | 2024-03      |
 | [WSI-VQA](./resources/WSI-VQA.md)                               | VQA, 8672 Cases QA Pair                                                                              | [Github](https://github.com/cpystan/WSI-VQA/tree/master)                                                 | 2024-07      |
 | [Medical-CXR-VQA](./resources/Medical-CXR-VQA.md)               | 2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray Images                                      | [Github](https://github.com/Holipori/Medical-CXR-VQA)                                                    | 2024-07      |
+| [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2024-07      |
 | [PathMMU](./resources/PathMMU.md)                               | VQA, 33,428 Cases QA Pair and 24,067 Cases Pathological Images                                       | [Project Homepage](https://pathmmu-benchmark.github.io/#/)                                               | 2024-08      |
+| [EAV](./resources/EAV.md)                                       | Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data                     | [Github](https://github.com/nubcico/EAV)                                                                 | 2024-09      |
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 visual dialogues                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
-| [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2025-07      |
 
 </details>
 
