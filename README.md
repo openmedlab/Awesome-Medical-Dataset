@@ -18,6 +18,10 @@ Last updated: 2024/11/25
 ## Public Medical Dataset
 :book: **Medical Datasets**
 
+Most of the original Chinese compilations of medical datasets come from [Zhihu](https://zhuanlan.zhihu.com/p/661132213), GMAI of Shanghai AI Laboratory. 
+
+If you want to introduce or know more dataset, you are welcome to submit an issue or PR in this repo.
+
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (52)](#head-and-neck)
