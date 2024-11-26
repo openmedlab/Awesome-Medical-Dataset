@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/11/25
+Last updated: 2024/11/26
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (47)](#retina)
   - [Skin (11)](#skin)
   - [Microscopic imaging (37)](#microscopic-imaging)
-- [Imaging and Text (24)](#Image-text-dataset)
+- [Imaging and Text (25)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -453,6 +453,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [SLAKE](./resources/SLAKE.md)                                   | VQA, 14028  Cases QA Pair                                                                            | [Project Homepage](https://www.med-vqa.com/slake/)                                                       | 2021-02      |
 | [Montgomery County CXR Set](./resources/MontgomeryCounty.md)    | 2D X-Ray, 138 Cases, 2 Categories of CXR Image Abnormality Diagnosis                                 | [Project Homepage](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html#tuberculosis-image-data-sets) | 2021-06      |
 | [MMMU Health&Medicine](./resources/MMMU_Health&Medicine.md)     | VQA, 1752 Cases QA Pair                                                                              | [Mendeley](https://data.mendeley.com/datasets/pc4mb3h8hz/1)                                              | 2022-07      |
+| [FACE](./resources/FACE.md)                                     | Emotion Recognition, Emotional Computing Refined Large-scale Electroencephalogram (EEG)              | [Synapse](https://www.synapse.org/Synapse:syn50614194/wiki/620378)                                       | 2023         |
 | [PMC-OA](./resources/PMC-OA.md)                                 | VQA, 1.6M QA Pair                                                                                    | [Project Homepage](https://weixionglin.github.io/PMC-CLIP/)                                              | 2023-03      |
 | [PMC-VQA](./resources/PMC-VQA.md)                               | VQA, 227K Cases                                                                                      | [Github](https://github.com/xiaoman-zhang/PMC-VQA)                                                       | 2023-05      |
 | [Quilt-1M](./resources/Quilt-1M.md)                             | Caption, 768826 Cases                                                                                | [Project Homepage](https://quilt1m.github.io/)                                                           | 2023-06      |
