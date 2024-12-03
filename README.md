@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/2
+Last updated: 2024/12/3
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -25,7 +25,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (52)](#head-and-neck)
-  - [Chest (37)](#chest)
+  - [Chest (38)](#chest)
   - [Abdomen (46)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (13)](#bones)
@@ -165,6 +165,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [SEG.A.](./resources/SEG.A.md)                                                | 3D CTA, 56 Cases, 1 Category of Aorta Segmentation                                                       | [Grand Challenge](https://multicenteraorta.grand-challenge.org/)                                   | 2023-05      | MICCAI'2023                    |
 | [LNQ 2023](./resources/LNQ2023.md)                                            | 3D CT, 513 Cases, 1 Category of Lymph Node Quantification                                                | [Grand Challenge](https://lnq2023.grand-challenge.org/lnq2023/)                                    | 2023-05      | MICCAI'2023                    |
 | [MICCAI2024 TriALS 2024 Task1](./resources/TriALS.md)                         | 3D CT, 60 Cases, 1 Category of Liver Diesase Segmentation                                                | [Synapse](https://www.synapse.org/Synapse:syn53285416/wiki/)                                       | 2024-06      | MICCAI'2024                    |
+| [LungHist700](./resources/LungHist700.md)                                     | 2D Pathological Images, 691 Cases, 7 Categories of Lung Malignancies Classification                      | [Project Homepage](https://www.nature.com/articles/s41597-024-03944-3)                             | 2024-10      | -                              |
 
 </details>
 
