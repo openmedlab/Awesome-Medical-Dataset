@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/4
+Last updated: 2024/12/5
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (49)](#retina)
   - [Skin (12)](#skin)
   - [Microscopic imaging (37)](#microscopic-imaging)
-- [Imaging and Text (26)](#Image-text-dataset)
+- [Imaging and Text (27)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -466,6 +466,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [ROCOV2](./resources/ROCOV2.md)                                 | Caption, 80080 Cases Image-Caption Pair                                                              | [Zenodo](https://zenodo.org/records/8333645)                                                             | 2023-11      |
 | [RP3D-Caption](./resources/RP3D-Caption.md)                     | Caption, 69523 Cases Image-Caption Pair                                                              | [Project Homepage](https://chaoyi-wu.github.io/RadFM/)                                                   | 2023-11      |
 | [PMC-Inline](./resources/PMC-Inline.md)                         | Caption, 11,000,000 Images                                                                           | [Hugginface](https://huggingface.co/datasets/chaoyi-wu/PMC-Inline/tree/main)                             | 2023-11      |
+| [Quilt-Instruct](./resources/Quilt-Instruct.md)                 | VQA, 170131 Cases, Pathology Image Visual Question Answering                                         | [Github](https://quilt-llava.github.io/)                                                                 | 2024-02      |                                      
 | [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                                                 | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                     | 2024-03      |
 | [MedPromptX-VQA](./resources/MedPromptX-VQA.md)                 | VQA, 968 Cases QA Pair                                                                               | [Project Homepage](https://github.com/BioMedIA-MBZUAI/MedPromptX)                                        | 2024-03      |
 | [WSI-VQA](./resources/WSI-VQA.md)                               | VQA, 8672 Cases QA Pair                                                                              | [Github](https://github.com/cpystan/WSI-VQA/tree/master)                                                 | 2024-07      |
@@ -473,7 +474,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2024-07      |
 | [PathMMU](./resources/PathMMU.md)                               | VQA, 33,428 Cases QA Pair and 24,067 Cases Pathological Images                                       | [Project Homepage](https://pathmmu-benchmark.github.io/#/)                                               | 2024-08      |
 | [EAV](./resources/EAV.md)                                       | Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data                     | [Github](https://github.com/nubcico/EAV)                                                                 | 2024-09      |
-| [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 visual dialogues                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
+| [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 Visual Dialogues                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
 
 </details>
 
