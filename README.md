@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/5
+Last updated: 2024/12/6
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (49)](#retina)
   - [Skin (12)](#skin)
   - [Microscopic imaging (37)](#microscopic-imaging)
-- [Imaging and Text (27)](#Image-text-dataset)
+- [Imaging and Text (28)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -449,6 +449,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | Dataset                                                         | Description                                                                                          | Official Website                                                                                         | Release Date |
 |:----------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------|:-------------|
 | [DEAP](./resources/DEAP.md)                                     | Emotion Recognition, Studying Human Emotional States through Analysis of Physiological Signals       | [Project Homepage](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/)                                        | 2011         |
+| [SEED](./resources/SEED.md)                                     | Emotion Recognition, Public Emotion Dataset                                                          | [Project Homepage](https://bcmi.sjtu.edu.cn/home/seed/seed.html)                                         | 2015         |
 | [IU-Xray](./resources/IU-Xray.md)                               | RG, 7,470 Frontal or Lateral Chest X-ray Images, with 3,955 Corresponding Reports                    | [PaperWithCode](https://paperswithcode.com/dataset/iu-x-ray)                                             | 2016         |
 | [Linguistic Meaning](./resources/Linguistic_Meaning.md)         | Semantic Decoding, Functional Magnetic Resonance Imaging (fMRI), and Semantic Vector Representations | [Project Homepage](https://osf.io/crwz7/)                                                                | 2018-03      |
 | [VQA-RAD](./resources/VQA-RAD.md)                               | VQA, 3515  Cases QA Pair                                                                             | [Project Homepage](https://osf.io/89kps/)                                                                | 2018-11      |
