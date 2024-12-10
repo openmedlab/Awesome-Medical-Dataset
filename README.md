@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/9
+Last updated: 2024/12/10
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -26,7 +26,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (52)](#head-and-neck)
   - [Chest (38)](#chest)
-  - [Abdomen (46)](#abdomen)
+  - [Abdomen (47)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (13)](#bones)
   - [Endoscopy (28)](#endoscopy)
@@ -215,6 +215,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [ATLAS (MICCAI2023)](./resources/ATLAS.md)                                                      | 3D CE-MRI, 90 Cases, 2 Categories of Liver and Tumor Segmentation                                     | [Grand Challenge](https://atlas-challenge.u-bourgogne.fr/)                                             | 2023-04      | MICCAI'2023                    |
 | [MOOD2023](./resources/MOOD2023.md)                                                             | 3D CT&MR, 1300 Cases, Out-of-Distribution Detection                                                   | [Project Homepage](http://medicalood.dkfz.de/web/)                                                     | 2023-04      | MICCAI'2023                    |
 | [MICCAI 2023 PSFHS](./resources/PSFHS.md)                                                       | 2D Ultrasound, 5101 (4000) Cases, 2 Categories of Fetal Head and Pubic Symphysis (FH-PS) Segmentation | [Grand Challenge](https://ps-fh-aop-2023.grand-challenge.org/)                                         | 2023-04      | MICCAI'2023                    |
+| [Kidney Stone Images with Bounding Box Annotations](./resources/KidneyStone.md)                 | 2D CT, 1300 Cases, 1 Category of Kidney Stone Detection                                               | [Kaggle](https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images)                        | 2023-04      | -                              |
 | [Adrenal-ACC-Ki67-Seg](./resources/Adrenal-ACC-Ki67-Seg.md)                                     | 3D CT, 57 Cases, 1 Category of Pathologically Confirmed Adrenocortical Carcinoma Segmentation         | [TCIA](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/)                          | 2023-05      | -                              |
 | [AbdomenAtlas 1.0 Mini](./resources/AbdomenAtlas_Mini.md)                                       | 3D CT, 5195 Cases, 9 Categories of Abdominal Organ Segmentation                                       | [Github](https://github.com/MrGiovanni/AbdomenAtlas)                                                   | 2024-02      | -                              |
 | [FLARE 2024 Task 1](./resources/FLARE2024_Task1.md)                                             | 3D CT, 10000 Cases, 1 Category of Whole Body Tumor Segmentation                                       | [Codabench](https://www.codabench.org/competitions/2319)                                               | 2024-04      | MICCAI'2024                    |
