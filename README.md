@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/16
+Last updated: 2024/12/17
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -25,7 +25,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (53)](#head-and-neck)
-  - [Chest (38)](#chest)
+  - [Chest (39)](#chest)
   - [Abdomen (48)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (13)](#bones)
@@ -136,6 +136,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [LUNA16](./resources/LUNA16.md)                                               | 3D CT, 888 Cases, 1 Category of Lung Nodule Detection                                                    | [Grand Challenge](https://luna16.grand-challenge.org/Home/)                                        | 2016-03      | LUNA16                         |
 | [Breast Ultrasound Dataset B](./resources/Breast_Ultrasound_DatasetB.md)      | 2D Ultrasound, 163 Cases, 1 Category of Breast Lesions Detection                                         | [Project Homepage](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php)                             | 2018-06      | -                              |
 | [FUMPE](./resources/FUMPE.md)                                                 | 3D CT, 35 Cases, 1 Category of Pulmonary Embolism (PE) Segmentation                                      | [Figshare](https://figshare.com/collections/FUMPE/4107803/1)                                       | 2018-09      | -                              |
+| [DICOM-LIDC-IDRI-Nodules](./resources/DICOM-LIDC-IDRI-Nodules.md)             | 3D CT, 31 Cases, 1 Category of  Lung Nodule Segmentation                                                 | [TCIA](https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg/)                       | 2018-12      | -                              |
 | [StructSeg2019 Task3](./resources/StructSeg2019_Task3.md)                     | 3D CT, 50 Cases, 6 Categories of Lung Cancer Radiotherapy Organs-at-Risk Segmentation                    | [Grand Challenge](https://structseg2019.grand-challenge.org/)                                      | 2019         | MICCAI'2019                    |
 | [Pneumothorax Masks X-Ray](./resources/Pneumothorax_Masks_X-Ray.md)           | 2D CXR, 12047 Cases, Chest X-ray and Corresponding Pneumothorax Segmentation                             | [Kaggle](https://www.kaggle.com/datasets/vbookshelf/pneumothorax-chest-xray-images-and-masks/data) | 2019-01      | -                              |
 | [StructSeg2019 Task4](./resources/StructSeg2019_Task4.md)                     | 3D CT, 50 Cases, 1 Category of Organ-at-risk Fractionation for Radiotherapy for Lung Cancer Segmentation | [Grand Challenge](https://structseg2019.grand-challenge.org/)                                      | 2019         | MICCAI'2019                    |
