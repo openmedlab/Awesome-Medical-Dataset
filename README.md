@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/19
+Last updated: 2024/12/20
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (49)](#retina)
   - [Skin (13)](#skin)
   - [Microscopic imaging (37)](#microscopic-imaging)
-- [Imaging and Text (30)](#Image-text-dataset)
+- [Imaging and Text (31)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -483,6 +483,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [Medical-CXR-VQA](./resources/Medical-CXR-VQA.md)               | 2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray Images                                                                      | [Github](https://github.com/Holipori/Medical-CXR-VQA)                                                    | 2024-07      |
 | [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks                                       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                     | 2024-07      |
 | [PathMMU](./resources/PathMMU.md)                               | VQA, 33,428 Cases QA Pair and 24,067 Cases Pathological Images                                                                       | [Project Homepage](https://pathmmu-benchmark.github.io/#/)                                               | 2024-08      |
+| [STimage-1K4M](./resources/STimage-1K4M.md)                     | image-gene,  Detailed gene expression information is recorded for each spatial spot.                                                 | [Github](https://github.com/JiawenChenn/STimage-1K4M)                                                    | 2024-08      |
 | [EAV](./resources/EAV.md)                                       | Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data                                                     | [Github](https://github.com/nubcico/EAV)                                                                 | 2024-09      |
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 Visual Dialogues                                                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                 | 2024-10      |
 
