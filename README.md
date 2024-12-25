@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/24
+Last updated: 2024/12/25
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -25,7 +25,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (54)](#head-and-neck)
-  - [Chest (40)](#chest)
+  - [Chest (41)](#chest)
   - [Abdomen (49)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (14)](#bones)
@@ -135,6 +135,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [QIBA-VolCT-1B](./resources/QIBA-VolCT-1B.md)                                 | 3D CT, 323 Cases, 1 Categories of Lung Tumor Segmentation and Lesion Size Measurement                    | [TCIA](https://www.cancerimagingarchive.net/analysis-result/qiba-volct-1b/)                        | 2015         | -                              |
 | [MIAS](./resources/MIAS.md)                                                   | 2D X-ray, 322 Cases, 7 Categories of Breast Lesions Classification                                       | [Kaggle](https://www.kaggle.com/datasets/kmader/mias-mammography)                                  | 2015         | -                              |
 | [LUNA16](./resources/LUNA16.md)                                               | 3D CT, 888 Cases, 1 Category of Lung Nodule Detection                                                    | [Grand Challenge](https://luna16.grand-challenge.org/Home/)                                        | 2016-03      | LUNA16                         |
+| [SZ-CXR](./resources/SZ-CXR.md)                                               | 2D X-ray, 566 Cases, 1 Category of Lung Tuberculosis Diagnosis Classification and Segmentation           | [Kaggle](https://www.kaggle.com/datasets/raddar/tuberculosis-chest-xrays-shenzhen)                 | 2018         | -                              |
 | [Breast Ultrasound Dataset B](./resources/Breast_Ultrasound_DatasetB.md)      | 2D Ultrasound, 163 Cases, 1 Category of Breast Lesions Detection                                         | [Project Homepage](http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php)                             | 2018-06      | -                              |
 | [FUMPE](./resources/FUMPE.md)                                                 | 3D CT, 35 Cases, 1 Category of Pulmonary Embolism (PE) Segmentation                                      | [Figshare](https://figshare.com/collections/FUMPE/4107803/1)                                       | 2018-09      | -                              |
 | [DICOM-LIDC-IDRI-Nodules](./resources/DICOM-LIDC-IDRI-Nodules.md)             | 3D CT, 31 Cases, 1 Category of  Lung Nodule Segmentation                                                 | [TCIA](https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg/)                       | 2018-12      | -                              |
