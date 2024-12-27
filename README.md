@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2024/12/26
+Last updated: 2024/12/27
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -24,7 +24,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
-  - [Head and Neck (54)](#head-and-neck)
+  - [Head and Neck (55)](#head-and-neck)
   - [Chest (41)](#chest)
   - [Abdomen (49)](#abdomen)
   - [Heart (14)](#heart)
@@ -82,6 +82,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [MSD Hippocampus](./resources/MSD_Hippocampus.md)         | 3D MRI, 394 Cases, 2 Categories of Hippocampus Segmentation                                                              | [MSD](http://medicaldecathlon.com/)                                                     | 2019-02      | Medical Segmentation Decathlon |
 | [Head CT-hemorrhage](./resources/HeadCT-hemorrhage.md)    | 2D CT, 200 Cases, 2 Categories of Cerebral Hemorrhage Classification                                                     | [Kaggle](https://www.kaggle.com/datasets/felipekitamura/head-ct-hemorrhage)             | 2019-09      | -                              |
 | [WMH](./resources/WMH.md)                                 | 3D MRI, 170 Cases, 1 Category of White Matter Hyperintensity Segmentation                                                | [Project Homepage](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/AECRSD) | 2019-11      | -                              |
+| [OSCC](./resources/OSCC.md)                               | 2D Pathological Imaging, 2 Categories of 1224 Cases, Oral Squamous Cell Carcinoma Classification                         | [Mendeley](https://data.mendeley.com/datasets/ftmp4cvtmb/1)                             | 2019-11      | -                              |
 | [TN-SCUI2020](./resources/TN-SCUI2020.md)                 | 2D Ultrasound, 4554 Cases, 1 Category of Thyroid Nodule Segmentation                                                     | [Grand Challenge](https://tn-scui2020.grand-challenge.org/Home/)                        | 2020-05      | MICCAI'2020                    |
 | [AAPM-RT-MAC](./resources/AAPM-RT-MAC.md)                 | 3D MRI, 55 Cases, 8 Categories of Parotid Gland, Submandibular Gland, and Level 2 and 3 Lymph Nodes Contour Segmentation | [TCIA](https://www.cancerimagingarchive.net/collection/aapm-rt-mac/)                    | 2020-07      | -                              |
 | [CrossMoDA2021](./resources/CrossMoDA2021.md)             | 3D T1-CE, T2-HR, 349 Cases, 2 Categories of Tumor and Cochlear Structure Segmentation                                    | [Grand Challenge](https://crossmoda.grand-challenge.org/)                               | 2021-03      | MICCAI'2021                    |
