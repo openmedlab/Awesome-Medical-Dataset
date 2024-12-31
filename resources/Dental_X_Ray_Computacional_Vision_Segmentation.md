@@ -1,7 +1,7 @@
 # Dental X Ray Computacional Vision Segmentation
 
 <div align="center">
-    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/Dental_X_Ray_Computacional_Vision_Segmentation_0.png"></a>
+    <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/Dental_X_Ray_Computacional_Vision_Segmentation_0.avif"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em></em></p>
 
