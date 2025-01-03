@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/01
+Last updated: 2025/01/02
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -30,7 +30,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Heart (14)](#heart)
   - [Bones (15)](#bones)
   - [Endoscopy (29)](#endoscopy)
-  - [Retina (49)](#retina)
+  - [Retina (50)](#retina)
   - [Skin (13)](#skin)
   - [Microscopic imaging (38)](#microscopic-imaging)
 - [Imaging and Text (33)](#Image-text-dataset)
@@ -357,6 +357,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [RIM-ONE DL](./resources/RIM-ONE_DL.md)                                       | 2D Retinal Images, 485 Cases, 2 Categories of Glaucoma Classification and Optic Disc and Optic Cup Segmentation                                                                   | [Github](https://github.com/miag-ull/rim-one-dl)                                                                                                                                                | 2020-06      | -            | 
 | [ORVS](./resources/ORVS.md)                                                   | 2D Retinal Images, 49 Cases, 1 Category of Fundus Blood Vessels Segmentation                                                                                                      | [Github](https://github.com/AbdullahSarhan/ICPRVessels)                                                                                                                                         | 2020-12      | -            |
 | [JSIEC](./resources/JSIEC.md)                                                 | 2D Retinal Images, 1000 Cases, 39 Categories of Eye Diseases Classification                                                                                                       | [Kaggle](https://www.kaggle.com/datasets/linchundan/fundusimage1000)                                                                                                                            | 2021         | -            |
+| [Ocular Disease Recognition](./resources/OcularDiseaseRecognition.md)         | 2D Retinal Image, 5k Cases, 8 Categories of Eye Lesion Classification                                                                                                             | [Kaggle](https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k)                                                                                                           | 2021         | -            |
 | [Diabetic Retinopathy Arranged](./resources/DiabeticRetinopathyArranged.md)   | 2D Retinal Images, 35127 Cases, 5 Categories of Diabetic Retinopathy Classification                                                                                               | [Project Homepage](https://tianchi.aliyun.com/dataset/93926)                                                                                                                                    | 2021-03      | -            |
 | [Augemnted ocular diseases(AOD)](./resources/AOD.md)                          | 2D Retinal Images, 14.8k Cases, 7 Categories of Major Eye Diseases Classification                                                                                                 | [Kaggle](https://www.kaggle.com/datasets/nurmukhammed7/augemnted-ocular-diseases)                                                                                                               | 2021-04      | -            |
 | [BEH (Bangladesh Eye Hospital)](./resources/BEH.md)                           | 2D Fundus photograph, 634 Casesm, 2 Categories of Glaucoma Classification                                                                                                         | [Github](https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation)                                                | 2021-12      | -            |                                                                                                                                                             
