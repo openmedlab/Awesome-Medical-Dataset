@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/06
+Last updated: 2025/01/07
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -26,7 +26,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (55)](#head-and-neck)
   - [Chest (41)](#chest)
-  - [Abdomen (50)](#abdomen)
+  - [Abdomen (51)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (15)](#bones)
   - [Endoscopy (30)](#endoscopy)
@@ -187,6 +187,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [NCT-CRC-HE-100K](./resources/NCT-CRC-HE-100K.md)                                               | 2D Pathology, 100,000 Cases, 9 Categories of Colorectal Classification                                               | [Zenodo](https://zenodo.org/records/1214456)                                                           | 2008-04      | -                              |
 | [Promise09](./resources/Promise09.md)                                                           | 3D MRI, 15 Cases, 1 Category of Prostate Segmentation                                                                | [Project Homepage](https://www.na-mic.org/wiki/Training_Data_Prostate_Segmentation_Challenge_MICCAI09) | 2009         | MICCAI'2009                    |
 | [3D-IRCADB](./resources/3D-IRCADB.md)                                                           | 3D CT, 22 Cases, 40 Categories of Abdominal Organ and Tumor Segmentation                                             | [Project Homepage](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)           | 2010         | -                              |
+| [PROMISE12](./resources/PROMISE12.md)                                                           | 3D MR, 50 Cases, 1 Category of Prostate Segmentation                                                                 | [Grand Challenge](https://promise12.grand-challenge.org/)                                              | 2012         | MICCAI'2012                    |
 | [VESSEL12](./resources/VESSEL12.md)                                                             | 3D CT, 20 Cases, 1 Category of Vessel Segmentation                                                                   | [Grand Challenge](https://vessel12.grand-challenge.org/)                                               | 2012-05      | ISBI'2012                      |
 | [BTCV](./resources/BTCV.md)                                                                     | 3D CT, 50 Cases, 13 Categories of Abdominal Organ Segmentation                                                       | [Synapse](https://www.synapse.org/#!Synapse:syn3193805/wiki/)                                          | 2015-04      | MICCAI'2015                    |
 | [BTCV Cervix](./resources/BTCV_Cervix.md)                                                       | 3D CT, 50 Cases, 4 Categories of Abdominal Organ Segmentation                                                        | [Synapse](https://www.synapse.org/#!Synapse:syn3193805/wiki/217790)                                    | 2015-04      | MICCAI'2015                    |
@@ -233,7 +234,6 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [FedSurg](./resources/FedSurg.md)                                                               | 2D Laparoscopy, 30 Cases, 6 Categories of Laparoscopic Appendectomy                                                  | [Synapse](https://www.synapse.org/Synapse:syn53137385/wiki/625370)                                     | 2024-05      | MICCAI'2024                    |
 | [MICCAI-24 ACOUSLIC](./resources/ACOUSLIC.md)                                                   | 3D Ultrasound, 600 Cases, 3 Categories of Fetal Abdomen Waist Measurement                                            | [Grand Challenge](https://acouslic-ai.grand-challenge.org/overview-and-goals/)                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 PENGWIN Task1](./resources/PENGWIN.md)                                             | 3D CT, 100 Cases, 3 Categories of Pelvis Segmentation                                                                | [Grand Challenge](https://pengwin.grand-challenge.org/pengwin/)                                        | 2024-07      | MICCAI'2024                    |
-
 </details>
 
 #### Heart
