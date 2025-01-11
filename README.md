@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/09
+Last updated: 2025/01/11
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -31,7 +31,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Bones (15)](#bones)
   - [Endoscopy (31)](#endoscopy)
   - [Retina (51)](#retina)
-  - [Skin (13)](#skin)
+  - [Skin (14)](#skin)
   - [Microscopic imaging (38)](#microscopic-imaging)
 - [Imaging and Text (33)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
@@ -403,8 +403,9 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [Fitzpatrick 17k](./resources/Fitzpatrick17k.md)                | 2D Dermoscopic Images, 16577 Cases, 6 Categories of Fitzpatrick Skin Type, 114 Categories of Skin Condition | [Github](https://github.com/mattgroh/fitzpatrick17k)                                                        | 2021         | -           |
 | [Web-scraped Skin Image](./resources/Web-scraped_Skin_Image.md) | 2D Dermoscopic Images, 804 Cases, 6 Categories of Dermatology Classification                                | [Kaggle](https://www.kaggle.com/datasets/arafathussain/monkeypox-skin-image-dataset-2022)                   | 2022-08      | -           |
 | [SCIN](./resources/SCIN.md)                                     | 2D Dermoscopic Images, 10408 Cases, Skin Pathological Conditions (Appearance and Severity) Classification   | [Project Homepage](https://research.google/blog/scin-a-new-resource-for-representative-dermatology-images/) | 2023-02      | -           | 
-| [ISIC 2024 Challenge: SLICE-3D](./resources/SLICE-3D.md)        | 2D Dermoscopic Images, 401059 Cases, 2 Categories of Skin Cancer Classification                             | [Project Homepage](https://challenge2024.isic-archive.com/)                                                 | 2024-08      | ISBI'2024   |
+| [SkinCancer](./resources/SkinCancer.md)                         | 2D Pathology, 129,364 Cases, 16 Categories of Skin Pathology Image Classification                           | [Project Homepage](https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/7QCR8S)   | 2023-03      | -           |
 | [SOPHIE Spitz](./resources/SOPHIE_Spitz.md)                     | 2D Pathological Images, 61 Cases, Spitzoid Tumors Classification                                            | [Project Homepage](https://www.nature.com/articles/s41597-023-02585-2#ref-CR23)                             | 2023-10      | -           |
+| [ISIC 2024 Challenge: SLICE-3D](./resources/SLICE-3D.md)        | 2D Dermoscopic Images, 401059 Cases, 2 Categories of Skin Cancer Classification                             | [Project Homepage](https://challenge2024.isic-archive.com/)                                                 | 2024-08      | ISBI'2024   |
 | [Augmented Skin Conditions Image Dataset](./resources/ASCID.md) | 2D Dermoscopic Images, 2394 Cases, 6 Categories of Skin Lesion Image Classification                         | [Kaggle](https://www.kaggle.com/datasets/syedalinaqvi/augmented-skin-conditions-image-dataset)              | 2024-08      | -           |
 | [ISIC-2024](./resources/ISIC-2024.md)                           | 2D Dermoscopic Images, 81722 Cases, 6 or 33 Categories of Dermoscopic Images Classification                 | [Kaggle](https://www.kaggle.com/competitions/isic-2024-challenge)                                           | 2024-09      | MICCAI'2024 |
 
