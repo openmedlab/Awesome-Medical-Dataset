@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/13
+Last updated: 2025/01/14
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (52)](#retina)
   - [Skin (14)](#skin)
   - [Microscopic imaging (38)](#microscopic-imaging)
-- [Imaging and Text (33)](#Image-text-dataset)
+- [Imaging and Text (34)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -494,6 +494,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [CT-RATE](./resources/CT-RATE.md)                               | Caption, 47149 Cases                                                                                                                 | [Hugginface](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE)                                                                                                                            | 2024-03      |
 | [MedPromptX-VQA](./resources/MedPromptX-VQA.md)                 | VQA, 968 Cases QA Pair                                                                                                               | [Project Homepage](https://github.com/BioMedIA-MBZUAI/MedPromptX)                                                                                                                               | 2024-03      |
 | [HEST-1k](./resources/HEST-1k.md)                               | image-gene, 1180 Cases, Spatial transcriptomics (ST) samples                                                                         | [Github](https://github.com/mahmoodlab/hest)                                                                                                                                                    | 2024-06      |
+| [CheXpert and CheXpertPlus](./resources/CheXpert.md)            | Front and side pictures, Report Generation and Mmultimodal Understanding, 224K images and 36M text tokens                            | [Project Homepage](https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2)                                                                                        | 2024-06       |
 | [WSI-VQA](./resources/WSI-VQA.md)                               | VQA, 8672 Cases QA Pair                                                                                                              | [Github](https://github.com/cpystan/WSI-VQA/tree/master)                                                                                                                                        | 2024-07      |
 | [Medical-CXR-VQA](./resources/Medical-CXR-VQA.md)               | 2D X-Ray, 780014 Cases, LLMs specializing in chest X-ray Images                                                                      | [Github](https://github.com/Holipori/Medical-CXR-VQA)                                                                                                                                           | 2024-07      |
 | [EIT-1M](./resources/EIT-1M.md)                                 | Semantic Decoding, 1 million EEG-image-text Data Pairs, suitable for EEG Signal Decoding Tasks                                       | [Project Homepage](https://eit-1m.github.io/EIT-1M/)                                                                                                                                            | 2024-07      |
@@ -502,6 +503,8 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [EAV](./resources/EAV.md)                                       | Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data                                                     | [Github](https://github.com/nubcico/EAV)                                                                                                                                                        | 2024-09      |
 | [ML2HP](./resources/ML2HP.md)                                   | 2D Multimodal: RGB + Text, 714000 Cases, Multi-view gesture recognition                                                              | [Project Homepage](https://www.nature.com/articles/s41597-024-03968-9?_gl=1*ikljf0*_up*MQ..&gclid=Cj0KCQjwpvK4BhDUARIsADHt9sTKeJdkTiVgts02Lx7tkFajPSGA9upeXML9AePHRgmojqIZejtL75kaAktZEALw_wcB) | 2024-09      |
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 Visual Dialogues                                                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                                                                                                        | 2024-10      |
+
+
 
 </details>
 
