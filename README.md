@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/15
+Last updated: 2025/01/16
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -25,7 +25,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 - [Imaging](#Imaging)
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (55)](#head-and-neck)
-  - [Chest (41)](#chest)
+  - [Chest (42)](#chest)
   - [Abdomen (52)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (15)](#bones)
@@ -156,6 +156,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [COVIDGR](./resources/COVIDGR.md)                                             | 2D X-Ray, 852 Cases, 2 Categories Pneumonia Classification                                               | [Github](https://github.com/ari-dasci/covidgr)                                                     | 2020-12      | -                              |
 | [CMMD](./resources/CMMD.md)                                                   | 2D X-ray, 5334 Cases, 2 Categories of Breast Cancer Classification                                       | [TCIA](https://www.cancerimagingarchive.net/collection/cmmd/)                                      | 2021         | -                              |
 | [SIIM-FISABIO-RSNA COVID-19](./resources/SIIM-FISABIO-RSNA.md)                | 2D X Ray, 7597 Cases, 4 Categories of Pneumonia Classification                                           | [Kaggle](https://www.kaggle.com/competitions/siim-covid19-detection/data)                          | 2021         | -                              |
+| [WSSS4LUAD](./resources/WSSS4LUAD.md)                                         | 2D Pathological Images, 10211 Cases, 3 Categories of Lung Cancer Segmentation                            | [Grand Challenge](https://wsss4luad.grand-challenge.org/WSSS4LUAD/)                                | 2021         | ISICDM'2021                    |
 | [COVID-19 CHEST X-RAY DATABASE](./resources/COVID-19_CHEST_X-RAY_DATABASE.md) | 2D X-ray, 3886 Cases, 3 Categories of Pneumonia Classification                                           | [Project Homepage](https://www.heywhale.com/mw/dataset/6027caee891f960015c863d7/content)           | 2021-01      | -                              |
 | [Chest CT-Scan images](./resources/ChestCT-Scan_images.md)                    | 2D CT, 1000 Cases, 4 Categories of Lung Tumor Classification                                             | [Tianchi](https://tianchi.aliyun.com/dataset/93929)                                                | 2021-03      | -                              |
 | [COVID-19-CT SCAN IMAGES](./resources/COVID-19-CT_SCAN_IMAGES.md)             | 2D CT, 1400 Cases, 2 Categories of Pneumonia Classification                                              | [Tianchi](https://tianchi.aliyun.com/dataset/93666)                                                | 2021-03      | -                              |
