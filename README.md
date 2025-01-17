@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/16
+Last updated: 2025/01/17
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -26,7 +26,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Whole Body (9)](#whole-body)
   - [Head and Neck (55)](#head-and-neck)
   - [Chest (42)](#chest)
-  - [Abdomen (52)](#abdomen)
+  - [Abdomen (53)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (15)](#bones)
   - [Endoscopy (31)](#endoscopy)
@@ -229,6 +229,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [MICCAI 2023 PSFHS](./resources/PSFHS.md)                                                       | 2D Ultrasound, 5101 (4000) Cases, 2 Categories of Fetal Head and Pubic Symphysis (FH-PS) Segmentation                | [Grand Challenge](https://ps-fh-aop-2023.grand-challenge.org/)                                         | 2023-04      | MICCAI'2023                    |
 | [Kidney Stone Images with Bounding Box Annotations](./resources/KidneyStone.md)                 | 2D CT, 1300 Cases, 1 Category of Kidney Stone Detection                                                              | [Kaggle](https://www.kaggle.com/datasets/safurahajiheidari/kidney-stone-images)                        | 2023-04      | -                              |
 | [Adrenal-ACC-Ki67-Seg](./resources/Adrenal-ACC-Ki67-Seg.md)                                     | 3D CT, 57 Cases, 1 Category of Pathologically Confirmed Adrenocortical Carcinoma Segmentation                        | [TCIA](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/)                          | 2023-05      | -                              |
+| [BM-BronchoLC](./resources/BM-BronchoLC.md)                                                     | 2D Bronchoscopy, 2921 Cases, Precise Identification of Anatomical Landmarks and Airway Lesions                       | [Project Homepage](https://figshare.com/articles/dataset/BM-BronchoLC/24243670)                        | 2023-10      | -                              |
 | [AbdomenAtlas 1.0 Mini](./resources/AbdomenAtlas_Mini.md)                                       | 3D CT, 5195 Cases, 9 Categories of Abdominal Organ Segmentation                                                      | [Github](https://github.com/MrGiovanni/AbdomenAtlas)                                                   | 2024-02      | -                              |
 | [FLARE 2024 Task 1](./resources/FLARE2024_Task1.md)                                             | 3D CT, 10000 Cases, 1 Category of Whole Body Tumor Segmentation                                                      | [Codabench](https://www.codabench.org/competitions/2319)                                               | 2024-04      | MICCAI'2024                    |
 | [FLARE 2024 Task 3](./resources/FLARE2024_Task3.md)                                             | 3D MRI, 4817 Cases, 13 Categories of Abdomen Organs Segmentation                                                     | [Codabench](https://www.codabench.org/competitions/2296)                                               | 2024-04      | MICCAI'2024                    | 
@@ -236,6 +237,8 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [FedSurg](./resources/FedSurg.md)                                                               | 2D Laparoscopy, 30 Cases, 6 Categories of Laparoscopic Appendectomy                                                  | [Synapse](https://www.synapse.org/Synapse:syn53137385/wiki/625370)                                     | 2024-05      | MICCAI'2024                    |
 | [MICCAI-24 ACOUSLIC](./resources/ACOUSLIC.md)                                                   | 3D Ultrasound, 600 Cases, 3 Categories of Fetal Abdomen Waist Measurement                                            | [Grand Challenge](https://acouslic-ai.grand-challenge.org/overview-and-goals/)                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 PENGWIN Task1](./resources/PENGWIN.md)                                             | 3D CT, 100 Cases, 3 Categories of Pelvis Segmentation                                                                | [Grand Challenge](https://pengwin.grand-challenge.org/pengwin/)                                        | 2024-07      | MICCAI'2024                    |
+
+
 
 </details>
 
