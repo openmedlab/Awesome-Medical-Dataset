@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/17
+Last updated: 2025/01/20
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -23,7 +23,7 @@ Most of the original Chinese compilations of medical datasets come from [Zhihu](
 If you want to introduce or know more dataset, you are welcome to submit an issue or PR in this repo.
 
 - [Imaging](#Imaging)
-  - [Whole Body (9)](#whole-body)
+  - [Whole Body (10)](#whole-body)
   - [Head and Neck (55)](#head-and-neck)
   - [Chest (42)](#chest)
   - [Abdomen (53)](#abdomen)
@@ -43,17 +43,18 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 
 <summary> </summary>
 
-| Dataset                                                     | Description                                                                                       | Official Website                                                                                                    | Release Date | Challenge          |
-|:------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------|
-| [CT-ORG](./resources/CT-ORG.md)                             | 3D CT, 140 Cases, 6 Categories of Organ Segmentation                                              | [Github](https://github.com/bbrister/ctOrganSegmentation)                                                           | 2020         | -                  |
-| [AutoPET](./resources/Auto-PET.md)                          | 3D PET-CT, 1214 Cases, 1 Category of Whole Body Tumor Segmentation                                | [Grand Challenge](https://autopet.grand-challenge.org/), [Grand Challenge](https://autopet-ii.grand-challenge.org/) | 2022-04      | MICCAI'2022 & 2023 | 
-| [TotalSegmentator](./resources/TotalSegmentator.md)         | 3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation                                | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2022-07      | -                  |
-| [NAFLD](./resources/NAFLD.md)                               | 2D Pathological Imaging, 119828 Cases, 16 Categories of Pathological Imaging Classification       | [Project Homepage](https://osf.io/gqutd/)                                                                           | 2022-10      | -                  |
-| [TotalSegmentator V2](./resources/TotalSegmentator_v2.md)   | 3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation                                | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2023         | -                  |
-| [ULS](./resources/ULS.md)                                   | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation                                   | [Grand Challenge](https://uls23.grand-challenge.org/)                                                               | 2023-10      | -                  |
-| [TotalSegmentator MRI](./resources/TotalSegmentator_MRI.md) | 3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation                                  | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2024-05      | -                  |
-| [MedFMC](./resources/MedFMC.md)                             | 2D, 22349 Cases, 5 Tasks of Disease Classification                                                | [Github](https://github.com/wllfore/MedFMC_fewshot_baseline)                                                        | 2023-09      | -                  |
-| [MICCAI2024-AutoPETIII](./resources/AutoPETIII.md)          | 3D PET-CT, 1614 Cases, Optimizing Multi-Center, Multi-Tracer Automatic Tumor Lesion Segmentation  | [Grand Challenge](https://autopet-iii.grand-challenge.org/task/)                                                    | 2024-07      | MICCAI'2024        |
+| Dataset                                                                            | Description                                                                                      | Official Website                                                                                                    | Release Date | Challenge          |
+|:-----------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------|:-------------------|
+| [CT-ORG](./resources/CT-ORG.md)                                                    | 3D CT, 140 Cases, 6 Categories of Organ Segmentation                                             | [Github](https://github.com/bbrister/ctOrganSegmentation)                                                           | 2020         | -                  |
+| [AutoPET](./resources/Auto-PET.md)                                                 | 3D PET-CT, 1214 Cases, 1 Category of Whole Body Tumor Segmentation                               | [Grand Challenge](https://autopet.grand-challenge.org/), [Grand Challenge](https://autopet-ii.grand-challenge.org/) | 2022-04      | MICCAI'2022 & 2023 | 
+| [TotalSegmentator](./resources/TotalSegmentator.md)                                | 3D CT, 1204 Cases, 104 Categories of Whole Body Organ Segmentation                               | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2022-07      | -                  |
+| [NAFLD](./resources/NAFLD.md)                                                      | 2D Pathological Imaging, 119828 Cases, 16 Categories of Pathological Imaging Classification      | [Project Homepage](https://osf.io/gqutd/)                                                                           | 2022-10      | -                  |
+| [TotalSegmentator V2](./resources/TotalSegmentator_v2.md)                          | 3D CT, 1228 Cases, 117 Categories of Whole Body Organ Segmentation                               | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2023         | -                  |
+| [3D Lower Limb Musculoskeletal Geometry](./resources/Musculoskeletal_Geometry.md)  | 3D Lower Limb Musculoskeletal Geometry, 2 Cases, 130 Categories of Musculoskeletal Segmentation  | [Project Homepage](https://www.nature.com/articles/s41597-022-01905-2)                                              | 2023-01      | -                  |
+| [MedFMC](./resources/MedFMC.md)                                                    | 2D, 22349 Cases, 5 Tasks of Disease Classification                                               | [Github](https://github.com/wllfore/MedFMC_fewshot_baseline)                                                        | 2023-09      | -                  |
+| [ULS](./resources/ULS.md)                                                          | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation                                  | [Grand Challenge](https://uls23.grand-challenge.org/)                                                               | 2023-10      | -                  |
+| [TotalSegmentator MRI](./resources/TotalSegmentator_MRI.md)                        | 3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation                                 | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2024-05      | -                  |
+| [MICCAI2024-AutoPETIII](./resources/AutoPETIII.md)                                 | 3D PET-CT, 1614 Cases, Optimizing Multi-Center, Multi-Tracer Automatic Tumor Lesion Segmentation | [Grand Challenge](https://autopet-iii.grand-challenge.org/task/)                                                    | 2024-07      | MICCAI'2024        |
 
 </details>
 
