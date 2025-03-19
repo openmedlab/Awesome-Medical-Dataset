@@ -543,6 +543,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [RJUA-QA](./resources/RJUA-QA.md)                                                | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                | 2023         |
 | [ChineseEEG](./resources/ChineseEEG.md)                                          | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing) | 2024-03      |
 | [MedConceptsQA](./resources/MedConceptsQA.md)                                    | QA, 800K Medical concepts                                        | [Project Homepage](https://nadavlab.github.io/MedConceptsQA-website)           | 2024-09      |
+| [OpenMedText](./resources/OpenMedText.md)                                        | Text, 121,489 Medical Journals and 29 Medical Textbooks          | [HuggingFace](https://huggingface.co/datasets/ywchoi/OpenMedText)              | 2025-03      |
 
 </details>
 
