@@ -55,6 +55,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [ULS](./resources/ULS.md)                                                          | 3D CT, 38842 Cases, 1 Category of Whole Body Tumor Segmentation                                  | [Grand Challenge](https://uls23.grand-challenge.org/)                                                               | 2023-10      | -                  |
 | [TotalSegmentator MRI](./resources/TotalSegmentator_MRI.md)                        | 3D MR, 298 Cases, 56 Categories of Whole Body Organ Segmentation                                 | [Github](https://github.com/wasserth/TotalSegmentator)                                                              | 2024-05      | -                  |
 | [MICCAI2024-AutoPETIII](./resources/AutoPETIII.md)                                 | 3D PET-CT, 1614 Cases, Optimizing Multi-Center, Multi-Tracer Automatic Tumor Lesion Segmentation | [Grand Challenge](https://autopet-iii.grand-challenge.org/task/)                                                    | 2024-07      | MICCAI'2024        |
+| [LesionLocator](./resources/LesionLocator-LongitudinalCT.md)                                      | 3D CT, 5,304 Cases, Instance-Tracked Tumor Segmentation & Synthetic Follow-Ups          | [GitHub](https://github.com/MIC-DKFZ/LesionLocator) | 2025-03      | CVPR'2025          |
 
 </details>
 
