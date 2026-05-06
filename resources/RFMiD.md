@@ -94,7 +94,7 @@ Publication Date: 2023-01
 ## Citation
 
 ``` 
-Article{data8020029,
+@Article{data8020029,
 AUTHOR = {Panchal, Sachin and Naik, Ankita and Kokare, Manesh and Pachade, Samiksha and Naigaonkar, Rushikesh and Phadnis, Prerana and Bhange, Archana},
 TITLE = {Retinal Fundus Multi-Disease Image Dataset (RFMiD) 2.0: A Dataset of Frequently and Rarely Identified Diseases},
 JOURNAL = {Data},

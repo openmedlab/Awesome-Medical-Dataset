@@ -127,7 +127,7 @@ Publication Date: 2020
 ## Citation
 
 ``` 
-article{ma2021rose:,
+@article{ma2021rose:,
   title={ROSE: a retinal OCT-angiography vessel segmentation dataset and new model},
   author={Ma, Yuhui and Hao, Huaying and Xie, Jianyang and Fu, Huazhu and Zhang, Jiong and Yang, Jianlong and Wang, Zhen and Liu, Jiang and Zheng, Yalin and Zhao, Yitian},
   journal={IEEE Transactions on Medical Imaging},
