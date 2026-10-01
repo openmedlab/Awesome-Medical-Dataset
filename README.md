@@ -572,6 +572,7 @@ You can search for more medical datasets not included in this project on these w
 - [CodaLab](https://codalab.lisn.upsaclay.fr/): An open-source web-based platform that enables researchers, developers, and data scientists to collaborate, with the goal of advancing research fields where machine learning and advanced computation is used.
 - [Tianchi (Chinese)](https://tianchi.aliyun.com/dataset): Tianchi is a developer competition platform under Alibaba Cloud.
 - [OpenDataLab (Chinese)](https://opendatalab.com/): China Big Model Corpus Data Alliance open source data service designated platform, provides high-quality open data sets for large models.
+- [BoneHub Public Datasets](https://bonehub.github.io/Public-Datasets/): A Guide for finding 3D bone shapes and medical image datasets
 
 ## Evaluation Benchmark
 Noted: Many of the datasets collected in this project are benchmarks on the data platform. This section collects comprehensive benchmarks specifically used to evaluate model performance.
