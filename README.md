@@ -542,6 +542,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [MedBench](./resources/MedBench.md)                                              | QA, 113K Cases QA Pair                                           | [Project Homepage](https://medbench.opencompass.org.cn/)                       | 2023-12      |
 | [RJUA-QA](./resources/RJUA-QA.md)                                                | QA, 213 Cases QA Pair                                            | [Github](https://github.com/alipay/RJU_Ant_QA/)                                | 2023         |
 | [ChineseEEG](./resources/ChineseEEG.md)                                          | Semantic Decoding and Matching, 25 Phases and 115,233 Characters | [Github](https://github.com/ncclabsustech/Chinese_reading_task_eeg_processing) | 2024-03      |
+| [TFDR](./resources/TFDR.md)                                                      | English Biomedical NLP, 740 Abstracts, 6,211 Formula Mentions and 1,109 Relationships | [Github](https://github.com/KIOM-AIDoc/TFDR)                                   | 2025-01      |
 | [MedConceptsQA](./resources/MedConceptsQA.md)                                    | QA, 800K Medical concepts                                        | [Project Homepage](https://nadavlab.github.io/MedConceptsQA-website)           | 2024-09      |
 
 </details>
