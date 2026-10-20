@@ -27,7 +27,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Head and Neck (55)](#head-and-neck)
   - [Chest (43)](#chest)
   - [Abdomen (53)](#abdomen)
-  - [Heart (14)](#heart)
+  - [Heart (15)](#heart)
   - [Bones (15)](#bones)
   - [Endoscopy (33)](#endoscopy)
   - [Retina (52)](#retina)
@@ -265,6 +265,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [MICCAI 2024 CARE MyoPS++](./resources/CARE_MyoPS++.md)  | 3D CMR, 2741 Cases, 5 Categories of Myocardial Lesion Segmentation                             | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 CARE WHS++](./resources/CARE_WHS++.md)      | 3D CT/CTA, 206 Cases, 1 Category of Whole heart segmentation                                   | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
 | [MICCAI 2024 CARE LAScarQS++](./resources/LAScarQS++.md) | 3D LGE MRI, 194 Cases, 3 Categories of Left Atrial Cavity Segmentation and Scar Quantification | [Project Homepage](http://zmic.org.cn/care_2024/track4/)                                                                         | 2024-05      | MICCAI'2024                    |
+| [EchoXFlow](./resources/EchoXFlow.md) | 1D/2D/multiplane/3D cardiac ultrasound and Doppler with ECG; 35,377 recordings / 666 examinations; contours, meshes and measurements | [Hugging Face](https://huggingface.co/datasets/Ahus-AIM/EchoXFlow) | 2026 | — |
 
 </details>
 
