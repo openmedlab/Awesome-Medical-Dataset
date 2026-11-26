@@ -33,7 +33,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
   - [Retina (52)](#retina)
   - [Skin (14)](#skin)
   - [Microscopic imaging (38)](#microscopic-imaging)
-- [Imaging and Text (34)](#Image-text-dataset)
+- [Imaging and Text (35)](#Image-text-dataset)
 - [Text (18)](#Text-dataset)
 
 ### Imaging
@@ -513,6 +513,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [EAV](./resources/EAV.md)                                       | Emotion Recognition, includes 30 channels of EEG, Audio and Video Recording Data                                                     | [Github](https://github.com/nubcico/EAV)                                                                                                                                                        | 2024-09      |
 | [ML2HP](./resources/ML2HP.md)                                   | 2D Multimodal: RGB + Text, 714000 Cases, Multi-view gesture recognition                                                              | [Project Homepage](https://www.nature.com/articles/s41597-024-03968-9?_gl=1*ikljf0*_up*MQ..&gclid=Cj0KCQjwpvK4BhDUARIsADHt9sTKeJdkTiVgts02Lx7tkFajPSGA9upeXML9AePHRgmojqIZejtL75kaAktZEALw_wcB) | 2024-09      |
 | [ColonINST-v1](./resources/ColonINST-v1.md)                     | VQA, 450,724 Visual Dialogues                                                                                                        | [Github](https://github.com/ai4colonoscopy/IntelliScope)                                                                                                                                        | 2024-10      |
+| [Lab Report Corpus](./resources/Lab-Report-Corpus.md)           | OCR / Extraction, 4,000 Synthetic Lab Reports as PDF, Scan and Photo, 165,538 Answer-keyed Results                                   | [Hugging Face](https://huggingface.co/datasets/lifefrom/lab-report-corpus)                                                                                                                      | 2026-11      |
 
 
 
